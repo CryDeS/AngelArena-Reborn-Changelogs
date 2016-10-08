@@ -1,0 +1,318 @@
+5.0 Optimization
+ Added:
+ -Abyssal Underlord. All skills upped(some skills nerfed)
+ -Linken Sphere 2 (2x Linken Sphere 1 + Recipe 1250g)
+ -Crimson Guard 2 (2x Crimson Guard 1 + Recipe 7200g)
+ -Heaven's Halberd 2 (2xHeaven's Halberd 1 + Recipe 2500g)
+ 
+ Hero changes:
+ -Spike ultimate changed. New skill:
+	-Conclusion: Spike purge all negative effects and gets in madness. In madness spike has refreshed all skills and items, but following usage will cause multiple ability or item cooldown. Passive - Spike gets bonus attack per every killed enemy unit.
+ -Satan reworked, new skills:
+	-Breath of Devil: Satan burns all enemies in front of him. Damage multipler if enemy is creep. While duration of skill Satan can't attack.
+	-Satan's Might: Every attacker can get damage back(just magical damage, not attack) and get into stun.
+	-Bloody Trade: Hero trade part of him health for additional attack.
+	-Painkiller: Satan for a short time can absorb percent of incoming damage and regenerate.
+	-Curse of Devil: Satan curses enemy, slow enemy for all speed, disable passive and active abilities. Also disarm target.
+ -Lich 3 skill mechanics, name, icon changed:
+	-Frost Life: Lich steal life on each hit. On activation to ally allows him too steal life on each hit.
+ -Joe Black 2 skill changed:
+	-Protection: Joe Black blesses ally, purge all negatives effects and decrease incoming damage for a time.
+ -Hola ultimate changed:
+	-Hola Rescure: Hola save all allies in radius for a short time.
+	
+ Upped:
+ -Weaver 3 skill cooldown nerfed on last level (1.0 -> 0.75)
+ -Ember spirit 2 skill damage to hero increased(1500dmg on last level)
+ -Ember spirit ultimate damage increased(1000 dmg on last level)
+ -Tuskar ultimate crit damage increased(2000% on last level now)
+ -Ancient Apparation 3 skill attack count increased on last level(9 -> 12)
+ -Necrophos 1 skill heal upped
+ -Wisp 2 skill now deal percent damage from max health
+ -Batrider ultimate damage upped 200 -> 300
+ -Bristleback 2 skill damage upped on start levels
+ -Jakiro ultimate percent damage upped 1% -> 2%
+ -Axe battle hunger percent damage per second increased 0.5% -> 1.0%
+ -Techies ultimate percent damage 2% -> 15%
+ -Batrider 1 skill damage increased(185 -> 325)
+ -Tusk 1 skill percent damage increased 7% -> 10%
+ -Phanthom lancer illusions damage increased, incoming damage decreased
+ -Visage 2 skill increased damage, ultimate cd decreased, familiar damage little nerfed
+ -Phantom Assassin BAT increased 1.7 -> 1.65
+ -Phantom Lancer 1 skill damage upped 7% -> 10%
+ -Bloodseeker 3 skill damage on last level upped
+ -Spike 2 skill heal greatly upped
+ -Lich chain frost percent damage upped 10% -> 25%
+ -Hola 2 skill damage reduce 56%
+ -Visage 2 skill damage limit decreased 220 -> 100
+ -Jakiro 3 skill damage increased
+ -Axe 1 skill armor on last levels increased
+ -Leshrack 3 skill percent damage increased 3% -> 7%
+ -Leshrack ultimate percent damage upped 2% -> 7%
+ -Centaur Warrunner 1 skill damage increased
+ -Lich 1 skill damage increased 
+ -Lich 2 skill armor increased, slow attack speed increased 
+ -Beastmaster passive increased radius(1000 -> 1200), grealty increased attack speed
+ -Lich ultimate damage increased
+ -Nightstalker 2 skill night misses increased percent
+ -Spectre desolate damage increased
+ -Venomancer plague ward level between upgrades now 8( old 10 )
+ -Trinity stats increased
+ -Alchemist 1 skill damage increased, disarmor increased
+ -Trinity 1 skill upped damage, damage decrease to enemy.
+ -Brewmaster 1 skill damage upped(680 -> 700)
+ -Magnus ultimate damage greatly upped
+ -Jakiro 3 skill upped percent damage 0.2% -> 1%
+ -Tiny 1, 2 skill damage upped, 3 skill upped bonus armor and chance.
+ -Templar Assassin BAT upped 1.2 -> 1.1
+ -Dazzle 3 skill now heal from max health and deal damage from max health
+ -Juggernaut 3 skill crit damage upped(250% -> 340%)
+ -Kajind 1 skill incoming damage on last level now 5%( old 10% )
+ -Kajind ultimate damage, movespeed, armor upped
+ -Magnus 2 skill level between upgrades now 4 ( old 5 )
+ -Ancient Apparation 1 skill damage little upped, manacost now on all levels 100
+ -Ember spirit 3 skill percent damage increased 0.8% -> 1.0%
+ -Dark Seer ion shell now deal percent damage 
+ -Night Stalker 1 skill(Void) now deal percent damage
+ -Bounty Hunter shuriken now deal percent damage
+ -Nightstalker str per level increased, str increased, agi per level decreased, movespeed decreased.
+ -Dazzle ultimate upped, 3 skill upped
+ -Kingscrab BAT upped 1.2->1.15, stats upped
+ -Alchemist 2 skill cast time now 3 sec, exlposion time 3.5sec. Damage increased
+ -Wraith King starting stats upped
+ -Silencer 1 skill damage pct increased(0.8% -> 1.2%)
+ -Silencer 2 skill damage upped(30% -> 35%)
+ -Tidehunter 1 skill upped damage
+ -Faceless Void 1 skill damage time inreased 1.0s -> 1.5s
+ -Reaver Lord ultimate damage upped, cooldown decreased.
+ -Tidahunter ultimate damage greatly upped, stun duration on 1 and 2 levels increased.
+ -Timbersaw 1, 2, 4 skill damage increased
+ -Elder Titan 1 skill and 2 skill damage upped
+ -Abaddon BAT upped 1.45 -> 1.35
+ -Timber ultimate percent damage upped 1% -> 2%
+ -Slark 1 skill cooldown decreased (7s -> 6s)
+ -Slark 2 skill cooldown decreased(8s -> 7s)
+ -Slark 3 skill level between upgrades now 4 (old 5)
+ -Clinkz ultimate duration upped to 24sec.
+ -Abaddon 2 skill upped damage consume
+ -Nature Prophet new skill BAT increased(0.4 -> 0.2)
+ -Razor 2 skill greatly upped damage steal
+ -Tinker 2, 3 skill damage upped
+ -Razor 3 skill damage greatly upped
+ -Broodmother 3 skill miss chance upped 
+ -Broodmother ultimate damage and lifesteal upped
+ -Death Prophet 1 skill upped
+ -Ogre Magi 1, 2, agh skills upped damage
+ -Crystal Maiden 3 skill upped manaregen
+ -Clinkz 2 skill levels between upgrade decreased to 6 (old 8)
+ -Death Prophet ultimate now have chance to deal magical damage(50% from physical damage)
+ -Broodmother spiders now have ability that deal 50% of them damage in magical damage.
+ -Phoenix 1 skill cooldown decreased
+ -Tidehunter BAT upped(1.4 -> 1.2)
+ -Treant Protector ultimate percent damage now deal damage of max health
+ -Pudge 2 skill percent damage now deal damage of max health
+ -Techies 1 skill, ult percent damage now deal damage of max health
+ -Techies 1 & 3 skill now deal pure percent damage
+ -Lion ult percent damage now deal damage of max health
+ -Lina ult percent damage now deal damage of max health
+ -Sniper 1,4 skill percent damage now deal damage of max health
+ -Axe 2 skill percent damage now deal damage of max health
+ -Lich ult percent damage now deal damage of max health
+ -Chen 2 skill percent damage now deal damage of max health
+ -Juggernaut 1 skill percent damage now deal damage of max health
+ -Pudge 1 skill percent damage now deal damage of max health
+ -Beastmaster 4 percent damage now deal damage of max health
+ -Visage 2 skill percent damage now deal damage of max health
+ -Crystam Maiden 4 percent damage now deal damage of max health
+ -Sandking epicenter percent damage now deal damage of max health, but level between upgrade now 7
+ -Ogre Magi fireblast's percent damage now deal damage of max health
+ -Dark seer 1 skill percent damage now deal damage of max health
+ -Shadow Shaman 1 skill percent damage now deal damage of max health
+ -Clockwerk 1 skill percent damage now deal damage of max health
+ -Winter Wyvern 2 skill percent damage now deal damage of max health
+ -Windranger 2 skill percent damage now deal damage of max health
+ -Oracle 1 skill percent damage now deal damage of max health
+ -Leshrack 3,4 skill percent damage now deal damage of max health
+ -Kotl 1 skill percent damage now deal damage of max health
+ -Jakiro 1, 2, 4 skill percent damage now deal damage of max health
+ -Phanthom Lancer 1 skill percent damage now deal damage of max health
+ -Pugna ultimate percent damage upped 1% -> 3%
+ -Batrider 4 skill percent damage now deal damage of max health
+ -Naga Siren 3 skill percent damage now deal damage of max health
+ -Ember Spirit 1, 3 skill percent damage now deal damage of max health
+ -Bloodseeker 2 skill percent damage now deal damage of max health
+ -Tusk 1, 2 skill percent damage now deal damage of max health
+ -Darkseer 2 skill percent damage now deal damage of max health
+ -Timbersaw ultimates percent damage now deal damage of max health
+ -Kunkka ultimate percent damage now deal damage of max health
+ -Pugna 1, 3, 4 skill percent damage now deal damage of max health
+ -Silencer 1 skill percent damage now deal damage of max health
+ -Troll 2 skill's percent damage now deal damage of max health
+ -Spirit Breaker 3, 4 skill percent damage now deal damage of max health
+ -Zuus ultimate(now static field work on max health on any distance with ultimate)
+ -Centaur 1, 4 skill percent damage now deal damage of max health
+ -Undying 1, 2 skill percent damage now deal damage of max health
+ -Luna 1, 4 skill percent damage now deal damage of max health
+ -Batrider 3 skill percent damage now deal damage of max health
+ -Jakiro 3 skill percent damage now deal damage of max health
+ -Dragon Knight ultimate percent damage now deal damage of max health
+ -Oracle 3 skill percent damage now deal damage of max health
+ -Reaver Lord 1 skill now deal percent damage of max health(old percent damage of current health)
+ -Troll Warlord 3 skill upped damage on last level(15 -> 20)
+ -Rikimaru 2 skill damage little upped 
+ -Morphling 3/4 skill now require level 3(old 4) and have standart level between updates.
+ -Razor 1 skill upped damage
+ -Phanthom Assassin 2 skill manacost now on all levels 80
+ -Legion Commander ultimate upped damage
+ -Troll Warlord ultimate upped
+ -Bounty Hunter BAT upped 1.4 -> 1.3, stats upped 
+ -Shadow Shaman 3 skill damage upped
+ -Lifestealer 2 skill damage percent to boss increased
+ -Broodmother spiders, Warlock golems, lycan wolfs now have new skill that deal 50% of them attack into magical attack
+ -Enigma eidelons, brewmaster, ultimate spirits, witch doctor, trinity hawk too have this skill.
+ -KotL 3 skill upped mana restore
+ -Axe 3 skill require level 3, levels between upgrades 5
+ -Earthshaker ultimate upped damage
+ -Gyrocopter stats upped
+ -Gyrocopter all skills upped
+ -Ursa 2 skill cast point now 0.0sec
+ -Slardar ultimate percent disarmor upped to 81%
+ -Naga Siren 3 skill cooldown 16s -> 12s
+ -Death Prophet Spirit siphon level between upgrades now 6( old = 8 )
+ -Luna BAT upped 1.4 -> 1.3
+ -Sniper and Gun Joe passives now have more damage to bosses(old decrease damage/4 now decrease damage/3)
+ -Weaver BAT upped 1.4 -> 1.3
+ -Alchemist ultimate BAT on last level 0.8
+ -Viper upped BAT 1.5 -> 1.2, stats upped
+  
+ Nerfed:
+ -Shadow Fiend Presence of the Dark Lord nerfed(now percent disarmor is "15 18 20 22 25 27 30")
+ -Slardar ultimate casttime increased(0.35 -> 1.2), ultimate duration nerfed(25sec -> 5sec)
+ -Slardar 2 skill nerfed damage(700 on last level now), radius
+ -Weaver 1 skill levels between upgrades upped(3 -> 5)
+ -Elder titan 3 skill decreased disarmor(76% -> 68% on last level)
+ -Reaver Lord 2 skill blink distance nerfed
+ -Alchemist 1 skill radius decreased
+ -Batrider 1 skill max stacks decreased ( 24 -> 10 )
+ -Phantom lancer illusions count decreased( 14 -> 7 )
+ -Phantom Assassin nerfed stats.
+ -Reaver Lord start stats nerfed
+ -Tiny 1 skill AOE nerfed
+ -Lion 2 skill duration decreased (6.0 sec -> 4.2 sec)
+ -Brewmaster 2 skill level between upgrades now 5, durations on creeps now 6 sec
+ -Batrider 1 skill level between upgrades now 4
+ -Treant Protector 3 skill nerfed
+ -Spike 1 skill nerfed damage
+ -Drow Ranger 2 skill knockback duration on all levels now 0.6sec.
+ -Brewmaster 3 skill cooldown now 120sec.
+ -Jakiro 1 skill damage decreased 
+ -Dazzle ultimate level between upgrade now 9(old = 8)
+ -Tidehunter 1 skill with scepte cooldown increased(5.0s -> 10.0s), AOE radius nerfed(300 -> 250)
+ -Tidehunter ultimate cooldown increased(160s on all levels now)
+ -Timbersaw 3 skill nerfed on start levels 
+ -Alchemist 2 skill radius nerfed
+ -Nature Prophet new skill now dont give magic immune. 
+ -Amaliels Cuirass bonus armor decreased(35 -> 25)
+ -Techies 1 skill now dela 5% percent damage(old 10%)
+ -Beastmaster ultimate percent damage decreased(35% -> 22%)
+ -Kunkka ultimate damage on last level nerfed
+ -Spirit Breaker percent damage nerfed (20% -> 10%)
+ -Static amulet damage nerfed (16% -> 12%)
+ -Reaver Lord 2 skill now blink on 100range per 1 soul
+ -Troll Warlord 2 skill percent damage nerfed(10% -> 7%)
+ -Treant Protector 3 skill cooldown increased, and duration decreased. 
+ -Treant Protector ultimate with agh skill now have cooldown 22sec(old 15sec)
+ -Shadow Shaman 1 skill damage nerfed (15% -> 8%)
+ -Gold per streak nerfed
+ -Phanthom Assassin 2 skill cooldown increased(on start levels)
+ -Naga Siren nerfed ultimate
+ -Duel exp nerfed(200per min -> 199 per min)
+ -Naga Siren 3 skill percent damage nerfed (15% -> 10% )
+ -Slardar 2 skill percent damage decreased 
+ -Lycan 1 skill now have levels between upgrades 3
+ -Techies 2 skill casttime increased 1.0 -> 1.5
+ 
+ Fix:
+ -All percent skills that dont aplify now dont show it in tooltip.
+ -Creeps now dont purge smokes when take damage.
+ -Califax 1 skill fix
+ -Duel now can't be crashed when somebody change hero.
+ -All phase boots now have shared cooldown.
+ -Lifestealer now drops out of creep when duel starts.
+ -Oracle 3 skill now dont denie friendly units.
+ -Bug with 0 skill points on 1 lvl
+ -KotL spirit form now too deal percent damage
+ -You now can't control enemy units.
+ -You now can't get gold by denie allies.
+ -Blocking hero for picking bug fix.
+ -Heroes that abandone game now can be picked.
+ -Slardar ultimate fix.
+ -Meepo now gets phase boots 4(but for 2,3 levels meepo clones get 1 level of boots).
+ -Arc Warden tempest double(unit) can't use recovery orb.
+ -Spell amplify disabled on joe black 1 skill, abaddon 1 skill.
+ -Spell amplify disabled on enigma black hole.
+ -Templar Assassin ultimate trap now doenst work with static amulet.
+ -Static amulet now not purgable.
+ -Static amulet and slice of static mechanics optimized
+ -Kunkka 1 skill fixed
+ -All skills with max health damage now have normal localization.
+ -Game crash with pudge
+ -Localization of phase boots 2, 3 and Reverse item fix
+ -Snake boots now dont teleport to youself
+ -Lightning flash now reacts on damage > 10 
+ -Shadow Fiend dark lord aura now works with spell immune enemies
+ -Rubick can't use tether on wisp
+ -Gun Joe and Sacred blades(now % mana burn dont deal damage when hero affected by 1 skill)
+ -Death Prophet abilities count fix
+ -Undying zombies now too change team(brains?)
+ -Heroes that gods now can be created in lobby with cheats by '-createhero <hero_name>'
+ -Localization fix of duel messages(for eng-version)
+ -Timberult fix percent damage
+ -Dota crash with nyx assassin 3 skill and blademail
+ -Shadow Fiend disarmor passive now disables with passive-disable items and abilities
+ -Spike 3 skill tooltip fix
+ -Meepo cloning fix
+ -Lycan 1 skill cooldown and casttime fix
+ 
+ Other changes:
+ -Map 10x10 changed.
+ -Select killimit colors changed.
+ -Troll Warlord 2 skill's now deal 1/2 damage to bosses( old 1/4 )
+ -Bane 2 skill damage to bosses now 1/4(old 1/10)
+ -Drums of Endurance upped stats 
+ -Rinq of Aquila upped stats
+ -Hero change guardian health decreased 180k -> 90k, magical resist decreased 75% -> 65%
+ -Juggernaut 1 skill now deal 1/2 damage to bosses(old 1/4 damage)
+ -Diffusial Blades 3 now have cooldown 4sec(old 8sec.)
+ -Ursa 2 skill and Califax 2 skill now works on bosses in half-power.
+ -Mjollnir 2 recipe cost decreased 1600 -> 600
+ -Iron Talon damage to creep increased (40% -> 75%), bonus armor increased 2 -> 4
+ -Faerie fire hp restore increased 75 -> 150
+ -Power Treads 3 cost upped 7750 -> 9750
+ -Ursas(creeps) changed skill to troll ensnare.
+ -Weaver 1 skill now again works on bosses
+ -Armlet 2 upped stats
+ -Soul Vessel now can be shared with team.
+ -Optimization code and interface work(deleted old interfaces, many old images too deleted).
+ -Snake boots now can't teleport you to target dummy.
+ -Rebels Sword now require recipe(1000 gold)
+ -Dazzle ultimate now purges on duel
+ -Azrael Crossbow crit damage upped(240% -> 300%)
+ -Angels Desolators recipe cost upped(0 -> 4000)
+ -Burning blades now require 1 angels desolators 
+ -Burning blades recipe cost upped (0 -> 3000)
+ -Pipe of Insight upped barrier(400dmg -> 900dmg)
+ -Tome of Hero(lvlup) cost increased 1000 -> 1200
+ -Reverse damage decreased 1450 -> 1150
+ -Demons fury disarmor nerfed 56 -> 46
+ -Burning book disarmor nerfed 50 -> 40
+ -Guardian Greaves stats upped(heal, armor, regen)
+ -Aegis of Immortal now can be used(passive for reincarnation)
+ -Angels Sword shield duration upped(2.5s -> 3.5s)
+ -Holy book now dont decrease damage
+ -Charon Scepter now purge debuffs
+ -In game help now can be watched all custom items 
+ -Items from bossess can be showed in shop now.
+ -Static amulet require 2 slice of static(3 old), recipe cost increased 7000 -> 10000
+ -Amaliels cuirass recipe cost upped (4550 -> 7550)
+ -Tranquil Boots stats upped. Break time now 5sec.
