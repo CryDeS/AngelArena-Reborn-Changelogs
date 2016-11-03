@@ -1,0 +1,121 @@
+5.1.4v2 Intermediate Rebalance 
+Hero changes:
+ Gun Joe:
+  - 2 skill now deal full damage to bosses.
+  
+ Shadowsong:
+  - 2 skill now deal percent damage of max health, also spell amplify on this skill disabled
+  - 3 skill level between upgrades increased to 5
+  - 4 skill duration decreased from "30 40 50 60 70 80 90" to "30"
+  - 4 skill now gives percent damage "20% 30% 40% 50% 60% 70% 80%"
+  
+ Shadow Fiend: 
+  - 5 skill disarmor decreased "-3 -6 -8 -10 -14 -16 -18" to "-1 -2 -3 -4 -5 -6 -8"
+  
+ Outworld Devouver: 1 skill level between upgrades increased to 5
+  - 1 skill level between upgrades increased to 5
+  - 1 skill ilussion damage increased from "100 200 300 400 500 600 700" to "300 400 500 550 600 650 700"
+  - 1 skill damage from intellect increased from "1 1.2 1.5 1.7 1.9 2.2 2.5" to "1.9 2.0 2.1 2.2 2.3 2.4 2.5"
+  
+ Arc Warden:
+  - 3 skill radius decreased from 750 -> 450 
+ 
+ Kunkka:
+  - 1 skill delay changed from "0.5 0.4 0.4 0.3 0.2 0.1 0.1" to "0.3"
+  
+ Tinker:
+  - 3 skill level between upgrades now 3 
+  - 4 skill channel time changed from "3 2 1.5 1.2" to "3 2 1.5 1.0"
+  - 4 skill manacost changed from "125 225 425 650" to "155 285 525 750"
+  
+ Timbersaw:
+  - 1 skill stat loss changed "15 20 25 30 35 40 45" -> "18 20 22 25 28 30 33"
+  
+ Phanthom assassin;
+  - 5 skill(ultimate) damage multipler changed "230 360 480 540 680 720 760" -> "230 360 420 480 580 620 650"
+ 
+ Brewmaster:
+  - 3 skill cooldown time now 20 second 
+  - 3 skill damage multipler changed "200 280 320 350 380 400 450" -> "150 180 220 280 320 340 350"
+  
+ Tusk:
+  - Ultimate damage multipler changed "420 580 720 910 1000 1200 1400" -> "420 550 620 680 720 760 820"
+  
+ Batrider:
+  - 3 skill damage changed from "25 30 35 40 55 60 70" to "25 28 31 34 38 42 52"
+  
+ Rubick:
+  - 1 skill stun duration for main target changed "1.5 1.75 2.0 2.25 3.25 4.25 5.25" -> "1.9 2.15 2.3 2.45 2.65 2.85 3.25"
+  
+ Wraith King:
+  - 3 skill damage to hero from "150 200 220 260 280 360 420" to "150 200 220 240 260 280 300"
+  - 3 skill damage to creep from "200 300 400 500 600 700 800" to "200 300 330 360 390 420 450"
+  
+ Lifestealer:
+  - 2 skill damage changed from "3.0 3.5 4.5 5.5 6.0 7.5 8.0" to "2.4 2.8 3.0 4.5 5.8 6.5 7.5"
+ 
+ Gyrocopter:
+  - 1 skill damage changed from "7 17 24 44 62 82 125" to "7 15 22 38 52 72 105"
+  - 3 skill attack count changed from "5 6 7 8 9 10 12" to "4 5 6 7 8 9 10"
+  - 4 skill damage first changed from "450 450 550 820 1200 1810 2880" to "350 450 550 720 820 1010 1080"
+  - 4 skill damage second changed from "200 250 300 350 700 1200 1800" to "200 250 300 350 450 600 800"
+  - 4 skill slow first increased 30% -> 40%
+  
+Item changes:
+ Potion immune:
+  - Duration decreased from 5 seconds to 4 seconds
+  - Cost increased from 150 gold to 250 gold
+ 
+ Armlet 2:
+  - Health drain changed "40 300 600" -> "40 220 600"
+  
+ Mjollnir 2:
+  - Attack speed bonus changed from "180" to "150"
+  
+ Angels Greaves:
+  - Armor changed from "10" to "2"
+  - Armor in aura changed from "4" to "12"
+  
+ Reverse:
+  - Damage bonus changed from "1150" to "920"
+  
+ Burning Book:
+  - Damage bonus changed from "750" to "650"
+  
+ Demons fury:
+  - Damage bonus changed from "825" to "675"
+  
+ Pets:
+  - Hulk cost changed 22.000gold -> 20.000gold
+  - Mage cost changed 24.000gold -> 21.000gold 
+  - Wolf cost changed 25.000gold -> 22.000gold
+  
+ Shiva:
+  - Shiva blast damage changed from 450 to 250 
+  
+ Soul ring:
+  - Health sacriface changed from 150 to 280 
+ 
+ Helm of Dominator:
+  - Bonus damage changed from 45 to 30
+ 
+ Ring of Aquila:
+  - Bonus damage changed from 16 to 14 
+  - Bonus agility changed from 14 to 12 
+  
+ Drums of Endurance:
+  - Bonus intellect changed from 15 to 14 
+  - Bonus damage changed from 25 to 20 
+  - Bonus health regen changed from 8 to 6
+  - Bonus aura attack speed percent changed from 50% to 30 %
+  - Bonus attack speed percent changed from 25% to 22%
+  - Bonus movespeed pecrent changed from 50% to 35%
+  
+Other changes:
+ - Deleted old unused code
+ 
+Fix:
+ - Monkery King bar, Possessed sword, Kings Bar bash now work correctly
+ - Troll warlord 3 skill fixed work
+ - Infused Raindrop charges count fix
+ - Linken Sphere 2 fix buying
