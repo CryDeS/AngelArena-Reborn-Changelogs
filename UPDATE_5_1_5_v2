@@ -1,0 +1,63 @@
+5.1.5_v2 
+
+Hero Changes:
+ Slark:
+ - 1 skill damage changed from 80/110/225/400/550/620/720 to 100/120/225/400/550/620/680
+ 
+ Pudge:
+ - 1 skill damage with scepter changed from 220/360/470/610/700/820/1000 to 160/280/360/450/500/540/650
+ - 1 skill damage changed from 120/260/370/510/600/720/850 to 120 180 260 350 400 440 550
+ - 2 skill now dont damage pudge
+ 
+ Vengeful spirit:
+ - Start health changed from 600 to 200 
+ - Aghanim Illusion take damage changed from 150% to 100%
+ 
+ Nyx Assassin:
+ - 1 skill with aghanim stun cooldown duration changed from 7.0 to 13.0
+ - 3 skill stun duration changed from 1.0/1.2/1.8/2.2/2.4/2.5/2.6 to 1.0/1.2/1.6/1.8/1.9/2.0/2.2
+ - Ultimate damage changed from 320/400/550/900/1600/2000/2400 to 250/320/380/500/600/850/1200
+ 
+ Ogre Magi:
+ - Ogre Magi ultimate bloodlust cooldown decrease changed from 5/10/15/20/20/20/20 to 5/7/10/12/14/16/20
+ - Ogre magi ultimate fireblast cooldown decrease changed from 2/4/6/6/6/6/6 to 1/2/3/4/5/5/6
+ 
+ Spike:
+ - Ultimate require level changed from 9 to 12 
+ 
+ Puck:
+ - 3 skill duration changed from 0.75/1.50/2.25/2.5/2.9/3.25/3.8 to 1.0/1.5/1.9/2.0/2.1/2.2/2.5
+ 
+ Oracle:
+ - 2 skill duration changed from 3.0/3.5/4.0/4.5/5.0/6.0/7.0 to 3.0/3.5/4.0/4.5/5.0/5.5/6.0
+ - 3 skill heal changed from 99/198/297/396/585/702/900 to 99/198/297/396/420/480/600
+ 
+ Dazzle:
+ - 2 skill duration changed from 5/5.5/6/6.5/7/7.5/8 to 5/5.5/5.8/6.0/6.2/6.5/6.8
+ - 3 skill damage changed from 100/120/160/260/320/410/510 to 180/200/260/360/420/520/660
+ 
+ Techies:
+ - 3 skill now deal damage from 50% to 35% and now its damage from maximal health
+ 
+ Enigma:
+ - 3 skill damage nerfed from 50/80/125/170 to 34/45/65/85
+ 
+ Batrider:
+ - 1 skill level between upgrades now standart (old 4 )
+ - 1 skill damage changed from 10/25/45/85/125/285/325 to 10/12/22/30/35/55/65 
+ 
+ Clockwerk:
+ - 3 skill damage changed from 120/180/240/320/480/650/720 to 100/150/220/280/360/520/620
+ 
+Items changed:
+ - Tango heal changed from 450 to 350
+ - Tango heal from ward changed from 900 to 700
+ - Tranquil Boots regen changed from 25 to 22
+ - Healing Salve health regen changed from 1200 to 900
+
+Changes:
+ - When enemy team doesnt have heroes game will not end.
+ - Abaddon 1 skill now dont damage percents to self
+ 
+Fix:
+ - Ogre magi aghanim skill fix manacost
