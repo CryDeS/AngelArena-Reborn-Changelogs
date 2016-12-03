@@ -6,10 +6,104 @@ Hero Changes:
  - 1 skill damage changed from 100/200/250/300/400/600/1400 to 100/150/250/300/350/400/540
  - 1 skill heal changed from 100/200/250/300/400/600/1400 to 100/150/250/300/350/400/540
  
+ Shadowsong:
+ - 2 skill damage changed from 30/40/60/90/140/180/220 to 30/40/60/90/140/180/200
+ 
+ Weaver:
+ - 1 skill level between upgrades now default
+ - 1 skill damage changed from 20/30/40/50/60/70/80 to 20/22/25/27/30/35/40
+ - 2 skill cooldown changed from 12.0/11.0/10.0/9.0/8.0/7.0/6.0s to 6.0s
+ - Base intellect changed from 15 to 9 
+ 
+ Lion:
+ - 1 skill stun duration changed from 1.02/1.52/2.02/2.42/2.81/3.2/3.6 to 1.02/1.52/2.02/2.05/2.15/2.3/2.4
+ - 1 skill damage changed from 120/220/310/410/525/620/700 to 120/180/260/310/360/425/450
+ - 3 skill manadrain changed from 20/40/80/220/380/400/800 to 20/40/60/80/100/130/160
+ - Ultimate damage changed from 600/725/850/1250/1750/2250/2500 to 600/725/800/925/1250/1550/1800
+ - Ultimate damage with scepter changed from 725/875/1025/1500/2100/3200/4500 to 725/800/925/1250/1550/1800/2400
+ 
+ Witch Doctor:
+ - 2 skill heal changed from 16/24/32/40/70/110/220 to 16/24/32/40/70/110/120
+ - 3 skill bonus damage changed from 16/24/32/42/62/72/95% to 16/24/36/38/30/42/45%
+ 
+ Axe:
+ - 3 skill require level now 1 
+ - 3 skill level between upgrades now default 
+ - 3 skill cooldown changed from 0.5/0.45/0.4/0.35/0.3/0.1/0.02 to 0.5/0.45/0.4/0.35/0.3/0.2/0.1
+ - 3 skill now dont deal base attack of axe 
+ - 3 skill now have damage from physical attack of axe
+ - 3 skill damage changed from 80/105/140/165/220/320/380 to 40/70/90/115/130/150/175
+ 
+ Anti-Mage:
+ - 1 skill mana break changed from 52/64/82/102/122/180/220 to 42/54/62/72/82/92/100
+ - 3 skill spell sheild resistance changed from 26/28/34/42/43/45/50% to 26/28/34/42/43/45/55%
+ 
+ Reaver Lord:
+ - Superiority Instinct bonus damage changed from 1.0/1.5/2.0/2.5/3.0/4.0/5.0% to 1.0/1.5/1.7/1.9/2.1/2.3/2.5
+ - Superiority Instinct bonus lifesteal changed from 5/7/10/12/15/17/20% to 7%
+ 
+ Drow Ranger:
+ - 2 skill duration changed from 3/4/5/6/7/8/9 to 3/3/4/4/5/5/6
+ - Ultimate level between upgrades now default 
+ - Ultimate damage changed from 80/100/160/260/400/600/1000 to 80/100/120/220/350/400/600
+ 
+ Tinker:
+ - 3 skill level between upgrades now default 
+ - 3 skill damage changed from 32/52/84/120/180/240/300 to 32/42/52/62/72/82/95
+ 
+ Beastmaster
+ - 1 skill level between upgrades now default 
+ - 1 skill damage changed from 120/180/220/320/420/500/560 to 100/140/180/220/320/360/400
+ 
+ Lone Druid:
+ - 2 skill duration changed from 18/22/26/30/36/42/60s to 40s
+ - 2 skill movespeed bonus changed from 10/15/20/25/30/35/40% to 10/15/20/25/27/30/33%
+ 
+ Doombringer:
+ - 2 skill level between upgrades now default 
+ - 2 skill regen/damage changed from 30/40/50/60/70/80/90 to 20/25/27/30/33/35/40
+ 
+ Legion Commander:
+ - 1 skill level between upgrades now default
+ - 1 skill damage changed from 60/100/160/220/320/410/520 to 60/80/100/120/160/200/220
+ - 1 skill damage by unit changed from 22/28/36/42/62/82/101 to 22/28/32/38/42/52/63
+ - 1 skill damage by creep changed from 30/52/102/142/182/200 to 30/42/52/62/72/82/92
+ 
+ Venomancer:
+ - 1 skill strike damage changed from 50/75/90/140/250/350/480 to 50/75/90/110/140/150/180
+ - 1 skill tick damage changed from 20/60/110/140/220/310/560 to 20/60/110/120/160/200/260
+ - 4 skill damage changed from 50/105/180/220/320/410/550 to 50/105/150/180/220/310/420
+ - 4 skill damage changed from 80/160/240/280/380/580/820 to 75/135/190/220/310/420/560
+ - 4 skill duration changed from 16s to 12s
+ - 4 skill radius changed from 830 to 600
+ 
+ Treant Protector:
+ - 1 skill duration changed from 15.0/30.0/40.0/45.0/50.0/55.0/60.0 to 25.0/30.0/40.0/45.0/50.0/55.0/60.0
+ 
  Omniknight:
  - Default ultimate disabled. 
  - Ultimate duration changed from 3.0/3.2/3.5/3.7/3.9/4.1/4.3 to 3.8/4.0/4.2/4.4/4.6/4.8/5.4
  - Ultimate radius changed from 600/1400/1800/2400/4500/7000/9000 to 9000
+ - Ultimate now refreshable
+
+ Bounty Hunter:
+ - 1 skill damage changed from 150/225/300/375/450/625/720 to 150/225/300/375/450/525/650
+ - 2 skill crit multipler changed from 200/250/300/350/400/450/500 to 200/250/300/325/350/400/450
+ - Ultimate bonus gold changed from 300/475/550/650/850/1500/5000 to 250/325/375/400/650/775/900
+ - Ultimate assist bonus gold changed from 120/250/300/500/600/1000/3000 to 125/250/300/350/450/600/700
+ 
+ Clockwerk:
+ - 1 skill damage changed from 20/45/80/120/160/180/250 to 20/42/75/95/120/140/160
+ - 1 skill percent damage changed from 0.7% to 1.0%
+ - 2 skill drain ammount changed from 80/140/210/280/560/800/1020 to 80/140/180/220/310/400/520
+ 
+ Timbersaw:
+ - 3 skill stack count changed from 2/4/8/12/18/20/20 to 2/4/8/12/16/18/20
+ 
+ Shadow Fiend:
+ - 1,2,3 skill now didnt deal percent damage 
+ - 1,2,3 skill now have additional damage from SF attack
+ - 4 skill souls count changed from 15/22/29/36/64/86/128 to 22/26/30/32/45/64/82
  
  Brewmaster:
  - Storm spirit dispel damage changed from 200/300/400/500 to 500/900/1500/2000
@@ -19,6 +113,11 @@ Hero Changes:
  
  Centaur Warrunner:
  - 2 skill now didnt damage self with percent damage 
+ 
+ Storm Spirit:
+ - 1 skill damage changed from 140/180/260/310/420/540/620 to 140/160/180/210/320/440/520
+ - 3 skill damage changed from 70/100/200/300/320/480/560 to 70/90/110/130/160/190/210
+ - 4 skill damage changed from 16/22/32/42/52/60/72 to 7/11/16/21/26/30/36
  
  Zeus:
  - Ultimate damage changed from 225/350/475/750/1200/1400/1600 to 215/300/445/650/800/1100/1200
@@ -33,16 +132,25 @@ Hero Changes:
  - Ultimate damage multipler changed from 1.5/1.75/2.5/4.5/8.0/14.0/20.0 to 1.5/1.75/2.0/2.25/3.0/4.0/5.0
  - Ultimate damage reducion changed from 20/30/40/45/50/55/60% to 40/45/50/55/60/65/70%
  
+ Outworld Devouver:
+ - 1 skill level between upgrades now default 
+ - 1 skill intellect steal changed from 4/6/8/10/12/14/18 to 2/3/4/5/6/7/8
+ - 1 skill intellect steal dutaion changed from 60s to 100s
+ 
  Clinkz:
- - 2 skill level between upgreades now default 
- - 2 skill damage changed from 30/80/120/220/420/530/600 to 30 45 50 65 70 95 110
+ - 2 skill level between upgrades now default 
+ - 2 skill damage changed from 30/80/120/220/420/530/600 to 30/45/50/65/70/95/110
  
  Huskar:
- - 2 skill level between upgrages now default
+ - 2 skill level between upgrades now default
  - 2 skill damage changed from 20/40/60/90/100/120/140 to 20/25/30/35/40/45/50
  - 2 skill manacost changed from 0/10/20/30/40/50/60 to 0
  - 2 skill health cost changed from 40 to 15/20/22/25/27/30/32
  - 2 skill now increase damage from spell amplify
+ 
+ Lina:
+ - 1 skill damage changed from 110/210/300/410/520/680/740 to 110/160/250/380/430/540/600
+ - 2 skill damage changed from 120/210/290/450/580/640/700 to 120/210/290/350/480/580/620
  
  Slardar:
  - 2 skill radius changed from 250 to 275
@@ -65,6 +173,7 @@ Hero Changes:
  - 1 skil disarmor changed from -5/8/12/16/22/26/31 to -5/7/9/10/12/14/16
  - 2 skill damage block changed from 22/34/42/64/88/120/160 to 22/34/42/64/88/106/120
  - 2 skill level between upgrades now default 
+ - Ultimate cooldown changed from 160s to 100s
  
  Leshrack:
  - 1 skill damage changed from 120/180/240/300/450/620/710 to 120/160/220/300/420/600/650
@@ -76,13 +185,19 @@ Hero Changes:
  
  Spike:
  - 1 skill cooldown changed from 20.0/19.0/17.0/15.0/12.0/8.0/4.0 to 20.0/19.0/17.0/15.0/12.0/8.0/5.0
+ - 1 skill damage changed from 80/120/225/330/425/580/700 to 80/100/120/160/220/320/400
+ - 2 skill heal changed from 1.6/1.7/1.8/2.0/2.2/2.4/2.6% to 1.4/1.5/1.6/1.7/1.8/1.9/2.0%
  - Base attack time changed from 1.45 to 1.7
  - Agility gain changed from 2.7 to 3.5
  - Strength gain changed from 1.9 to 2.6
  - Base agility changed from 23 to 29
  
+ Batrider:
+ - 1 skill damage changed from 10/12/22/30/35/55/65 to 10/12/22/30/35/45/50
+ - 3 skill damage changed from 20/40/70/110/140/170/200 to 20/40/60/70/80/90/100
+ 
  Spike & Kings Crab:
- - Thorn Shell damage return changed from 10/14/16/17/18/20/28 to 14/16/18/20/24/27/30
+ - Thorn Shell damage return changed from 10/14/16/17/18/20/28% to 14/16/18/20/24/27/30%
  
  Tusk:
  - Aghanim scepter slow changed from 40% to 15%
@@ -93,6 +208,7 @@ Hero Changes:
  - 2 skill damage changed from 50/70/90/100/120/150/180 to 40/60/70/75/80/90/100
  - 3 skill level between upgrades now deafult
  - 3 skill damage dispersion changed from 8/10/13/16/17/18/20% to 10/13/15/17/18/20/22%
+ - Ultimate cooldown changed from 140s to 120s
  
  Sniper:
  - 1 skill level betwen upgrades now default 
@@ -112,11 +228,25 @@ Hero Changes:
  - 3 skill percent damage changed from 50.0% to 35.0% (old tooltip is wrong)
  - Ultimate percent damage changed from 5.0% to 15.0% (old tooltip is wrong)
  
+ Earth Spirit:
+ - Stone Caller max charges changed from 20 to 10 
+ - Stone Caller charge restore time changed from 30sec to 15sec
+ 
  Faceless Void:
+ - 1 skill duration changed from 1.5s to 2.0s
  - 3 skill bashes now purgable 
  
  Broodmother:
  - 1 skill summons damage increase by time disabled 
+ 
+ Mirana:
+ - 2 skill max stun range changed from 2000 to 10000
+ 
+ Dark Seer:
+ - 1 skill radius changed from 250/350/450/550/650/750/850 to 250/350/450/525/550/575/600
+ 
+ Lifestealer:
+ - 2 skill damage to boss changed from 1/2 to 1/3 
  
 Items Changes:
  Radiance 1,2,3:
@@ -129,25 +259,72 @@ Items Changes:
  - Pets items now not refreshable 
  - Pets now have shared cooldown
  
+ Hand of Midas:
+ - Bonus gold for bounty rune changed from 600 to 200
+ - Bonus gold for bounty rune by minute changed from 50 to 35 
+ - Bonus exp changed from 2.5 to 3.0
+ 
+ Demons of Midas:
+ - Bonus gold for bounty rune changed from 1200 to 400
+ - Bonus gold for bounty rune by minute changed from 50 to 35 
+ - Exp multipler changed from 4.0 to 6.0
+ - Bonus gold changed from 400 to 550
+ 
+ Eclipse Amphora:
+ - Duration changed from 22 to 12 
+ 
  Tango:
  - Duration changed from 16.0sec to 20.0 sec
  
  Tranquil Boots:
  - Movespeed changed from 85 to 80
  
+ Shiva 2:
+ - Damage changed from 850 to 550
+ 
+ Poor Man's Shield
+ - Melee damage block changed from 25 to 22
+ - Range damage block changed from 20 to 15
+ - Bonus agility changed from 9 to 7
+ 
+ Power Treads:
+ - Power Treads 2 bonus attack speed changed from 80 to 55
+ - Power Treads 3 bonus attack speed changed from 160 to 90
+ 
+ Sacred Blades:
+ - Manacost changed from 0 to 150
+ 
+ Magic stick:
+ - Heal changed from 20 to 17
+ 
+ Magic Wand:
+ - Heal changed from 25 to 17
+ 
+ Potion Immune:
+ - Cooldown changed from 25s to 35s
+ 
 Changes:
+ - Rubick Dagon now dont have cast animation
  - Damage that now affects by spell amplify:
  - Abaddon 1 skill constant damage
  - Dazzle 3 skill constant damage
  - Joe Black 1 skill constant damage
  - Shadowsong 2 skill constant damage
  - 5x5 map brightness increased
+ - Duel invulnerable time changed from 5s to 3s.
+ - Duel unvulnerable now have magic immune
+ - Gold getting by killing streak-hero now has assist-radius 1300
+ - Silver Edge and Dark Edge debuff effect now purges on duel
+ - Recipes now dont drop from creeps
+ - Creeps of 5+ level now have chance to drop blight stone, sage mask, ring of regen 
  
 Fix:
+ - Chat command '-allow_dummy' fixed
+ - Dazzle 3 skill now deal damage to creeps
+ - Killing by summons now also giving gold streaks
  - Crash with rubick and lone druid
  - Crash with pudge and repick 
  - Crash duel with repick on duel
  - Puck 3 skill duration fix
  - Lifestealer assimilate bugs with duel and repick fix
  - Abaddon now deal self damage correctly
-  
