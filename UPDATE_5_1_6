@@ -582,7 +582,7 @@ Changes:
  - Shadowsong 2 skill constant damage
  - 5x5 map night time brightness increased
  - Duel invulnerable time changed from 5s to 3s.
- - Duel unvulnerable now have magic immune
+ - Duel invulnerable now have magic immune
  - Gold getting by killing streak-hero now has assist-radius 1300(assist gold = gold*0.3, main gold = gold*0.7)
  - Silver Edge and Dark Edge debuff effect now purges on duel
  - Recipes now dont drop from creeps
