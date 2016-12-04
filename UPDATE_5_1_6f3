@@ -1,0 +1,72 @@
+5.1.6f3 Last fixes and balance for today for today
+ - Oracle 1 skill damage changed from 120/150/220/380/580/610/780 to 120/150/220/280/360/420/520
+ - Oracle 3 skill damage changed from 90/180/270/360/400/450/520 to 90/180/270/320/360/380/400
+ - Enigma 1 skill stun duration changed from 0.25/0.5/0.75/1.0/1.1/1.2/1.25 to 0.25/0.5/0.75/0.8/0.85/0.9/1.0
+ - Earthshaker ultimate damage changed from 160/210/270/350/880/1250/1400 to 160/210/270/320/360/380/400
+ - Earthshaker ultimate echo damage changed from 90/120/220/280/440/780/840 to 90/120/160/180/200/220/240
+ - Winter Wyvern 2 skill damage changed from 120/180/260/340/500/620/760 to 120/180/260/290/350/420/540
+ - Disruptor 1 skill damage changed from 40/60/80/100/180/260/320 to 40/60/80/100/120/140/160
+ - Gold per streak decreased into 2 times
+ - Califax 1 skill damage changed from 120/180/285/340/480/540/700 to 120/180/250/320/450/500/560
+ - Huskar 2 skill damage changed from 20/25/30/35/40/45/50 to 15/20/22/26/28/30/32
+ - Luna 1 skill damage changed from 120/180/285/340/480/540/700 to 120/180/285/340/400/450/520
+ - Queen of Pain 3 skill damage changed from 85/165/225/300/480/560/660 to 85/165/225/300/400/480/520
+ - Queen of Pain 4 skill damage changed from 310/520/680/780/1120/1400/1800 to 280/320/420/480/640/830/1000
+ - Queen of Pain 4 skill damage with scepter changed from 420/630/720/920/1400/1800/2400 to 340/430/480/650/880/1000/1200
+ - Necrophos 1 skill heal/damage changed from 125/225/285/325/465/560/710 to 125/225/285/325/385/410/525
+ - Meepo 2 skill damage changed from 80/120/140/220/310/360/420 to 80/120/140/160/180/200/220
+ - Nyx 1 skill damage changed from 130/180/220/310/450/580/720 to 130/150/180/210/350/450/520
+ - Troll Warlord 2 skill melee gold changed from 100/200/300/400/500/600/700 to 100/180/225/300/380/400/480
+ - Vengeful Spirit 1 skill damage changed from 100/175/300/425/680/720/820 to 100/175/300/375/420/450/530
+ - Slark ultimate cooldown changed from 30s to 40s
+ - Viper 1 skill slow movespeed changed from -30/35/40/45/50/55/60% to -20/22/24/26/28/30/32%
+ - Viper 3 skill changed from -10/15/20/25/30/35/40% to -10/13/15/18/20/22/25%
+ - Shadow Demon 3 skill level between upgrades now default
+ - Shadow Demon 3 skill strike damage changed from 50/90/200/250/350/450/575 to 35/40/50/60/70/80/90
+ - Shadow Demon 3 skill stack damage changed from 50/90/140/220/320/520/760 to 29/32/42/52/62/72/82
+ - Shadow Demon ultimate charges changed from 5 to 3 
+ - Shadow Demon ultimate damage changed from 200/450/800/1200/1600/1800/2200 to 200/250/300/350/400/450/500
+ - Shadow Demon 1 skill illusions incoming damage changed from 150% to 180%
+ - Shadow Demon 1 skill ilussions outgoint damage changed from 30.0/35/40.0/50.0/60.0/70.0/80.0 to 30.0/35/40.0/50.0/60.0/65.0/70.0
+ - Windstalker 1 skill damage changed from 120/180/250/310/420/520/600 to 120/140/160/180/200/220/240
+ - Bloodseeker 3 skill level between upgrade now default
+ - Bloodseeker 3 skill damage changed from 10/35/80/140/210/320/520 to 12/22/32/40/51/60/70 
+ - Gun Joe 2 skill level betwene upgrades now default
+ - Gun Joe 2 skill damage changed from 35/60/90/140/180/250/400 to 35/45/50/55/68/70/80
+ - Tiny 1 skill cast range changed from 800 to 600
+ - Bloodseeker ultimate damage changed from 40/60/80/120/160/200/320 to 40/60/80/120/160/200/280
+ - Naga Siren 3 skill damage changed from 160/240/300/410/520/640/720 to 150/220/280/320/420/460/520
+ - Templar Assassin 2 skill damage changed from 80/100/150/200/300/400/500 to 100/120/180/220/350/480/600
+ - Templar Assassin 2 skill disarmor changed from -4/6/8/10/12/16/22 to -4/6/8/10/12/14/16
+ - Templar Assassin 1 skill level between upgrades now default 
+ - Templar Assassin 1 skill charges changed from 3/5/7/9/10/12/15 to 3/4/5/6/7/9/10
+ - Templar Assassin 1 skill damage changed from 40/60/80/100/140/180/200 to 40/45/50/60/70/80/100
+ - Spirit Breaker ultimate damage changed from 250/400/650/850/1050/1250/1800 to 250/300/350/450/550/750/800
+ - Ogre Magi fireblast damage changed from 105/180/265/320/440/520/600 to 105/150/225/280/340/420/500
+ - Lina ultimate damage changed from 450/675/950/1450/1920/2450/3000 to 450/675/750/850/920/1150/1300
+ - Bristleback 2 skill quill base damage changed from 25.0/32.0/42.0/46.0/50.0/54.0/60.0 to 20.0/26.0/30.0/34.0/36.0/40.0/42.0
+ - Bristleback 2 skill quill stack damage changed from 20.0/24.0/32.0/38.0/42.0/46.0/50.0 to 15.0/18.0/20.0/22.0/24.0/26.0/28.0 
+ - Bristleback 2 skill quill damage from strength changed from 0.5 to 0.3 
+ - Bristleback 3 skill level between upgrades now default
+ - Bristleback ultimate level between upgrades now default
+ - Bristleback ultimate max stack sount changed from 5/6/7/8/9/10/12 to 3/4/5/6/7/8/9
+ - Bristleback ultimate damage by stack changed from 20/25/30/35/70/90/100 to 15/20/25/30/35/40/45
+ - Beastmaster boar movespeed slow changed from -40/60/80/100% to -30/40/50/60%
+ - Magnus ultimate level between upgrades now default
+ - Magnus ultimate damage changed from 325/525/800/1850/2680/3450/5000 to 325/425/525/650/720/850/1000
+ - Centaur Warruner 1 skill damage changed from 120/180/280/350/450/520/680 to 120/160/210/280/320/420/560
+ - Centaur Warruner 2 skill damage changed from 175/250/325/400/600/800/1200 to 175/225/285/300/450/600/750
+ - Jakiro ultimate damage changed from 100/180/380/600/800/1200/1400 to 100/180/260/280/300/320/340
+ - Jakiro ultimate damage with sceper changed from 125/200/420/800/1200/1400/1600 to 125/200/280/300/320/340/380
+ - Clockwerk ultimate damage changed from 200/350/450/900/1600/2200/2800 to 200/350/400/550/650/780/875
+ - Slark 1 skill damage changed from 100/150/225/400/550/620/680 to 100/150/225/400/450/540/580
+ - Pugna nether ward not dont deal percent damage, now nether ward has damage that depends by pugna intellect, multipler is 2 
+ - Disruptor ultimate damage changed from 300/450/800/1200/1600/2000/3000 to 250/300/350/400/450/500/550 
+ - Disruptor ultimate duration with scepter changed from 10s to 7s
+ - Ancient Apparation 1 skill damage changed from 40.5/62.0/82.5/140/160/210/340 to 40.5/62.0/82.5/102/120/140/160
+ - Ancient Apparation 1 skill cooldown changed from 15.0/13.0/11.0/9.0/9.0/9.0/9.0 to 15.0/14.0/13.0/12.0/11.0/10.0/9.0
+ - Ancient Apparation 3 skill level between upgrades now default 
+ - Ancient Apparation 3 skill damage changed from 50/80/100/150/180/220/320 to 50/80/100/120/130/140/150
+ - Skywrath Mage 1 skill damage changed from 60/80/100/120/160/180/220 to 80/90/100/120/160/180/220
+ - Skywrath Mage ultimate skill damage changed from 600/1000/1400/1800/2400/2800/3000 to 600/800/1000/1200/1400/1600/1800
+ - Skywrath Mage 3 skill resist debuff changed from -30/35/40/45/50/60/70% to -30/35/40/45/50/55/60%
