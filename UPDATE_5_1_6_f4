@@ -1,0 +1,153 @@
+5.1.6f4 Donkey King
+Heroes:
+ Monkey king:
+ - All skills upped and now have 7 level of upgrades 
+ 
+ Spike:
+ - Ultimate now not refreshable
+ 
+ Techies:
+ - 1 skill cooldown changed from 10 to 6 
+ - 1 skill damage changed from 225/400/575/750/950/1150/1350 to 450/600/755/850/950/1150/1350
+ 
+ Drow ranger:
+ - Ultimate bonus agility changed from 80/100/120/220/350/400/600 to 60/80/100/200/350/400/600
+ 
+ Gun Joe:
+ - Base agility changed from 31 to 20 
+ 
+ Lone druid:
+ - Bear ectangle duration changed from 3.0 to 2.0
+ 
+ Medusa:
+ - 1 skill split arrow count changed from 2/3/5/7/12/16/20 to 2/3/4/6/9/12/15
+ - 3 skill damage per mana changed from 0.8/0.9/1.0/1.1/1.2/1.4/1.5 to 0.5/0.55/0.6/0.7/0.8/0.9/1.0
+ - Ultimate additional physical damage changed from 30/40/50/55/60/65/70% to 10/20/25/30/35/40/45%
+ 
+ Broodmother:
+ - Ultimate level between upgrades now default 
+ - Ultimate bonus damage changed from 100/140/180/310/820/1080/1500 to 100/140/160/180/220/280/350
+ - Base agility changed from 20 to 17
+ 
+ Faceless Void:
+ - Base attack time changed from 1.45 to 1.7
+ - Base damage changed from 37-43 to 35-41
+ - Ultimate now refreshable 
+ 
+ Magnus:
+ - 1 skill damage changed from 125/210/285/380/450/590/777 to 125/210/285/380/450/590/666 
+ 
+ Tidehunter:
+ - Ultimate damage changed from 380/680/1080/1660/2070/2420/2830 to 300/480/580/660/770/820/930
+ 
+ Ursa:
+ - Base attack time changed from 1.3 to 1.7 
+ - Base damage changed from 30-35 to 25-30
+ - Base armor changed from -1 to -2 
+ 
+ Meepo:
+ - Base attack time changed from 1.2 to 1.7 
+ - Base agility changed from 23 to 19 
+ - Base strength changed from 23 to 19 
+ - Base intellect changed from 20 to 17
+ 
+ Bristleback:
+ - 1 skill stack limit changed from 4/4/4/5/6/8/10 to 4
+ - 2 skill base damage changed from 20.0/26.0/30.0/34.0/36.0/40.0/42.0 to 23.0/28.0/32.0/34.0/36.0/40.0/42.0
+ - 3 skill quill release threshold changed from 400/370/350/300/270/250/200 to 400
+ - Ultimate bonus movespeed changed from 3/4/5/6/7/8/9% to 3%
+ 
+ Razor:
+ - Base agility changed from 23 to 21
+ - 1 skill damage max changed from 160/200/240/350/400/500/700 to 160/220/340/450/540/725/950
+ 
+ Reaver Lord:
+ - Twink blink range per soul changed from 80 to 100
+ - Base agility changed from 20 to 18 
+ - Agility gain changed from 3.5 to 2.9
+ 
+ Phanthom assassin:
+ - Base damage changed from 30-36 to 26-30
+ 
+ Templar assassin:
+ - Base attack time changed from 1.1 to 1.7
+ 
+ Gyrocopter:
+ - Base damage changed from 30-40 to 27-37
+ - Base armor changed from 1 to -1 
+ 
+ Ember Spirit:
+ - Base agility changed from 22 to 14
+ - Base strength changed from 22 to 14
+ - Base intellect changed from 20 to 16 
+ - Agility gain changed from 3.2 to 2.0 
+ - Strength gain changed from 2.6 to 1.5
+ - Intellect gain changed from 2.5 to 1.6
+ - Base attack time changed from 1.3 to 1.7
+ - Ultimate charges changed from 6 to 3
+ 
+ Morphling:
+ - Base agility changed from 24 to 20
+ 
+ Venomancer:
+ - 2 skill level between upgrades now default
+ - 2 skill damage changed from 8/12/18/22/34/42/65 to 8/11/16/20/30/38/42
+ - 3 skill level between upgrades now default
+ - 3 skill damage changed from 10/19/29/38/72/117/170 to  10/19/29/38/48/79/92
+ - 3 skill now dont grow up with time
+ 
+Items:
+ Iron Talon:
+ - Cooldown changed from 14.0s to 10.0s
+ 
+ Orchid of Plague:
+ - Bonus intellect changed from 60 to 40
+ - Bonus manaregen changed from 200% to 175%
+ - Bonus health changed from 500 to 350
+ 
+ Armlet 2:
+ - Bonus damage changed from 120 to 85
+ - Bonus attack speed changed from 90 to 55
+ - Bonus armor changed from 15 to 7
+ - Bonus regen changed from 42 to 30
+ - Active bonus damage changed from 130 to 80
+ - Active bonus armor changed from 15 to 7
+ - Recipe cost changed from 4200 to 0
+ 
+ Octarine core 2:
+ - Bonus manaregen changed from 250% to 125%
+ 
+ Reverse:
+ - Bonus damage changed from 920 to 620
+ 
+ Hood of Rage:
+ - Health regen changed from 16 to 20 
+ 
+ Aether Lens:
+ - Bonus range changed from 200 to 220
+ 
+ Icarus & Daedalus:
+ - Bonus damage changed from 275 to 185
+ 
+ Tranquil Boots:
+ - Bonus movespeed changed from 80 to 70
+ 
+ Guardian Greaves:
+ - Aura regeneration changed from 40 to 25
+ - Restore health changed from 1250 to 750
+ - Restore mana changed from 620 to 320
+ 
+Changes:
+ - Duel timer changed to new ui style.
+ - Creep leveling changed. Now 10lvl creeps will spawn on average hero level 12(old 9), 15lvl creeps at hero level 14(old 10)
+ - Razor ultimate now purges on duel 
+ - Pick time changed from 90sec to 60sec
+ 
+Fix:
+ - Long respawn time changed. Now hero respawn time calculates by next formula <0.2 * (5 + 3.8*hero_level)>
+  * Max respawn time now on 100 level is 77sec
+ - Tiny ultimate bonus toss damage fixed
+ - Empty duel fixed 
+ - Duel now break tree on Tree Dance of Monkey King
+ - Radiance stat damage fixed
+ - Potion immune after EUL's
