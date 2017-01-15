@@ -1,0 +1,149 @@
+5.1.7 Slow santa
+Hero changes:
+ Satan:
+  - 1 skill manacost changed from 450/650/850/1000/1400/1800/2000 to 450/550/650/750/800/850/925
+ 
+ Outworld Devouver:
+  - 1 skill now again work on ancient-creeps and bosses.
+ 
+ Joe Black:
+  - 1 skill cooldown changed from 5.0/5.0/5.0/5.0/4.0/4.0/4.0 seconds to 9.0 seconds
+  - 1 skill heal/damage percent changed from 2.5/3.0/4.0/6.0/8.0/10.0/14.0% to 2.5/3.0/3.5/4.0/4.5/5.0/5.5
+  Talents 10 level:
+   - 2 skill gives spell immune 
+   - Ultimate heal allies for 5% max hp per second
+  Talents 20 level:
+   - 1 skill cooldown now 4 second 
+   - 1 skill now have AOE 350
+  
+ Spike:
+  - 3 skill return damage changed from 14/16/18/20/24/27/30% to 14/16/18/19/21/23/25%
+  - Ultimate now don't give bonus attack by creeps 
+  - Ultimate learning on 12 level changed to default leveling 
+  Talents 15 level:
+   - +1 damage by killed creep, +10 damage by killed hero. Require ultimate.
+   - Spiked Dash deal doubled damage from attack
+  Talents 25 level:
+   - +25% reflecting damage for Thorn Shell
+   - Thorn Shell now block incoming damage
+  
+ Gun Joe:
+  - 2 skill changed to Explosive Bullets(Active):
+    Gun Joe arms with explosive bullets that deal damage in area by every shot. Cooldown 16sec, duration 16sec, shot count 4, radius 230.
+  - 3 skill changed to Rapid(Passive):
+    When Gun Joe did not take damage he will increase him movespeed and attack speed. Cooldown 8sec, bonus movespeed 20/40/60/80/100/120/160, bonus attack speed 10/20/30/40/50/60/70
+  Talents 10 level:
+   - Explosive Bullets -8 seconds cooldown
+   - Rapid -4 seconds cooldown 
+  Talents 20 level:
+   - Explosive Bullets +4 shots   
+   - Explosive Bullets +200 radius
+   
+ Lone Druid:
+  - Bear 3lvl regen changed from 30 to 10 
+  - Bear 4lvl regen chagned from 50 to 15
+  
+ Tiny:
+  - Toss bonus damage from ultimate changed from 150/170/200% to 120/135/150%
+  
+ Clockwerk:
+  - 3 skill percent damage changed from 5.0/6.0/7.0/8.0/9.0/9.5/10.0% to 5.0%
+  
+ Ogre Magi:
+  - Fireblast's percent damage deleted 
+  
+ Crystal Maiden: 
+  - 1 skill damage changed from 140/250/280/350/465/580/770 to 120/170/220/325/385/445/525
+  
+ Slark:
+  - Base attack time changed from 1.4 to 1.6
+  
+ Pugna:
+  - 2 skill movespeed slow changed from -30/-40/-50/-60/-65/-70/-80% to -30/-40/-45/-50/-55/-60/-65%
+  - 3 skill multipler by intellect changed from 2.0 to 1.4
+  - Ultimate health drain with scepter changed from 250/320/450/580/710/920/1000 to 200/270/400/450/475/525/615
+  
+ Meepo:
+  - 3 skill cleave disabled 
+  
+ Abaddon:
+  - 1 skill heal/damage percent changed from 4.5/5.0/6.0/7.0/9.0/11.0/12.0% to 5.5%
+ 
+ Witch Doctor:
+  - 2 skill manacost changed from 8/12/16/20/30/40/50 to 6/10/12/14/16/20/30
+  
+ Wraith King:
+  - Ultimate aura with scepter duration changed from 7 second to 5 second.
+  
+ Reaver Lord:
+  - New talents on 25 level:
+   - Ultimate dont require any souls 
+   - +100 range by one soul for 2 skill
+ 
+ Shadow Shaman:
+  - 1 skill damage changed from 140/260/320/450/650/710/810 to 125/180/260/350/400/450/515
+  - 3 skill damage changed from 120/200/280/360/680/820/1080 to 120/240/300/410/550/620/780
+  - 3 skill duration changed from 2.75/3.5/4.25/4.75/5.0/5.5/6.0 to 2.75/3.0/3.25/3.5/3.75/4.0/4.25
+ 
+ Shadowsong:
+  - 2 skill radius changed from 300/300/300/300/400/500/500 to 350
+  - 2 skill percent damage changed from 0.5/0.5/0.5/0.5/0.6/0.7/0.8% to 0%
+  - New talents on 20 level:
+   - +100 damaage to 2 skill 
+   - +1% damage from max health to 2 skill
+  
+ Visage:
+  - Familiars ability now have default level between upgrades 
+  - Familiars max damage changed from 180/560/1320 to 100/150/200
+  - Familiars damage charges changed from 30/40/60 to 25
+  
+ Arc Warden:
+  - 1 skill damage changed from 30/45/60/80/120/160/200 to 30/45/60/75/90/105/130
+  
+ Chaos Knight:
+  - 3 skill lifesteal changed from 50% to 25% 
+  
+ Bane:
+  - 2 skill now deal damage from max health 
+  
+ Omniknight:
+  - Repel cooldown changed from 10sec to 12sec 
+  - Repel duration changed from 6.0/6.5/7.0/7.5/8.0/9.0/10.0 to 5.0/5.5/6.0/6.5/7.0/7.5/8.0
+  
+Items changes:
+ Radiance 1, 2, 3:
+  - Damage from stats changed from 0.0/0.4/0.6 to 0.0/0.32/0.45
+ 
+ Sacred Blades:
+  - Now active ability works only for enemies.
+  
+ Charon Scepter:
+  - Now have activate sound 
+
+Changes:
+ - Delay by spawn creeps on game start disabled 
+ - Runes created(there are no rune of illusions, and bottle don't work with runes, sorry)
+ - Regeneration rune now have percent regeneration for mana and health (4%)
+  
+Fix:
+ - Radiance damage from pets
+ - Arc Warden ultimate and duel fixed
+ - Expirence bugs 
+ - Gold bugs 
+ - Meepo and duel many gold
+ - Pipe of Insight 7.0 fix
+ - Ember 2 skill fix
+ - Crystal Maiden 1 skill fix damage 
+ - Bane 2 skill damage/heal fixed
+ - Echo sabre bug fix
+ - Nyx assassin ultimate skill with octarine core 2 fix
+ - Necrolyte 1 skill fix
+ - Necrolyte 2 skill fix
+ - Little localization fixes
+ - Fixed item icons disappears(need more check)
+ - Fix strange amulet doubled strength
+ - Rubick and monkey king ultimate bug
+ - Satan 1 skill effect fixed
+ - Dragon Knight 3 skill fixed with talent 
+ - Monkey King 1 skill damage fixed
+ - Joe black 1 skill now correctly works with linken sphere and lotus orb
