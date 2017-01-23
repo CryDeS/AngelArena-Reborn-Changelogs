@@ -39,9 +39,16 @@ Hero changes:
    - Explosive Bullets +4 shots   
    - Explosive Bullets +200 radius
    
+ Broodmother:
+  - Ultimate lifesteal changed from 60/80/100/120/180/220/300 to 60/70/80/90/115/130/150
+  
  Lone Druid:
   - Bear 3lvl regen changed from 30 to 10 
   - Bear 4lvl regen chagned from 50 to 15
+  
+ Lycan:
+  - Howl hero bonus damage changed from 32/42/58/76/120/182/380 to 22/32/43/56/61/72/84
+  - Howl creep bonus damage changed from 15/32/46/68/106/150/250 to 15/22/24/32/38/42/48
   
  Tiny:
   - Toss bonus damage from ultimate changed from 150/170/200% to 120/135/150%
@@ -57,11 +64,18 @@ Hero changes:
   
  Slark:
   - Base attack time changed from 1.4 to 1.6
+  - Dark Pact damage changed from 100/150/225/400/450/540/580 to 100/140/225/325/400/445/475
+  - Pounce damage changed from 120/180/300/350/510/615/725 to 140/180/300/350/425/475/525
   
  Pugna:
   - 2 skill movespeed slow changed from -30/-40/-50/-60/-65/-70/-80% to -30/-40/-45/-50/-55/-60/-65%
   - 3 skill multipler by intellect changed from 2.0 to 1.4
   - Ultimate health drain with scepter changed from 250/320/450/580/710/920/1000 to 200/270/400/450/475/525/615
+  
+ Slark:
+  - Essence Shift duration changed from 25/30/35/40/45/50/75 to 25/35/45/55/65/75/90
+  - Essence Shift bonus agility changed from 3/3/3/3/3/6/6 to 3/3/3/3/3/3/3
+  - Essence Shift stats loss changed from 1/1/1/1/1/2/2 to 1/1/1/1/1/1/1
   
  Meepo:
   - 3 skill cleave disabled 
@@ -80,6 +94,10 @@ Hero changes:
    - Ultimate dont require any souls 
    - +100 range by one soul for 2 skill
  
+ Lion:
+  - Finger of Death damage changed from 600/725/800/925/1250/1550/1800 to 600/725/800/925/1150/1250/1375
+  - Finger of Death with Aghanim Scepter damage changed from 725/800/925/1250/1550/1800/2400 to 725/800/925/1150/1300/1450/1600
+  
  Shadow Shaman:
   - 1 skill damage changed from 140/260/320/450/650/710/810 to 125/180/260/350/400/450/515
   - 3 skill damage changed from 120/200/280/360/680/820/1080 to 120/240/300/410/550/620/780
@@ -99,6 +117,7 @@ Hero changes:
   
  Arc Warden:
   - 1 skill damage changed from 30/45/60/80/120/160/200 to 30/45/60/75/90/105/130
+  - Now ultimate didnt copy Soul Vessel
   
  Chaos Knight:
   - 3 skill lifesteal changed from 50% to 25% 
@@ -112,19 +131,31 @@ Hero changes:
   
 Items changes:
  Radiance 1, 2, 3:
-  - Damage from stats changed from 0.0/0.4/0.6 to 0.0/0.32/0.45
+  - Damage from stats changed from 0.0/0.4/0.6 to 0.0 0.28 0.4
+  - Constant damage changed from 50/150/400 to 50/125/300
  
  Sacred Blades:
   - Now active ability works only for enemies.
   
  Charon Scepter:
   - Now have activate sound 
+  
+ Rubick Dagon:
+  - Now works correctly with linken sphere and lotus orb 
+  - Iternal item name changed from 'item_masterful_dagon' to 'item_rubick_dagon'
 
 Changes:
  - Delay by spawn creeps on game start disabled 
  - Runes created(there are no rune of illusions, and bottle don't work with runes, sorry)
  - Regeneration rune now have percent regeneration for mana and health (4%)
+ - Bounty rune:
+  - Gold per double midas changed from 400 to 320
+ - Now on every kill you will have bonus 50-100gold (1 - 100 on streak)
+ - Killimit now display under game time
   
+Creeps:
+ - Croco(centaurs) model changed
+ 
 Fix:
  - Radiance damage from pets
  - Arc Warden ultimate and duel fixed
@@ -138,7 +169,7 @@ Fix:
  - Echo sabre bug fix
  - Nyx assassin ultimate skill with octarine core 2 fix
  - Necrolyte 1 skill fix
- - Necrolyte 2 skill fix
+ - Necrolyte 3 skill fix
  - Little localization fixes
  - Fixed item icons disappears(need more check)
  - Fix strange amulet doubled strength
@@ -147,3 +178,8 @@ Fix:
  - Dragon Knight 3 skill fixed with talent 
  - Monkey King 1 skill damage fixed
  - Joe black 1 skill now correctly works with linken sphere and lotus orb
+ - Octarine Core 2 and backback fix
+ - Invoker talents fix
+ - Abyssal Underlord pick fix
+ - Fix ability points on 17/19/21/22/23/24 levels
+ - Gameinfo items list fix
