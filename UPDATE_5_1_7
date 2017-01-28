@@ -1,6 +1,7 @@
 5.1.7 Slow santa
 Hero changes:
  Satan:
+  - 1 skill manacost changed from 450/650/850/1000/1400/1800/2000 to 450/550/650/750/800/850/925
   - Breath skill manacost changed from 450/650/850/1000/1400/1800/2000 to 450/550/650/750/800/850/925
   - Bloody Trade duration changed from 20 seconds to 12 seconds
   Talents 15 level:
