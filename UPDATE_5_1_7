@@ -1,10 +1,70 @@
 5.1.7 Slow santa
 Hero changes:
  Satan:
-  - 1 skill manacost changed from 450/650/850/1000/1400/1800/2000 to 450/550/650/750/800/850/925
+  - Breath skill manacost changed from 450/650/850/1000/1400/1800/2000 to 450/550/650/750/800/850/925
+  - Bloody Trade duration changed from 20 seconds to 12 seconds
+  Talents 15 level:
+   - +50% damage to Bloody Trade
+   - +15seconds duration to Bloody Trade
+  Talents 20 level:
+   - Satan's Might dont have cooldown
+   - +100 damage to Satan's Breath
  
+ Dazzle:
+  - 1 skill cooldown changed from 15/13/11/10/9/8/7 to 15/14/13/12/11/10/9
+  
+ Huskar:
+  - 1 skill coldown changed from 22/18/14/10/10/10/10 to 22 
+ 
+ Skywrath Mage:
+  - 2 skill damage changed from 60/120/180/240/350/480/650 to 60/120/180/240/300/360/420
+  
+ Crystal Maiden:
+  - 1 skill duration changed from 1.5/2.0/2.5/2.8/3.1/3.4/3.8 to 1.5/2.0/2.2/2.5/2.7/2.9/3.2
+  
+ Razor:
+  - Static Link drain damage changed from 9/12/17/20/24/28/32 to 7/10/14/18/22/28/32
+  
+ Riki:
+  - Cunning damage from agility changed from 0.7/0.8/0.9/1.0/1.1/1.2/1.3 to 0.4/0.5/0.6/0.7/0.8/0.9/1.0
+ 
+ Necrophos:
+  - 1 skill heal changed from 125/225/285/325/385/410/525 to 90/140/185/225/255/285/355
+  
+ Darkseer:
+  - Ion Shell damage changed from 35/70/110/160/180/200/220 to 35/70/90/100/120/140/160
+ 
+ Brewmaster:
+  - 1 skill damage changed from 100/175/250/300/400/620/700 to 100/155/225/285/325/445/500
+  - 1 skill move and attack slow changed from 25/35/45/55/65/75/85 to 25/30/35/40/45/50/55
+  - 2 skill miss chance changed from 45/55/65/75/85/95/98 to 40/45/50/55/60/65/75
+  
+ Arc Warder:
+  - 3 skill damage changed from 150/250/350/400/500/650/760 to 150/200/280/320/380/450/500
+   
+ Omniknight:
+  - 2 skill cooldown changed from 12.0sec to 16.0sec
+  
+ Treant Protector:
+  - 2 skill cooldown changed from 16.0/14.0/12.0/10.0/8.0/8.0/8.0 to 16.0/15.0/14.0/13.0/12.0/11.0/10.0
+  
+ Chaos Knight:
+  - 2 skill cooldown changed from 24/18/12/6/6/6/6 to 24/18/16/14/12/8/6
+
+ Alchemist:
+  - 1 skill damage changed from 15/20/24/29/36/42/54 to 12/18/20/24/28/35/42
+  
+ Hola:
+  Talents 20 level:
+   - 3 skill will heal Hola on dealed damage
+   - Ultimate apply 2 skill to allies
+   
+ Abaddon:
+  - 2 skill duration changed from 15 seconds to 13 seconds
+  
  Outworld Devouver:
   - 1 skill now again work on ancient-creeps and bosses.
+  - 2 skill damage changed from 120/220/325/450/560/630/750 to 120/180/285/320/450/520/580
  
  Joe Black:
   - 1 skill cooldown changed from 5.0/5.0/5.0/5.0/4.0/4.0/4.0 seconds to 9.0 seconds
@@ -16,6 +76,19 @@ Hero changes:
    - 1 skill cooldown now 4 second 
    - 1 skill now have AOE 350
   
+ Rubick:
+  - Fade Bolt damage reducion to hero changed from 35/68/120/140/160/180/220 to 19/24/38/49/65/91/121
+  - Fade Bolt jump damage reduction changed from 4/6/8/10/12/16/18% to 6%
+  - Fade bold damage changed from 70/140/210/280/360/480/560 to 90/135/180/265/320/435/475
+  - Ultimate cooldown without scepter changed from 15.0/8.0/0.0 to 15.0/8.0/4.0
+  - Ultimate cooldown with scepter changed from 0.0 to 10.0/5.0/0.0
+  
+ Abyssal Underlord:
+  - Pit of Malice pit interval changed from 0.5 to 3.6
+  
+ Naga Siren:
+  - Rip Tide disarmor changed from -8/-12/-16/-20/-22/-26/-28 to -5/-7/-9/-10/-11/-12/-13
+  
  Spike:
   - 3 skill return damage changed from 14/16/18/20/24/27/30% to 14/16/18/19/21/23/25%
   - Ultimate now don't give bonus attack by creeps 
@@ -24,7 +97,7 @@ Hero changes:
    - +1 damage by killed creep, +10 damage by killed hero. Require ultimate.
    - Spiked Dash deal doubled damage from attack
   Talents 25 level:
-   - +25% reflecting damage for Thorn Shell
+   - +17% reflecting damage for Thorn Shell
    - Thorn Shell now block incoming damage
   
  Gun Joe:
@@ -102,6 +175,7 @@ Hero changes:
   - 1 skill damage changed from 140/260/320/450/650/710/810 to 125/180/260/350/400/450/515
   - 3 skill damage changed from 120/200/280/360/680/820/1080 to 120/240/300/410/550/620/780
   - 3 skill duration changed from 2.75/3.5/4.25/4.75/5.0/5.5/6.0 to 2.75/3.0/3.25/3.5/3.75/4.0/4.25
+  - 3 skill cooldown changed from 16.0 sec to 20.0sec
  
  Shadowsong:
   - 2 skill radius changed from 300/300/300/300/400/500/500 to 350
@@ -133,6 +207,7 @@ Items changes:
  Radiance 1, 2, 3:
   - Damage from stats changed from 0.0/0.4/0.6 to 0.0 0.28 0.4
   - Constant damage changed from 50/150/400 to 50/125/300
+  - Constant damage to illusions changed from 40/130/300 to 40/110/280
  
  Sacred Blades:
   - Now active ability works only for enemies.
@@ -144,6 +219,9 @@ Items changes:
   - Now works correctly with linken sphere and lotus orb 
   - Iternal item name changed from 'item_masterful_dagon' to 'item_rubick_dagon'
 
+ Power Treads:
+  - Bonus stats changed from 9/42/120 to 9/42/105
+  
 Changes:
  - Delay by spawn creeps on game start disabled 
  - Runes created(there are no rune of illusions, and bottle don't work with runes, sorry)
@@ -160,6 +238,7 @@ Fix:
  - Radiance damage from pets
  - Arc Warden ultimate and duel fixed
  - Expirence bugs 
+ - Treant Protector 2 skill fix moveslow
  - Gold bugs 
  - Meepo and duel many gold
  - Pipe of Insight 7.0 fix
@@ -180,6 +259,12 @@ Fix:
  - Joe black 1 skill now correctly works with linken sphere and lotus orb
  - Octarine Core 2 and backback fix
  - Invoker talents fix
+ - Ability icons fixed
  - Abyssal Underlord pick fix
  - Fix ability points on 17/19/21/22/23/24 levels
  - Gameinfo items list fix
+ - Duel experience fixed
+ - Bane 2 skill fix talent damage 
+ - Bane 2 skill now correctly works with linken sphere and lotus orb
+ - Joe black 3 skill now correctly works with linken sphere and lotus orb
+ - Dota pick menu fixed
