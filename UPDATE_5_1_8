@@ -1,0 +1,200 @@
+
+5.1.8 Mr.White
+Hero Changes:
+ Spike:
+  - 2 skill health regen changed from 1.4/1.5/1.6/1.7/1.8/1.9/2.0 to 0.6/0.7/0.8/0.9/1.0/1.1/1.2
+  - Talents from 15 level moved to 20 level
+  - Ultimate cooldown changed from 30 seconds to 60 seconds
+ 
+ Monkey King: 
+  - Jingu Mastery attack count / charge count changed from 4 to 3
+  - Base agility changed from 22 to 26 
+  - Base armor changed from -3 to -1
+  - Base strength changed from 18 to 22
+  
+ Shadowsong: 
+  - 1 skill damage changed from 180/320/420/540/620/700/800 to 180/260/300/350/420/450/500
+  
+ Crystal Maiden:
+  - Movespeed changed from 300 to 305
+  
+ Undying:
+  - 1 skill cooldown changed from 10.0/9.0/8.0/7.0/6.0/5.0/4.0 to 11.0/10.0/9.0/8.0/7.0/6.0/5.0
+  
+ Mirana:
+  - 1 skill damage changed from 100/140/225/285/350/450/520 to 100/120/185/225/320/400/420
+ 
+ Magnus:
+  - 1 skill damage changed from 125/210/285/380/450/590/666 to 125/210/285/380/450/475/555
+  - 3 skill range changed from 750/900/1050/1200/1600/1800/2500 to 750/900/1050/1150/1200/1300/1400
+  
+ Timbersaw:
+  - 2 skill manacost changed from 60/70/80/90/220/340/480 to 60/70/80/90/100/110/120
+  
+ Clinkz:
+  - 2 skill damage changed from 30/45/50/65/70/95/110 to 30/50/65/70/90/110/150
+  
+ Centaur Warruner:
+  - 3 skill damage from strength changed from 6/7/8/9/10/11/12% to 10/11/14/16/18/20/22%
+  
+ Invoker:
+  - Quas, Wex, Exors level between upgrades changed from 9 to default 
+  - Quas health regen changed from 2.0/3.0/4.0/6.0/8.0/10.0/12.0 to 2.0/2.5/3.0/3.5/4.0/4.5/5.0
+  - Quas bonus strength changed from 4/6/10/12/14/16/20 to 4/5/6/7/8/9/10
+  - Wex bonus attack speed changed from 10/18/22/28/32/36/40 to 10/12/14/16/18/20/22
+  - Wex bonus agility changed from 4/6/10/12/14/16/20 to 4/5/6/7/8/9/10
+  - Exort bonus damage changed from 9/12/15/18/21/32/45 to 9/12/14/16/18/22/26
+  - Exort bonus intellect changed from 4/6/10/12/14/16/20 to 4/5/6/7/8/9/10
+  - Coldsnap damage changed from 21/42/72/180/230/280/380/450 to 21/26/32/46/56/72/76/82
+  - Tornado cooldown changed from 25 seconds to 55 seconds
+  - Tornado wex damage changed from 120/200/325/670/815/1080/2060/3022 to 100/140/325/325/420/460/500/535
+  - Emp mana burn changed from 125/250/325/600/850/2300/7000/8500 to 125/250/325/345/360/430/560/700 
+  - Alacrity bonus attack speed changed from 20/40/80/100/110/120/160/180 to 20/30/40/50/60/70/80/90
+  - Alacrity bonus damage changed from 50/120/180/220/260/350/400/500 to 50/60/70/90/100/120/130/140
+  - Chaos Meteor strike damage changed from 60/100/247.5/382.5/580/721.5/955.5/1212.4 to 60/80/107.5/202/232/285.5/385.5/422.4
+  - Chaos Meteor burn damage changed from 21.5/32/55.5/123/220.5/321/412/522 to 21.5/32/36.5/42/45.5/55/62/75  
+  - Sun Strike damage changed from 225/350/480/650/858.5/1250.5/1500/3000 to 225/250/275/325/450/550/575/600
+  - Forge Spirit damage changed from 38/47/80/120/180/220/260/450 to 38/47/52/62/90/105/110/125
+  - Ice Wall damage per second changed from 24/40/62/120/210/320/425/580 to 24/36/42/48/54/65/78/90
+  - Deafening blast damage changed from 120/160/280/310/420/635/850/1020 to 120/160/280/310/360/420/480/520
+  
+ Slark:
+  - 2 skill damage changed from 140/180/300/350/425/475/525 to 120/160/220/300/350/400/425
+  
+ Enchantress:
+  - 3 skill level between upgrades now default 
+  - 3 skill heal changed from 10.0/20.0/35.0/50.0/80.0/100.0/150.0 to 10.0/20.0/25.0/30.0/35.0/40.0/50.0
+  - Base strength changed from 16 to 20 
+  - Base strength gain changed from 1.0 to 1.5
+  
+ Chaos Knight:
+  - 2 skill critical hit damage changed from 180/225/275/320/360/380/400% to 325%
+  - 3 skill crit/dodge changed from 10/15/20/25/28/30/35 to 10/15/20/25/26/28/30
+  
+ Phanthom Assassin:
+  - Agility Breaker now gives bonus agility only for kills
+ 
+ Dark seer:
+  - 1 skill radius changed from 250/350/450/525/550/575/600 to 250/300/325/350/425/450/475
+  - 2 skill damage changed from 35/70/90/100/120/140/160 to 35/60/80/90/110/120/130
+  
+ Ogre Magi:
+  - Aghanim scepter ultimate damage changed from 500 to 325 
+  
+ Puck:
+  - 1 skill cooldown changed from 8 seconds to 7 seconds 
+  
+ Drow Ranger:
+  - Base attack time changed from 1.4 to 1.7
+  - Ultimate now works with aghanim scepter(2 split, 600 range)
+  
+ Satan:
+  - Might damage changed from 300/600/900/1200/1400/1500/1600 to 300
+  - Might now disables with passive-disable debuffs
+  
+ Troll Warlord:
+  - Default base attack time changed from 1.5 to 1.7
+  - 1 skill bash duration changed from 0.8/0.9/1.0/1.1/1.2/1.3/1.4 to 1.0
+  - 1 skill base attack time changed from 1.4 to 1.65
+  - 2 skill damage changed from 100/180/225/300/380/400/480 to 150
+  
+ Pugna:
+  - 3 skill damage by intellect changed from 1.4 to 0.7
+  - Ultimate damage changed from 150/220/350/400/450/475/525 to 150/200/225/250/275/300/325
+  - Ultimate damage with scepter changed from 200/270/400/450/475/525/615 to 200/225/250/275/300/325/350
+  
+ Weaver:
+  - Base attack time changed from 1.3 to 1.7 
+  - 1 skill attack count changed from 8/9/10/12/18/20/35 to 8/9/10/12/18/20/22
+    
+ Tinker:
+  - 1 skill damage changed from 80/160/240/320/390/450/650 to 120/160/240/320/390/450/515
+  - 2 skill damage changed from 145/250/375/400/480/620/710 to 145/220/300/400/420/450/480
+  - 3 skill damage changed from 32/42/52/62/72/82/95 to 27/36/48/62/72/82/95 
+  
+ Death Prophet:
+  - 3 skill level between upgrades changed from 6 to default 
+  - Ultimate level between upgrades changed from 10 to default
+  - Ultimate cooldown changed from 130 seconds to 95 seconds
+  
+ Gun Joe:
+  - 1 skill now works with maelstrom and mjollnirs
+  - 2 skill bonus damage changed from 60/80/100/120/140/160/180 to 40/60/80/100/120/170/190
+  
+ Spectre:
+  - 2 skill bonus damage changed from 40/60/70/75/80/90/100 to 35/40/45/47/50/55/60
+  
+ Abaddon:
+  - Base intellect changed from 20 to 14
+  - 2 skill cooldown changed from 12.0/11.0/10.0/9.0/8.0/7.0/6.0 seconds to 12.0 seconds
+    
+ Juggernaut:
+  - 3 skill crit damage changed from 300% to 250%
+  
+ Shadow Fiend:
+  - 1, 2, 3 skill damage changed from 120/180/225/280/320/420/560 to 80/150/185/245/300/420/560
+  
+ Windranger:
+  - 2 skill damage changed from 160/220/320/460/520/660/820 to 140/200/260/360/420/480/520
+  
+ Shadow Shaman:
+  - 2 skill duration changed from 1.25/2.0/2.75/3.5/3.8/4.0/4.6 to 1.25/1.75/2.25/2.75/3.0/3.2/3.4
+ 
+ Viper:
+  - Base attack time changed from 1.2 to 1.7 
+  
+ Lion:
+  - 2 skill duration changed from 2.5/3.0/3.5/3.6/3.8/4.0/4.2 to 2.5/2.75/2.9/3.0/3.2/3.4/3.6
+ 
+ Medusa:
+  - 3 skill damage reduction changed from 0.5/0.55/0.6/0.7/0.8/0.9/1.0 to 0.5/0.55/0.6/0.65/0.7/0.75/0.8
+  
+ Pudge:
+  - 1 skill damage changed from 120/180/260/350/400/440/550 to 100/160/240/320/380/440/480
+ 
+ Phoenix: 
+  - Sun Ray now don't increase damage with spell amplify
+  
+ Chen:
+  - Test of faith cooldown changed from 16/15/14/13/12/11/10 seconds to 16 seconds
+  
+ Zeus:
+  - 2 skill damage changed from 100/175/275/350/580/620/720 to 100/155/225/300/450/500/580
+  
+ Elder Titan:
+  - 1 skill damage changed from 140/220/280/410/520/620/720 to 140/200/240/380/420/480/500
+  - 2 skill damage changed from 100/120/180/250/380/410/550 to 100/120/180/250/280/300/320
+  
+ Techies:
+  - 1 skill damage changed from 450/600/755/850/950/1150/1350 to 450/600/755/850/950/1050/1150
+  - 1 skill activation delay changed from 1.75 seconds to 1.5 seconds
+  
+ Nyx Assassin:
+  - 2 skill manaburn changed from 3.5/4.0/4.25/4.5/5/5.75/6.2 to 3.5/4.0/4.25/4.5/4.75/5.0/5.2
+  - 2 skill cooldown changed from 28.0/20.0/12.0/4.0/4.0/4.0/4.0 to 28.0/20.0/16.0/12.0/10.0/8.0/5.0
+  - 3 skill cooldown changed from 23/20/17/14/12/10/9 to 23/21/19/17/15/12/10
+ 
+Items changes:
+ Demons Midas:
+  - Demons Midas now dont works on ally team
+  
+ Charon Scepter:
+  - Now have animation particle
+  
+ Sacred Blades:
+  - Now works only on enemies
+  - Cooldown increased from 4 seconds to 6 seconds
+ 
+Other Changes:
+ - Undying 1 skill now purges on duel
+ - Shadow Shaman wards now dont grow up with time
+ - Pregame pick menu disabled
+ 
+Fix:
+ - Tidehunter 1 skill negative armor fix
+ - Tiny 1 skill damage fixed 
+ - Omniknight ability layout fixed
+ - Visage illusion rune bug fixed
+ - Gun joe ultimate with eul changed
+ - Power amulet fix manacost
+ - Amulets and backpack fixed
