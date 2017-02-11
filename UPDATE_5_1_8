@@ -189,6 +189,7 @@ Other Changes:
  - Undying 1 skill now purges on duel
  - Shadow Shaman wards now dont grow up with time
  - Pregame pick menu disabled
+ - Salamanders movespeed changed from 300 to 350
  
 Fix:
  - Tidehunter 1 skill negative armor fix
