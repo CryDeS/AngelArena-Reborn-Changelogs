@@ -1,0 +1,367 @@
+5.1.9 Stoneform
+New Hero:
+ Fireblade:
+  - 1 skill: Fireblade restore part of health for this ammount of mana.
+  - 1F skill: Fireblade throws fire stream that deal damage all enemies in front of him. For every hero damaged by this skill Fireblade take bonus damage for a short time.
+  - 2 skill: Fireblade ingnites his weapon by own blood. Burning blades deal addiditional damage to enemies and ignites him. Also fireblade change him skill to fireform skills.
+  - 2F skill: Fireblade puts him blades, lose all bonuses and take him old skills back.
+  - 3 skill: Fireblade consume all damage, until summary damage does not exceed some value.
+  - 3F skill: Fireblade after little delay deal damage to all enemies around him.
+  - 4 skill: Hero attacks everybody around him. Attack will deal bonus magical damage to enemies.
+ 
+Hero changes:
+ Abyssal Underlord:
+  - 2 skill ensure duration changed from 1.0/1.5/2.0/2.5/3.0/3.5/4.0 to 1.0/1.2/1.4/1.5/1.6/1.7/2.1
+  - Ultimate cooldown changed from 130.0/120.0/110.0/100.0/90.0/80.0/70.0 to 25.0
+  
+ Ancient Apparation:
+  - 3 skill attack slow changed from -20% to -40%
+  
+ Axe:
+  - 2 skill level between upgrades now default
+  - 2 skill damage changed from 16/32/40/60/90/160/200 to 16/32/40/52/64/72/85
+  
+ Bounty Hunter:
+  - 1 skill damage changed from 150/225/300/375/450/525/650 to 125/200/285/350/450/525/620
+  - 1 skill percent damage changed from 10% to 5%
+  - 2 skill damage multipler changed from 200/250/300/325/350/400/450% to 150/175/200/225/250/275/300%
+  
+ Bristleback:
+  - 2 skill stack damage changed from 15.0/18.0/20.0/22.0/24.0/26.0/28.0 to 19.0/21.0/23.0/25.0/28.0/30.0/32.0
+   
+ Brewmaster:
+  - 2 skill level between upgrades now default
+  
+ Centaur Warruner:
+  - 2 skill now deal damage from max health
+  - 3 skill now have default level between upgrades
+  - Ultimate cooldown changed from 90.0/75.0/60.0 to 90.0/85.0/80.0/75.0/70.0/65.0/60.0
+ 
+ Chaos Knight:
+  - 3 skill heal percent changed from 25% to 52%
+  
+ Crystal Maiden: 
+  - Movespeed changed from 305 to 310
+  - Base damage changed from 19-25 to 24-29
+  
+ Dazzle:
+  - 3 skill heal/damage changed from 110/180/240/320/400/500/600 to 90/120/140/180/200/220/250
+  - Ultimate level between upgrades now default
+  - Ultimate armor per second changed from 0.75/1/1.25/2.5/3.0/6.2/8.0 to 0.5/0.75/0.9/1.0/1.2/1.4/1.7
+  - Ultimate armor per second with scepter changed from 1.25/1.5/3.75/4.0/10.4/16.5/21.5 to 1.0/1.25/1.3/1.4/1.5/1.7/2.0
+  
+ Death Prophet:
+  - 2 skill duration changed from 3.0/4.0/5.0/6.0/7.0/8.0/9.0 to 3.0/3.5/4.0/4.5/5.0/5.5/6.0
+ 
+ Dragon Knight:
+  - 3 skill health regen changed from 9/14/18/25/36/42/50 to 6/8/12/16/20/26/32
+  - Ultimate corrosive breath damage changed from 40/60/80 to 20/30/40
+  
+ Drow Ranger:
+  - Ultimate split attack damage reduce changed from 0% to 60%
+  - Ultimate bonus agility changed from 60/80/100/200/350/400/600 to 60/80/100/180/250/300/350
+  
+ Enigma:
+  - 2 skill now have default leveling 
+  - 2 skill spawn count changed from 3/4/5/6 to 3
+   
+ Earthshaker:
+  - 1 skill stun duration changed from 1.0/1.25/1.5/1.75/2.0/2.2/2.6 to 1.0/1.25/1.5/1.75/2.0/2.1/2.25
+  - 2 skill level between upgrades now default
+  - 3 skill stun duration changed from 0.6/0.9/1.2/1.5/1.6/1.7/1.8 to 0.6/0.7/0.8/0.9/1.0/1.1/1.2
+  
+ Earth Spirit:
+  - Ultimate cooldown changed from 80 seconds to 60 seconds
+  - Ultimate damage changed from 50/140/180/200/240/360/420 to 80/190/240/300/350/450/580
+  
+ Enchantress:
+  - 3 skill heal changed from 10.0/20.0/25.0/30.0/35.0/40.0/50.0 to 12.0
+  - 3 skill level between upgrades now default
+  - Ultimate damage changed from 14/22/32/52/82/91/100% to 14/22/32/42/52/62/72%
+ 
+ Monkey King:
+  - Passive vampire changed from 30% to 75%
+  
+ Gun Joe:
+  - Ultimate duration changed from 2.0/3.0/3.5/4.5/5.0/5.5/6.0 seconds to 3.5 seconds 
+  - Ultimate now not purgable
+
+ Razor:
+  - 1 skill min damage changed from 30/70/90/100/120/140/160 to 60/140/200/225/250/360/400
+  - 2 skill drain ammount changed from 7/10/14/18/22/28/32 to 9/14/18/24/30/36/42
+  
+ Reaver Lord:
+  - Soul Burn ability deleted from hero
+  - Ultimate damage type changed from pure to magical
+  - Souls now dont dissapers after death 
+     
+ Riki:
+  - Base strength changed from 17 to 21
+ 
+ Rubick:
+  - Ultimate cooldown with scepter changed from 10/5/0 to 6/4/2
+  - Ultimate cast range with scepter changed from 2500 to 1700
+  
+ Hola: 
+  - 1 skill damage changed from 200/475/655/780/920/1080/1450 to 250/375/475/520/680/750/800
+  - 3 skill damage changed from 400/600/800/1200/1800/2200/2600 to 400/500/600/700/800/900/1000
+ 
+ Legion Commander:
+  - Ultimate bonus damage changed from 22/32/42/62/92/120/160 to 22/32/42/52/62/70/80
+  
+ Leshrac:
+  - 2 skill explosion number changed from 40 to 30
+  
+ Lich:
+  - 3 skill now works on AOE with radius 620
+  
+ Lina:
+  - Ultimate damage changed from 450/675/750/850/920/1150/1300 to 450/700/850/920/1150/1350/1600
+  
+ Lifestealer:
+  - Scepter ability cooldown changed from 50 seconds to 30 seconds
+  
+ Lone Druid:
+  - 1 skill cooldown changed from 120 seconds to 60 seconds
+  - Separation of Souls (bear skill) bonus attack changed from 40% to 65%
+  
+ Luna:
+  - 1 skill percent damage changed from 8.0% to 5.0% 
+  - Ultimate now deal damage from current health
+  - Ultimate cooldown changed from 100 seconds to 135 seconds
+ 
+ Juggernaut:
+  - Ultimate icon changed to default 
+  - Ultimate jumps changed from 2/4/8/10/12/14/16 to 3/4/8/10/12/14/16
+  
+ Nature Prophet:
+  - Nature Wraith now can be learned on 1 level(old level is 16)
+  
+ Nyx Assasin:
+  - 2 skill multipler changed from 3.5/4.0/4.25/4.5/4.75/5.0/5.2 to 3.0/3.25/3.5/3.75/4.0/4.2/4.5
+ 
+ Venomancer:
+  - 1 skill tick damage changed from 20/60/110/120/160/200/260 to 20/40/60/80/100/120/140
+    
+ Visage:
+  - Familiars armor changed from 6 12 30 to 3 6 12
+  - Familiars health changed from 300/450/600 to 400/800/1200
+  - Familiars damage charge time changed from 10.0 seconds to 2.0 seconds
+  - Familiars max charges changed from 25 to 7
+  - Familiars damage per charge changed from 4/6/8 to 15/22/29
+  - Familiars damage changed from 105/150/200 to 105/154/203
+  
+ Ogre Magi:
+  - 3 skill bonus movespeed changed from 10/12/14/16/18/20/22% to 10/11/12/13/14/15/16%
+ 
+ Sand King:
+  - 3 skill percent damage changed from 2.0% to 1.0%
+ 
+ Satan:
+  - Might damage changed from 2.5/2.8/3.2/3.4/4.0/4.5/5.0% to 2.5%
+  - Might now dont work throw magic immune
+  - Trade damage get changed from 70/80/90/100/110/120/130% to 30/40/50/55/60/65/70%
+ 
+ Silencer:
+  - 1 skill radius changed from 600 to 375 
+ 
+ Storm Spirit:
+  - Ultimate manaburn changed from 1.5 to 1.0
+  
+ Slardar:
+  - 2 skill radius changed from 275 to 300
+  - Ultimate cooldown changed from 15 seconds to 10 seconds
+  
+ Skywrath Mage:
+  - 1 skill intellect multipler changed from 1.4/1.5/1.6/1.7/1.8/1.9/2.0 to 1.4
+  - 2 skill cooldown changed from 18.0/16.0/14.0/12.0/10.0/8.0/6.0 to 18.0/17.0/16.0/15.0/14.0/13.0/12.0
+  - 3 skill silence duration changed from 3.0/4.0/5.0/6.0/7.0/8.0/9.0 to 3.0/3.5/4.0/4.5/5.0/5.5/6.0
+  
+ Spike:
+  - 1 skill now dont work from roots 
+  
+ Spirit Breaker:
+  - Ultimate bash radius changed from 250/280/300/350/400/450/500 to 250
+  
+ Sven: 
+  - Warcry armor changed from 5/10/15/20/25/30/35 to 4/6/8/10/12/14/16
+  
+ Magnus:
+  - 2 skill manacost changed from 200 to 50
+  - 2 skill cooldown changed from 60/55/50/41/32/24/12 to 8
+  
+ Morphling:
+  - 3/4 skill bonus attributes changed from 3/5/7/9/11/13/15 to 3/7/9/12/15/18/22
+  
+ Huskar:
+  - 1 skill heal from hurt attributes changed from 0.2/0.4/0.6/0.8/1.2/1.5/1.8 to 0.1/0.35/0.45/0.55/0.6/0.7/0.8
+  - 2 skill damage changed from 15/20/22/26/28/30/32 to 10/15/20/28/32/36/42
+  
+ Necrolyte:
+  - Ultimate damage per health changed from 0.3/0.35/0.4/0.45/0.50/0.55/0.6 to 0.6/0.65/0.7/0.75/0.8/0.85/0.9
+  - Ultimate ultimate scepter cooldown changed from 50 to 30 seconds
+ 
+ Phanthom Assassin:
+  - Ultimate critical multipler changed from 230/360/420/480/580/620/650% to 230/275/300/325/350/400/425%
+ 
+ Puck:
+  - Ultimate break damage changed from 200/250/300/360/450/600/800 to 420/550/680/790/850/920/1075
+  - Base strength changed from 15 to 19
+ 
+ Pudge: 
+  - 3 skill bonus strength changed from 1.0/2.5/3/4.5/5.8/6.2/7.5 to 1.5/2.0/2.5/2.7/3.0/3.2/3.5
+ 
+ Pugna:
+  - 3 skill mana regen changed from -1.5/-3.0/-4.5/-6.0% to -1.0/-1.5/-1.8/-2.0%
+  
+ Invoker:
+  - Base itellect changed from 22 to 30 
+  - Emp damage from mana burn changed from 33% to 50%
+  - Emp mana burn changed from 125/250/325/345/360/430/560/700 to 125/250/325/345/420/530/760/900
+  - Forge Spirit health changed from 100/150/200/250/300/350/500/600 to 400/450/500/550/600/650/700/750
+  
+ Troll Warlord:
+  - 3 skill now work on 1 attack
+  
+ Tiny:
+  - 2 skill bonus damage to enemy changed from 20/30/40/50/60/70/80 to 35%
+  
+ Timersaw:
+  - 2 skill chain damage changed from 100/140/180/220/380/450/510 to 100/140/180/220/270/300/320
+  
+ Tuskar:
+  - 2 skill damage changed from 20/50/70/110/140/220/310 to 20/50/70/90/120/140/150
+  - Ultimate damage multipler changed from 420/550/620/680/720/760/820% to 420/480/520/540/560/580/600%
+
+ Ursa:
+  - 1 skill movement speed slow changed from -35% to -65%
+  - 1 skill damage changed from 100/180/220/350/495/600/680 to 100/160/210/300/380/420/480
+  - 2 skill attack count changed from 5/6/7/8/9/10/12 to 3/4/5/6/7/8/9
+  - 3 skill bonus damage changed from 9/12/16/20/25/30/35 to 10/12/16/20/25/30/35
+  - Base armor changed from -2 to 1
+  
+ Undying:
+  - 2 skill level between upgrades now default
+  - 2 skill damage per unit changed from 28/36/45/62/100/120/150 to 28/36/45/52/63/72/85
+  - 3 skill level between upgrades now default
+  - 3 skill tombstone health changed from 6/18/24/35 to 6/10/14/18
+  - Ultimate level betwen upgrades now default
+  - Ultimate max damage amplification changed from 30/55/80% to 30/45/55%
+  
+ Windrunner:
+  - 3 skill bonus movespeed changed from 25/30/40/50/55/65/75% to 25%
+  
+ Wraith King:
+  - Ultimate manacost changed from 300/280/260/220/200/180/160 to 160
+  - Ultimate cooldown changed from 260/220/200/180/130/90/60 to 120/110/100/90/80/70/60
+ 
+ Queen of Pain:
+  - Base attack time changed from 1.5 to 1.7
+  - Base Intellect changed from 24 to 22 
+  
+ Zeus:
+  - 1 skill damage changed from 85/100/125/185/255/300/350 to 85/100/125/165/185/225/275
+  
+Item changes:
+ Angels Desolators:
+  - Recipe cost changed from 4000 to 2500 
+  
+ Amaliel Cuirass:
+  - Recipe cost changed from 7550 to 5550 
+  
+ Armlet 1/2/3:
+  - Health drain changed from 40/200/400 to 40/150/400
+ 
+ Burning Blades:
+  - Recipe cost changed from 3000 to 4500 
+  
+ Charon Scepter:
+  - Cooldown changed from 14 seconds to 16 seconds
+  
+ Crimson Guard 2:
+  - Recipe cost changed from 7200 to 4200
+  - Passive block damage changed from 82 to 120
+  
+ Death Sheild:
+  - Cost changed from 3200 to 1200
+  
+ Drums of Endurance:
+  - Duration changed from 4 seconds to 6 seconds
+  - Bonus movespeed changed from 10% to 15%
+  - Bonus attackspeed changed from 25 to 40
+  - Cooldown changed from 30 seconds to 20 seconds
+  
+ Echo Sabre 2:
+  - Recipe cost changed from 4100 to 0 
+  
+ Radiance 1/2/3:
+  - Damage from stats now deal 1/2 damage from invis, illusion, invul (charon scepter)
+  - Damage from stats changed from 0.0/0.28/0.4 to 0.0/0.1/0.2
+  
+ Rapier 1/2:  
+  - Bonus damage changed from 330/1250 to 330/850
+ 
+ Recovery Orb:
+  - Ability refresh change changed from 10% to 22%
+  - Ultiamte refresh chance changed from 5% to 12%
+  
+ Sacred Blades:
+  - Now dont work for magic immune
+  
+ Slice of Static:
+  - Manacost changed from 100 to 45
+  
+ Snake Boots:
+  - Snake boots now channel-item 
+  - Snake boots can be refreshed by tinker
+  
+ Manta Style 2:
+  - Recipe cost changed from 2000 to 0
+  
+ Mjollnir 2:
+  - Now require 2 maelstrom + 1 mjollnir + recipe to craft 
+  
+ Heaven's Halberd:
+  - Recipe cost changed from 2500 to 0
+  
+ Vanguard:
+  - Block chance melee changed from 50% to 70%
+  
+ Soul Vessel:
+  - Heal constant changed from 1400 to 600
+  - Heal percent changed from 25% to 15%
+  - Cooldown changed from 16 seconds to 14 seconds 
+  - Cast range changed from 800 to 600
+  
+ Reverse:
+  - Bonus damage changed from 620 to 380
+  
+ Tome of Hero:
+  - Cost changed from 1000 to 750
+  
+Other changes:
+ - 5x5 map landscape changes
+ - Salamanders and dragons magical resist changed from 45% to 75%
+ - Salamanders and dragons magical resist deleted 
+ - Fountain now dont have psi-blades
+ - Fountain now dont have anti-camp system 
+ - Fountain deal 5% pure damage from max health for enemy 
+ - Fountain grants 70% ALL DAMAEG resist to ally
+ - Fountain health regen percentage changed from 10% to 7%
+ - Fountain mana regen percentage changed from 10% to 5%
+ - Killimit choice changed from 50/100/150/200 to 50/75/100/125
+ - Bosses now have stone form. In stone form bosses are invulnerable, stunned and regenerate 2% hp/sec. To remove stoneform you will need attack boss 3 times
+ - Courier killer gets bonus 350 gold
+ - Duel now works little diffirently. Duel players now ALL alive non-disconnected players. So now, duel can be started 1v2 and etc.
+ 
+Fixes:
+ - Creep follow fix
+ - Echo saber 1 slow fix
+ - Drow Ranger vengeance arrow now dont attack from invis and hex
+ - Wisp 2 skill purges on duel
+ - Undying ultimate now purges on duel
+ - Centaur 2 skill now spell amplify constant
+ - Fix visage familiars movespeed
+ - Hood of rage magical resist fixed
+ - Venomancer ultimate cooldown with scepter fixed
+ - Localization fixes
