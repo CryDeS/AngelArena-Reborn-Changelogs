@@ -1,0 +1,90 @@
+5.2.3 Duelling 
+Hero changes:
+ Alchemist:
+  - Strength gain per level changed from 2.5 to 1.5 
+  - Agility gain per levle changed from 2.5 to 2.0 
+  - Intellect gain per level changed from 2.4 to 1.0
+  
+ Silencer:
+  - 1 skill damage changed from 16/24/30/40/50/56/65 to 16/20/26/30/34/40/42
+  - 2 skill manacost changed from 45/45/45/45/50/50/60 to 30
+  - 3 skill silence duration changed from 7 to 6
+
+ Satan:
+  - 1 skill damage changed from 40/60/80/100/120/140/160 to 40/50/60/65/70/75/80
+  
+ Slardar:
+  - Ultimate disarmor changed from -10/12/16/18/22/26/28 to -4/6/8/12/16/18/20
+  
+ Shadow Fiend:
+  - Base damage changed from 21-31 to 34-40
+  - Base armor changed from -1 to 0 
+  - Base strength changed from 15 to 18
+  - Intellect gain for level chagned from 2.0 to 2.2
+  - 4 skill souls changed from 15/22/26/30/32/45/64 to 15/22/28/35/40/54/64
+  - 5 skill disarmor changed from -15/18/20/22/25/27/30% to -18%
+  - Ultimate cooldown changed from 120.0/110.0/100.0/90.0/90.0/90.0 to 60
+  - Ultimate damage changed from 80/120/180/260/380/560/850 to 
+  - Ultimate leveling now default
+  
+ Rikimaru:
+  - Cunning ability deleted 
+  
+ Drow Ranger:
+  - 1 skill manacost changed from 12/22/32/42/52/62/72 to 15
+  
+ Lycan:
+  - 1 skill leveling now default 
+  
+ Clinkz:
+  - 2 skill manacost changed from 10/8/6/4/3/1/0 to 15
+  - Ultimate manacost changed from 100/200/300/400/500/600/700 to 100/120/140/160/180/200/220
+   
+ Chen:
+  - Ultimate cooldown changed from 160/140/120/100/80/60/30 to 90/85/70/60/50/40/30
+  
+ Clockwerk:
+  - 1 skill cooldown changed from 32.0/28.0/24.0/22.0/21.0/20.0/18.0 to 28.0
+  
+ Faceless Void:
+  - Ultiamte manacost changed from 150/225/300/400/600/900/1200/1400 to 175
+  
+ Huskar:
+  - Ultimate damage to self changd from 0.15 to 0.25
+  
+ Magnus:
+  - Ultimate cooldown changed from 120/115/110/105/100/95/90 to 90
+  
+ Mirana:
+  - 2 skill range changed from 1500 to 2000
+  
+ Shadowshaman:
+  - Ultimate now gets 60 attack for every 5 minute after 15 minute(old 40min)
+  
+ Outworld Devouver:
+  - 1 skill damage from mana changed from 5.5/5.7/6.0/6.2/6.5/6.7/7.0 to 6.0 
+  
+ Omniknight:
+  - 3 skill movement speed slow changed from -10/18/26/34/38/42/48% to -10/14/18/20/24/26/30%
+  
+Item changes:
+ Power Amulet:
+  - Disarmor now purgable
+  - Works in full strength to bosses
+  
+ Heaven's Halberd 2:
+  - Cooldown changed from 22 to 18 
+ 
+ Tome Str/Int/Agi/Gods:
+  - Tomes now shareable
+  
+Other changes:
+ - Duel and bottom rune landscape changed
+ - Jakiro ultimate now dont work before duel stats
+ - Now getting into duel arena without duel wasn't teleport you
+ - Killimit changed from 50/75/100/125 to 75/90/100/125
+
+Fix:
+ - Amulets now decrease stacks in backpack
+ - Lycan 2 skill fixed
+ - Duel fixed
