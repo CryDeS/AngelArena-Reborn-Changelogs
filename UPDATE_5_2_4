@@ -1,4 +1,3 @@
-5.2.4 Captains Mode 
 Added:
  - Captains Mode map (map_5x5_cm)
  
@@ -220,6 +219,61 @@ Changes:
  - The Keeping urn craft changed and name changed to Devouver Helm(now crafts from helm dominator and can dominate creeps) * Thanks Sheodar for icon
  - Fountain percent damage changed from 5% to 2.5% 
  - Death units on duel now teleportes to base after duel ends 
+ - Creep changes:
+   - Ursa level 15 health changed from 4000 to 2000
+   - Ursa level 20 health changed from 6000 to 3000
+   - Ursa level 25 health changed from 8000 to 4000
+   - Ursa level 40 health changed from 18000 to 5000
+   - Ursa level 60 health changed from 35000 to 6000
+   - Ursa level 80 health changed from 58000 to 7000
+   - Ursa level 100 health changed from 85000 to 8000
+   - Troll level 15 health changed from 4000 to 2000 
+   - Troll level 20 health changed from 5000 to 3000 
+   - Troll level 25 health changed from 8000 to 4000
+   - Troll level 40 health changed from 18000 to 5000
+   - Troll level 60 health changed from 40000 to 6000
+   - Troll level 80 health changed from 59000 to 7000
+   - Troll level 100 health changed from 85000 to 8000
+   - Wildwing level 25 health changed from 8000 to 4000
+   - Wildwing level 40 health changed from 18000 to 5000
+   - Wildwing level 60 health changed from 40000 to 6000 
+   - Wildwing level 80 health changed from 59000 to 7000 
+   - Wildwing level 100 health changed from 85000 to 8000 
+   - Golem level 15 health changed from 5000 to 2000
+   - Golem level 20 health changed from 6000 to 3000
+   - Golem level 25 health changed from 8000 to 4000
+   - Golem level 40 health changed from 18000 to 5000 
+   - Golem level 60 health changed from 40000 to 6000 
+   - Golem level 80 health changed from 59000 to 7000 
+   - Golem level 100 health changed from 85000 to 8000 
+   - Dragon level 15 health changed from 5000 to 2000
+   - Dragon level 20 health changed from 8000 to 3000 
+   - Dragon level 25 health changed from 10000 to 4000
+   - Dragon level 40 health changed from 18000 to 5000 
+   - Dragon level 60 health changed from 40000 to 6000 
+   - Dragon level 80 health changed from 59000 to 7000 
+   - Dragon level 100 health changed from 85000 to 8000 
+   - Centaur level 15 health changed from 5000 to 2000
+   - Centaur level 20 health changed from 8000 to 3000 
+   - Centaur level 25 health changed from 10000 to 4000
+   - Centaur level 40 health changed from 18000 to 5000 
+   - Centaur level 60 health changed from 40000 to 6000 
+   - Centaur level 80 health changed from 59000 to 7000 
+   - Centaur level 100 health changed from 85000 to 8000 
+   - Croco level 15 health changed from 5000 to 2000 
+   - Croco level 20 health changed from 8000 to 3000
+   - Croco level 25 health changed from 10000 to 4000
+   - Croco level 40 health changed from 18000 to 5000 
+   - Croco level 60 health changed from 40000 to 6000 
+   - Croco level 80 health changed from 59000 to 7000 
+   - Croco level 100 health changed from 85000 to 8000 
+   - Salamander level 15 health changed from 3000 to 2000 
+   - Salamander level 20 health changed from 4000 to 3000
+   - Salamander level 25 health changed from 5000 to 4000
+   - Salamander level 40 health changed from 18000 to 5000 
+   - Salamander level 60 health changed from 40000 to 6000 
+   - Salamander level 80 health changed from 59000 to 7000 
+   - Salamander level 100 health changed from 85000 to 8000 
  
 Fixes:
  - Polar spear, plague staff, talisman of mastery, devour helm now stackable and give stats to death heroes
