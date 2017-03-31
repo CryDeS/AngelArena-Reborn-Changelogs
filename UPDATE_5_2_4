@@ -1,0 +1,229 @@
+5.2.4 Captains Mode 
+Added:
+ - Captains Mode map (map_5x5_cm)
+ 
+Hero changes:
+ Pudge:
+  - Ultimate damage from strength changed from 0.3/0.4/0.6/0.8/1.2/1.6/2.0 to 1.2
+  
+ Spike:
+  - 1 skill now stop works when spike get's into stun and roots
+  
+ Kunkka:
+  - 1 skill cast range changed from 800 to 1000 
+  
+ Brewmaster:
+  - 1 skill damage changed from 100/155/225/285/325/445/500 to 150/185/285/325/385/455/580
+  - 3 skill last time changed from 20 to 8
+  
+ Broodmother:
+  - 2 skill web count changed from 4/6/8/16/22/26/32 to 4/5/6/8/9/10/12
+  - 2 skill web max charges changed from 4/6/8/10/12/14/16 to 4/5/6/8/9/10/12 
+  - Ultimate cooldown changed from 45.0/45.0/45.0/45.0/42.0/36.0/25.0 to 45.0
+  - Spiders damage changed from 18-19/15-16
+  - Spiders bonus damage now take bonus damage after 10 minute, bonus damage:
+    - 10 - 20 min = 2 for every minute 
+	- 20 - 30 min = 3 for every minute 
+	- 30 - end min = 5 for every minute
+  
+ Chaos Knight:
+  - 2 skill duration changed from 8 to 3 
+  
+ Clockwerk:
+  - 3 skill manacost changed from 50 to 75 
+  
+ Dark Seer:
+  - 1 skill cooldown changed from 12 to 15 
+  - Base armor changed from 5 to -2 
+  - Ultimate range changed from 500/900/1300/1500/1500/1500/1500 to 500/750/800/900/1000/1100/1200
+  
+ Dazzle:
+  - 1 skill manacost changed from 100 to 75 
+  - 2 skill range changed from 550/700/850/1000/1200/1400/1600 to 1200
+  
+ Death Prophet:
+  - 3 skill movement slow changed from 6/8/10/12/14/16/18% to 35%
+  
+ Earthshaker: 
+  - 1 skill range changed from 1600 to 1500
+  - Ultimate range changed from 800 to 700 
+
+ Elder Titan:
+  - Base strength changed from 30 to 24 
+  - Ultimate damage changed from 20/23/27/30% to 30/45/50/60%
+  - Ultimate now didn't incrase damage affected by spell amplify 
+  - Ultimate cooldown changed from 100/100/100/90 to 90
+  
+ Enigma:
+  - Ultimate manacost changed from 325/265/225/180/125/50/0 to 325 
+  - Ultimate cooldown chagned from 180/170/160/130/120/110/100 to 120/115/110/105/100/95/90 
+  
+ Faceless Void:
+  - Ultimate cooldown changed from 130.0/120.0/115.0/110.0/100.0/95.0/90.0 to 60.0 
+  - Ultimate cooldown with scepter changed from 70.0 to 45.0 
+  
+ Gyrocopter:
+  - Base agility changed from 18 to 25 
+  
+ Invoker:
+  - 1 skill health regen changed from 2.0/2.5/3.0/3.5/4.0/4.5/5.0 to 2.0/4.0/5.0/6.0/7.0/9.0/15.0
+  - Meteor maim damage changed from 60/80/107.5/202/232/285.5/385.5/422.4 to 60/80/107.5/122/152/185.5/245.1/292.5
+  - Blast damage changed from 120/160/280/310/360/420/480/520 to 120/160/240/300/320/380/420/450
+  - Tornado duration chagned from 0.8/1.1/1.4/1.7/2.2/2.6/2.9/3.2 to 0.8/1.1/1.4/1.7/2.2/2.4/2.6/2.8
+  
+ Jakiro:
+  - Base movement speed changed from 305 to 300 
+  - Base strength changed frm 25 to 18 
+  - 2 skill damage changed from 80/120/140/180/220/260/300 to 80
+  - 3 skill damage changed from 18/25/34/42/55/64/72 to 15/24/30/35/45/58/65
+  - 3 skill percent damage changed from 1.0% to 0.5%
+  - 3 skill cooldown changed from 20/15/10/7/5/4/3 to 8.0/7.5/6.0/5.5/5.0/4.0/3.0
+  
+ Juggernaut:
+  - 2 skill cooldown changed from 60 seconds to 45 seconds 
+  - 3 skill chance changed from 10/14/16/18/20/22/25% to 10/14/16/18/20/24/28%
+  
+ Legion Commander:
+  - Ultimate manacost changed from 75/65/55/45/25/15/0 to 100
+  
+ Leshrack:
+  - 3 skill damage changed from 120/180/220/280/320/420/450 to 120/160/200/240/260/280/300
+  - 3 skill percent damage changed to damage from intellect
+  - 3 skill damage from intellect now 0.7
+  
+ Lich:
+  - 2 skill attack slow changed from -20 to -30 
+  
+ Lina:
+  - 2 skill duration changed from 1.6/1.9/2.2/2.5/2.6/2.7/2.8 to 2.0
+  
+ Lion:
+  - 1 skill cooldown changed from 12/12/12/12/10/10/10 to 12 
+  - 3 skill mana per second changed from 20/40/60/80/100/150/180 to 30/50/80/100/120/180/220
+  - Ultiamte cooldown chagned from 160/100/40/40/40/40 to 90.0/80.0/70.0/60.0/50.0/40.0
+  - Ultimate cooldown with scepter changed from 100/60/20/20/20/15/12 to 15
+  - Ultimate cast range changed from 1000 to 1400  
+  
+ Lycan:
+  - 1 skill cooldown changed from 30.0/29.0/28.0/27.0/26.0/25.0/24.0 to 24.0 
+  
+ Lone Druid:
+  - Bear 2 level damage changed from 65-68 to 45-48 
+  - Bear 3 level damage changed from 75-78 to 58-62 
+  - Bear 4 level damage changed from 85-90 to 75-85 
+  
+ Medusa:
+  - Agility gain per level changed from 3.1 to 2.3
+  - Intellect gain per level changed from 2.5 to 2.0 
+  - Strength gain per levle changed from 2.6 to 2.0
+  - Base movement speed changed from 300 to 295
+  
+ Meepo:
+  - 2 skill damage changed from 80/120/140/160/180/200/220 to 100/160/200/210/230/250/280
+  
+ Nature Prophet:
+  - Base agility changed from 10 to 16 
+  - Base movement speed changed from 305 to 300 
+  - Ultimate damage changed from 105/120/160/180/200/225/300 to 125/140/180/220/260/305/425
+  
+ Necrophos:
+  - Base movement speed changed from 290 to 300 
+  - 2 skill damage changed from 0.6/0.8/1.0/1.2/1.4/1.5/1.8% to 1.0/1.2/1.4/1.6/1.8/2.0/2.2%
+  
+ Nyx Assassin:
+  - Base armor changed from 2.0 to 1.3 
+  
+ Ogre Magi:
+  - Base armor changed from 0 to 2 
+  
+ Omniknight:
+  - Base movement speed changed from 310 to 300 
+  
+ Oracle:
+  - Base intellect gain per level changed from 3.8 to 2.4 
+  - 3 skill cast range changed from 750 to 550
+  - 3 skill manacost changed from 50/60/70/80/90/100/120 to 100/120/140/160/180/200/220
+  
+ Pudge:
+  - Base armor changed from -1 to 1 
+  
+ Rubick:
+  - 2 skill jump damage reduce changed from 6% to 0% 
+  
+ Silencer:
+  - Base armor changed from 1 to 0 
+  
+ Skywrath Mage:
+  - Base armor changed from 1 to 0 
+  
+ Spirit Breaker:
+  - Base strength changed from 32 to 28 
+  - Base movement speed changed from 300 to 290 
+  
+ Tidehunter:
+  - Strength gain per level changed from 1.8 to 2.4 
+  - Agility gain per level changed from 1.0 to 1.4 
+  
+ Tinker:
+  - Base damage changed from 22-28 to 28-32
+  
+ Tiny: 
+  - 1 skill damage changed from 100/140/200/220/280/300/365 to 125/160/220/240/300/320/385
+  - Ultimate bonus damage changed from 75/125/200 to 90/145/250
+  
+ Treant:
+  - Base armor changed from 1 to 0 
+  - Base strength changed from 25 to 22 
+  
+ Troll Warlord:
+  - Base strength changed from 18 to 20 
+  - Strength gain per level changed from 2.0 to 2.1
+  - Base agiltity changed from 18 to 21 
+  
+ Tusk:
+  - Base strength changed from 25 to 22 
+  - Strength gain per level changed from 3.1 to 2.7 
+  - Base agility chagned from 23 to 22 
+  - Agility gain per level changed from 2.4 to 2.2
+  
+ Viper:
+  - Base armor chagned from 1 to -1 
+  
+ Witch Doctor:
+  - Base armor changed from -1 to 0
+  
+ Zeus:
+  - Base armor changed from 0 to 1
+  
+Item changes:
+ Angel Greaves:
+  - Now restore 1/2 mana if someone used that item recently (old = 0 mana restore)
+  
+ Static Amulet:
+  - Percent damage to health changed from 10% to 15% 
+  - Manacost changed from 275 to 200 
+  
+ Eclipse Amphora:
+  - Radius changed from 1200 to 900 
+  - Now can't be used again for 25 seconds after first usage
+ 
+ Sacred Blades:
+  - Manacost changed from 150 to 50
+  
+ Talisman of Mastery:
+  - Cost changed from 600 to 375 
+  
+ Plague Staff:
+  - Magical crit changed from 175% to 200% 
+  
+Changes:
+ - The Keeping urn craft changed and name changed to Devouver Helm(now crafts from helm dominator and can dominate creeps) * Thanks Sheodar for icon
+ - Fountain percent damage changed from 5% to 2.5% 
+ - Death units on duel now teleportes to base after duel ends 
+ 
+Fixes:
+ - Polar spear, plague staff, talisman of mastery, devour helm now stackable and give stats to death heroes
+ - Devour helm now can be only used to heroes and creeps 
+ - Devour helm now make unit unselectable
+ - Polar spear now can be used only on creeps and heroes
+ - Devour helm now can't be used to creep-heroes
