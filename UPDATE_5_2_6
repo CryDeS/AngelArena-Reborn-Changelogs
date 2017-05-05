@@ -1,0 +1,167 @@
+5.2.6 Why 13 Reasons?
+Hero Changes:
+ Abaddon:
+  - 2 skill explosion radius changed from 750 to 650 
+  
+ Bounty Hunter:
+  - Ultimate bonus gold to self changed from 250/325/375/400/650/775/900 to 250/350/425/475/750/1000/1450
+  - Ultimatte bonus gold to ally changed from 125/250/300/350/450/600/700 to 200/280/350/450/650/800/1100
+  
+ Puck:
+  - 1 skill damage changed from 110/160/210/320/380/480/550 to 125/180/225/350/400/420/450
+  
+ Dazzle: 
+  - 3 skill heal/damage changed from 90/120/140/180/200/220/250 to 75/100/120/160/190/220/250
+  
+ Earth Spirit:
+  - 2 skill speed changed from 700 to 850, speed with stone changed from 800 to 1400 
+  
+ Necrophos:
+  - 1 skill hp regen for kill changed from 1/3/5/7/12/16/20 to 1/3/4/5/6/8/10
+ 
+ Mirana:
+  - Overskill multipler changed from 0.5/1.0/1.5/2.0/2.5/2.7/3.0 to 0.5/1.0/1.2/1.4/1.5/1.6/1.7
+  - Overskill cooldown changed from 42 to 25 seconds
+  - Overskill duration changed from 3.5 to 9.0 seconds
+  - Overskill leveling disabled
+  
+ Gyrocopter:
+  - 1 skill percent damage to boss decreaser changed from 1/10 to 1/2
+  
+ Phanthom Lancer:
+  - 1 skill percents damage changed from 10% to 7.5% 
+  
+ Lone Druid:
+  - Roar radius changed from 425 to 325
+ 
+ Outworld Devouver:
+  - 2 skill cooldown changed from 10 seconds to 12 seconds 
+  
+ Disruptor:
+  - 1 skill damage changed from 40/60/80/100/120/140/160 to 60/80/100/120/140/160/180
+  
+ Clinkz:
+  - Base strength changed from 15 to 20 
+  - Base agility changed from 22 to 24 
+  - Base damage changed from 15-21 to 20-27
+  - 1 skill cooldown changed from 20 seconds to 15 seconds
+  - Ultimate bonus damage from ultimate changed from 2.0/2.2/2.5/2.7/3.0/3.5/4.0% to 10/12/14/16/18/20/22%
+  - Base attack time changed from 1.7 to 1.6 
+  
+ Chen:
+  - Talent on 25 level +200 heal from ultimate changed to +1000 heal from ultimate
+  
+ Death Prophet:
+  - Ultimate bonus magical damage chance changed from 30% to 20% 
+  
+ Hola:
+  - 1 skill stun duration changed from 2.5 to 1.5 
+  - 1 skill cooldown changed from 10 to 12 
+  - 2 skill cooldown changed from 12 to 16 
+  - 3 skill heal changed from 600/1000/1400/1800/2000/2300/2500 to 400/500/600/700/800/900/1000
+  - 3 skill heal from max health changed from 2/3/4/6/8/12/16% to 2/3/4/5/6/7/8%
+  - Ultimate radius changed from 1000/2000/3000/4000/5000/6000/7000 to 1000/1250/1500/1750/2000/2250/2500
+  
+ Drow Ranger:
+  - Ultiamate bonus agility changed from 60/80/100/120/140/160/200 to 60/80/100/140/180/250/300
+  
+ Monkey King:
+  - Mischief cooldown changed from 3 to 2 
+  - Mischief movespeed changed from 250 to 300 
+  - Passive ability lifesteal changed from 75% to 45%
+  
+ Juggernaut:
+  - 1 skill damage changed from 50/80/105/125/140/180/250 to 80/90/105/125/140/180/250
+  
+ Winter Wyvern:
+  - Attack range changed from 425 to 600 
+  - Base armor changed from -1 to 1 
+  
+ Witch Doctor:
+  - Ultimate now dont grow attack speed with time
+  
+ Gun Joe:
+  - 3 skill cooldown changed from 8 seconds to 4 seconds 
+  - 3 skill with talen cooldown changed from 4 seconds to 2 seconds
+  
+ Queen of Pain:
+  - Ultimate damage changed from 310/360/450/480/640/830/1000 to 310/400/480/520/640/850/1500
+  - Ultimate damage with scepter changed from 340/430/480/650/880/1000/1200 to 310/400/480/520/640/850/1500
+  
+Item Changes:
+ Azrael Crossbow:
+  - Bonus attack speed deleted
+ 
+ Soul Vessel:
+  - Craft now dont require mekasm
+  
+ Rebels Sword:
+  - Percent disarmor changed from 2% to 3% 
+  - Constnat disarmor changed from 7 to 5 
+  
+ Strange Amulet:
+  - Active return damage deleted
+  - Craft now dont need Demon Edge
+  - Bonus damage changed from 50 to 10
+  - Strength from charge changed from 1 to 2 
+  
+ Death Sheild:
+  - Recipe cost changed from 1200 to 0 
+  
+ Spiked Armor:
+  - Now disarmor 15% from all armor 
+  
+ Battle fury 1/2 / Demons Fury:
+  - Cleave now dont work from attacking non-creep and non-hero units(like phoenix supernova)
+  
+ Holy Book:
+  - Cleave now dont work from attacking non-creep and non-hero units
+  
+ Icarus & Daedalus:
+  - Critical damage changed from 250 to 280 
+  
+ Charon Scepter:
+  - Activation now dodge projectiles 
+  
+ Mystic Amulet:
+  - Now deal 1/4 damage to bosses
+  - Bonus armor per charge changed from 2 to 1 
+ 
+ Snake Boots:
+  - Now dont works on help-disabled units 
+  
+ Saint Yasha:
+  - Cost changed from 5200 to 10000 
+ 
+ Cursed Sange:
+  - Cost changed from 5200 to 10000
+  
+ Dead Boots:
+  - Cost changed from 3200 to 12000 
+  
+ Angels Blood:
+  - Cost changed from 2000 to 10000
+  
+ Blessed Essence:
+  - Cost changed from 1600 to 10600
+  
+ Eclipse Amphora:
+  - Cost changed from 3200 to 20000 
+  
+ Angels Armor:
+  - Cost changed from 4250 to 10250 
+  
+Changes:
+ - Added Chinese translation (there may be some bugs and mistakes). For translation thanks for ??????? and his wonderful team
+ - Spike and spiked armor changed mechanic of work(must not affect to gameplay)
+ - Amulets now lose charges 1/3 
+ - Stash gold now display and addition to default gold value (max gold ~ 2.000.000.000, in theory)
+ - Items drops disable time changed from 40min to 50min 
+ 
+Fixes:
+ - Mystic amulet percent damage now dont affect by spell amplify
+ - Monkey king duel crash fixed
+ - Spike ultimate fixed 
+ - Spike 3 skill fixed
+ - Omniknight 1 skill cast to creeps fixed
+ - Dazzle 3 skill cast to creeps fixed
