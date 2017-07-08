@@ -1,0 +1,404 @@
+5.2.8 Bugs gonna bug 
+Hero changes:
+ Abaddon:
+  - 1 skill damage/heal from health changed from 4.5% to damage/heal from strength of abaddon 125%
+ 
+ Alchemist:
+  - 1 skill manacost changed from 130/140/150/160/170/180/190 to 100
+  - 1 skill duration changed from 16 sec to 9 sec 
+  - 1 skill cooldown changed from 22 seconds to 12 seconds
+  - 1 skill armor reducion changed from 4/5/6/7/8/9/10 to 4/5/7/9/11/12/14
+  - 2 skill cooldown changed from 16 to 12 
+  - 3 skill bonus gold changed from 2 to 6 
+  - 3 skill max gold changed from 12/16/18/20/22/24/30 to 14/15/16/17/18/19/20 
+  
+ Ancient Apparation:
+  - 1 skill now have damage from intellect 25%
+  - 1 skill stun duration changed from 1.25/2.0/2.75/3.0/3.5/3.7/4.0 to 2.0/2.25/2.75/3.0/3.5/3.7/4.0
+  - 1 skill cooldown changed from 15.0/14.0/13.0/12.0/11.0/10.0/9.0 to 10.0
+  - 3 skill cooldown changed from 50.0/42.0/34.0/26.0/24.0/20.0/18.0 to 18.0
+  - 3 skill attack slow changed from -40% to 18%
+  - Ultimate leveling now default
+  
+ Arc Warden:
+  - 2 skill cooldown changed from 30 to 22 
+  - Ultimate cooldown changed from 70/68/65/62/60/57/55 to 62/60/59/58/57/56/55
+  
+ Axe: 
+  - 2 skill damage from health 1% changed to damage from strength 20% 
+  
+ Bane:
+  - 1 skill damage decrease changed from 35% to 20%
+  - 2 skill cooldown changed from 14/13/12/11/10/9/8 to 10 seconds
+  - 2 skill damage from health changed from 4.5% to damage from bane intellect 50% 
+  - 3 skill cooldown changed from 16/15/14/13/13/13/13 to 14
+  - Ultimate cooldown changed from 100 seconds to 60 seconds
+  
+ Batrider:
+  - 2 skill damage changed from 25/28/31/34/38/42/52 to 50
+  - 2 skill damage duration changed from 3/4/5/6/7/8/9 to 3/5/7/9/11/13/15
+  - 3 skill damage from health changed from 0.5% to damage from batrider intellect 15%
+  - Ultimate percent damage disabled 
+  
+ Beastmaster:
+  - 1 skill now deal magical damage from strength 50% (for each axe's)
+  - Ultimate bonus damage from health changed 10/12/15/16/18/20/22% to damage from strength 400%
+  
+ Bounty Hunter:
+  - 1 skill damage from health 5% changed to damage from BH agility 100% 
+  - Ultimate gold to self changed from 250/350/425/475/750/1000/1450 to 350/450/525/775/950/1200/1850
+  - Ultimate gold to ally changed from 200/280/350/450/650/800/1100 to 275/350/450/590/850/980/1400
+  
+ Bristleback:
+  - 2 skill base damage changed from 23.0/28.0/32.0/34.0/36.0/40.0/42.0 to 28.0/32.0/34.0/38.0/42.0/48.0/54.0
+  
+ Centaur Warrunner:
+  - 1, 2 skill bonus damage from health changed to bonus damage from centaur strength 100%
+  - Ultimate bonus damage from health disabled 
+  - Ultimate damage from strength changed from 1.0/1.2/1.4/1.6/1.8/2.2/2.4 to 2.0/2.2/2.4/2.6/2.8/3.0/3.2
+  
+ Chaos Knight:
+  - 2 skill cooldown changed from 24/18/16/14/12/8/6 to 14/13/12/11/9/7/6 seconds
+  - Ultimate cooldown changed from 120 to 90 seconds
+  
+ Chen:
+  - Persuasion additional health changed from 700/1200/2000/3000/4500/7500/10000 to 700/900/1100/1300/1700/2000/2500
+  - Ultimate cooldown changed from 90.0/85.0/70.0/60.0/50.0/40.0/30.0 to 30.0 seconds
+  
+ Clinkz:
+  - 3 skill bonus movement speed changed from 11/22/33/44/55/66/77 to 45%
+  - Ultimate bonus health changed from 10/14/16/18/20/22/25 to 12/16/18/19/20/22/25
+  - Ultimate duration changed from 24 to 50
+  - Ultimate cooldown changed from 40 to 75 
+  
+ Clockwerk:
+  - 3 skill cooldown changed from 20/18/16/15/14/13/12 to 12 seconds
+  
+ Crystal Maiden:
+  - 1 skill cooldown changed from 15.0/15.0/15.0/15.0/13.0/10.0/8.0 to 9.0 seconds
+  - Ultimate damage from health changed to damage from CM intellect 50%
+  
+ Dark Seer:
+  - Base armor changed from -2 to 0 
+  - 1 skill damage from health 10% changed to damage from dark seer intellect 100%
+  - 1 skill damage changed from 40/80/120/160/220/310/420 to 100/180/280/320/380/420/450
+  - 2 skill damage from health 0.5% changed to damage from dark seer strength 10%
+  - Ultimate cooldown changed from 120 to 60 
+  
+ Dazzle:
+  - 1 skill cooldown changed from 15/14/13/12/11/10/9 to 10
+  - 3 skill damage/heal from health changed to damage/heal from dazzle intellect 50%
+  
+ Disruptor:
+  - 1 skill damage from intellect changed from 25% to 35%
+  - 2 skill cooldown changed from 60.0/46.0/32.0/18.0/16.0/14.0/12.0 to 16.0
+  
+ Dragon Knight:
+  - 1 skill damage changed from 110/150/220/300/420/480/625 to 145/220/300/350/435/525/625
+  - 1 skill added damage from strength 135%
+  - Ultimate percent damage disabled 
+  
+ Drow Ranger:
+  - Vengance Arrow chance changed from 6/7/8/9/12/15/18% to 12/14/16/18/20/21/22%
+  
+ Earth Spirit:
+  - 1 skill damage from health 5% changed to damage from earth spirit strength 100% 
+  - 1 skill cooldown changed from 22.0/18.0/14.0/10.0/10.0/10.0/10.0 to 20.0/18.0/16.0/14.0/13.0/12.0/10.0
+  - 1 skill damage changed from 80/140/180/200/240/280/320 to 110/160/200/240/280/300/320
+  - 3 skill damage changed from 80/120/180/200/220/300/380 to 110/180/240/300/340/380/420
+  - Ultimate cast range changed from 300 to 600 
+  
+ Earthshaker:
+  - 3 skill strength multipler changed from 0.2 to 0.45 
+  
+ Fireblade:
+  - Ultimate bonus magical damage changed from 200/300/400/500/600/700/800 to 325/480/625/850/920/1000/1125
+  
+ Gyrocopter:
+  - 1 skill damage from health 0.28% changed to damage from gyrocopter agility 6%
+  
+ Huskar:
+  - Ultimate cooldown changed from 22 to 12 
+  
+ Wisp:
+  - 2 skill damage from health 2% changed to damage from wisp intellect 25%
+  - Ultimate cooldown changed from 120/110/100/90/80/70/60 to 90/85/80/75/70/65/60
+  
+ Jakiro:
+  - 1 skill damage from health 1% changed to damage from jakiro intellect 18%
+  - 2 skill damage from health changed from 3.5% to damage from jakiro intellect 50%
+  - 3 skill damage fron int changed from 30% to 15%
+  - Ultimate damage from health changed to damage from jakiro intellect 30%
+  
+ Joe Black:
+  - 1 skill heal/damage percent of health changed to percent from joe black intellect 200%
+ 
+ Juggernaut:
+  - 1 skill damage from health changed to damage from juggernaut agility 30%
+  - Ultimate cooldown changed from 120.0/100.0/90.0/80.0/75.0/60.0/50.0 to 50.0 
+  
+ Leshrac:
+  - Ultimate damage from health changed to damage from leshrac intellect 30%
+ 
+ Lich:
+  - Ultimate percent damage changed to damage from lich intellect 150% 
+  
+ Lina:
+  - Ultimate damage from health changed to damage from lina intellect 400%
+  
+ Lion:
+  - 1 skill damage changed from 120/180/260/310/360/425/450 to 120/180/260/310/380/455/575
+  - 2 skill cooldown changed from 30.0/26.0/24.0/22.0/18.0/16.0/14.0 to 16.0
+  - Ultimate damage from health changed to damage from lion intellect 300%
+  - Ultimate range changed from 1400 to 1200
+  
+ Lone Druid:
+  - Battle Cry cooldown changed from 60 to 25 seconds
+  - Bear 1 level damage changed from 35-38 to 40-43
+  - Base strength changed from 19 to 23 
+  - Strength per level changed from 2.5 to 2.9 
+  - Base agility changed from 26 to 29   
+  
+ Luna:
+  - Ultimate level between upgrades now default
+  
+ Lycan:
+  - Ultimate crit chance changed from 40% to 30%
+ 
+ Monkey King:
+  - Agility per level changed from 1.9 to 2.3 
+  
+ Morphling:
+  - 1 skill damage changed from 100/175/250/325/450/540/620 to 125/205/325/425/480/540/620
+  - Agility per level changed from 2.8 to 3.2
+  
+ Naga Siren:
+  - 3 skill damage from health 8% changed to damage from naga agility 100%
+  
+ Nature Prophet:
+  - Agility per level changed from 1.5 to 2.3 
+  - Base agility changed from 16 to 19
+  - Base attack time changed from 1.7 to 1.6
+  - Talents from dota added to NP
+  
+ Nyx Assassin:
+  - 1 skill damage from health 7% changed to damage from nyx agility 100%
+  - Ultimate damage from health 25% changed to damage from nyx agility 400%
+  
+ Ogre Magi:
+  - 2 skill damage from health changed to damage from ogre intellect 11% for hero and 11 12/13/14/15/16/18% for creeps
+  
+ Omniknight:
+  - 1 skill heal/damage from health changed to heal/damage from omniknight strength (100% for heal and 80% for damage)
+  
+ Oracle:
+  - 1, 3 skill damage from health changed to damage from intellect ( 100% and 40%)
+  
+ Puck:
+  - 1 skill now have damage from intellect 100%
+  
+ Pudge:
+  - 1 skill damage from health changed to damage from strength 80%
+  - 2 skill damage from strength changed from 25% to 20%
+  - 2 skill movement speed slow changed from -20/-22/-24/-26/-28/-30/-32% to -18/-20/-22/-24/-26/-28/-30%
+  
+ Pugna:
+  - 1 skill damage from health changed to damage from pugna intellect 100%
+  - Ultimate damage from health changed to damage from pugna intellect 25%
+  
+ Queen of Pain:
+  - 3 skill damage from health changed to damage from QoP intellect 90%
+  - 3 skill damage changed from 85/165/225/300/400/480/520 to 120/215/295/380/420/480/520
+  
+ Sand King:
+  - 1 skill damage changed from 90/160/200/300/340/380/420 to 135/215/310/380/435/480/545
+  - 2 skill damage from health changed to damage from SK strength 30%
+  - 3 skill damage from health changed to damage from strength 30% 
+  - Ultimate damage from health changed to damage from strength 60%
+  
+ Satan:
+  - 1 skill damage from strength changed from 25% to 5%
+  - Ultimate duration changed from 3/3.2/3.4/3.6/4.1/4.4/4.5 to 3/3.5/4/4.5/5/5.5/6
+  
+ Shadow Demon:
+  - 1 skill cooldown changed from 25.0/22.0/19.0/17.0/16.0/14.0/12.0 to 12.0
+  - 3 skill now have damage from intellect 60%
+  
+ Shadow Shaman:
+  - 1 skill damage from health changed to damage from Shadow Shaman intellect 100%
+  
+ Shadowsong:
+  - 1 skill percent damage disabled 
+  - 1 skill cooldown changed from 30.0/25.0/20.0/15.0/13.0/12.0/8.0 to 8.0 seconds
+  
+ Silencer:
+  - 1 skill damage from health changed to damage from silencer intellect 15%
+ 
+ Slardar:
+  - 2 skill damage from health changed to damage from slardar strength 100%
+  - Ultimate percent disarmor changed from 30% to 35%
+  
+ Spike:
+  - Base health changed from 98 to 250
+  
+ Spirit Breaker:
+  - 3 skill damage from health changed to damage from SB strength 50%
+  - Ultimate damage from health changed to damage from SB strength 400%
+  
+ Storm Spirit:
+  - 3 skill added damage from intellect 50%
+ 
+ Sven:
+  - Ultimate cooldown changed from 100 to 60 seconds
+  
+ Templar Assassin:
+  - 2 skill disarmor changed from -4/-5/-6/-7/-8/-9/-10 to -6/-7/-8/-9/-10/-11/-12
+ 
+ Tidehunter:
+  - Agility gain per level changed from 1.4 to 2.2
+  - Strength gain per level changed from 2.4 to 2.9
+  - Base agility changed from 15 to 19
+  - Ultimate cooldown changed from 100 to 60 seconds
+  
+ Treant Protector:
+  - 1 skill radius changed from 265 to 300 
+  - Ultimate damage from health changed to damage from TP strength 50%
+  - Ultimate duration changed from 3.0/3.75/4.5/5.5/6.5/7.5/8.0 to 3.0/3.5/4.0/4.5/5.0/5.5/6.0 
+ 
+ Troll Warlord:
+  - 2 skill percent damage disabled 
+  - 2 skill range form damage changed from 75 to 100
+  - Intellect per level changed from 1.0 to 1.2 
+  - Agility per levle chagned from 2.5 to 2.8
+ 
+ Undying:
+  - 2 skill damage from health changed to damage from undying strength 50%
+  - 2 skill cooldown changed from 24.0/18.0/12.0/8.0/7.0/6.0/5.0 to 6.0
+  
+ Ursa:
+  - 1 skill movement slow changed from 50% to 35% 
+  
+ Venomancer:
+  - 2 skill damage from health changed to damage from venomancer agility 10% 
+  
+ Warlock:
+  - 2 skill heal/damage from health changed to heal/damage from intellect 10%
+  - Ultimate cooldown changed from 165 to 100 
+  
+ Winter Wyvern:
+  - 1 skill cooldown changed frm 50.0/40.0/30.0/20.0/20.0/20.0/20.0 to 20.0 seconds 
+  
+ Kunkka:
+  - 1 skill damage changed from 100/180/260/310/460/560/620 to 145/215/290/350/460/560/620
+  - 2 skill cooldown changed from 13.0/11.0/10.0/8.0/6.0/4.0/3.0 to 7.0/6.0/5.0/4.0/3.5/3.0/2.0
+  - Ultimate damage from health changed from 10% to damage from kunkka strength 400%
+  
+Item changes:
+ Burning Butterfly:
+  - Craft changed to: Sacred Butterfly + Butterfly 
+  - Bonus agility changed from 225 to 100
+  - Bonus damage changed from 165 to 90 
+  - Bonus attack speed changed from 225 to 100
+  
+ Urn of shadows:
+  - Bonus from strength 6 changed to bonus to all stats 3
+  
+ Tango:
+  - Heal changed from 350 to 300 (700 -> 600 for wards)
+  
+ Soul Vessel:
+  - Bonus all stats changed from 25 to 12 
+  - Damage changed from 550 to 500
+  
+ Talisman of Mastery:
+  - Min exp changed from 5 to 22
+  - Range limit now 2000
+  - Cooldown changed from 1 sec to 2.5 sec 
+  
+ Magician Ring:
+  - Cooldown reduce changed from 1.25 to 1.875
+  - Max stacks changed from 24 to 16 
+  
+ Rubick Dagon:
+  - Now kills illusion  
+  
+ Plague Staff:
+  - Now magical crit dont stack 
+  - Crit chance changed from 20% to 27%
+  
+ Damned Swords:
+  - Craft changed to: Sange and Yasha + Skadi 1 + Skadi 2 + Recipe(4550)
+  
+ Demons Fury:
+  - Bonus str and agi changed from 100 to 60
+  - Bonus damage changed from 325 to 185
+  - Disarmor changed from -36 to -25 
+  
+ Burnign book:
+  - Bonus int changed from 100 to 60
+  - Bonus agi and str changed from 100 to 40 
+  - Bonus damage changed from 225 to 100 
+  - Bonus armor changed from 32 to 16
+  - Bonus disarmor changed from -30 to -20
+
+ Manta Style 3:
+  - Craft chagned to: Manta Style 2 + Ultimate Orb + Ultimate Orb + Recipe(9850)
+  - Bonus agility changed from 125 to 70
+  
+ Armlet 3:
+  - Craft changed to: Armlet 2 + Armlet 2 + Recipe(8590)
+  - Bonus damage changed from 320 to 120
+  - Activate bonus damage changed from 250 to 100
+  - Damage tick changed from 400 to 250
+ 
+ Echo Sabre 3:
+  - Craft changed to: Echo Sabre 2 + Echo Sabre 2 + Recipe(4100)
+  
+ Angels Sword:
+  - Now won't drop from bosses 
+  - Now can be purchuased in shop 
+  - Cost changed from 12000 to 7000
+   
+ Power Amulet:
+  - Bonus damage from 1 charge changed from 30 damage to 20 damage
+  
+Creep changes:
+ - Small creeps magical resist changed from 45% to 25%
+ - Gold for small creeps changed:
+  - Level 1: 20-32 -> 30-42
+  - Level 5: 43-47 -> 50-60
+  - Level 10: 76-78 -> 80-90
+  - Level 15: 92-95 -> 100-110
+ 
+ - Gold for ancient creeps changed: 
+  - Level 1: 30-40 -> 45-60
+  - Level 5: 48-54 -> 75-90
+  - Level 10: 82-90 -> 110-120
+  - Level 15: 102-104 -> 125-135
+ 
+ - Exp for ancient creeps changed:
+  - Level 1: 50 -> 65
+  - Level 5: 90 -> 110
+ 
+ - Creep spawner count changed from: 
+  - Level 15: 3-6 -> 3-5
+  - Level 20: 4-7 -> 3-5
+  - Level 15: 5-8 -> 3-5
+  - Level 25: 5-8 -> 3-5
+  - Level 40: 5-8 -> 3-5
+  - Level 60: 5-8 -> 3-5
+  - Level 80: 5-8 -> 3-5
+  - Level 100: 5-8 -> 3-5
+  
+Other Changes:
+ - Chinese localization updated(thanks for 大侠就是神经刀 and him team)
+ - First duel now gives 350 gold and 350 exp to winner team 
+ - Any kill gives bonus 125 gold to killer
+ - Ranged ancients creeps gold bounty increased by 30%
+ 
+Fixes:
+ - Localization little fixes
+ - Monkey king on duel trees
+ - Spike 3 skill now dont work with passive-disable modifiers 
+ - Spike 3 skill spell amplify disabled 
+ - Fixed bug when heroes get into textures
