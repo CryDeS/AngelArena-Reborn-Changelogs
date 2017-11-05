@@ -1,0 +1,77 @@
+5.2.9 Fixes of 7.07 part 1
+Hero changes:
+ Alchemist:
+  - 3 skill bonus gold cap changed from 14/15/16/17/18/19/20 to 20/22/25/28/32/38/40
+
+ Abaddon:
+  - 3 skill buff duration changed from 8.5 sec to 4.5 sec
+  
+ Pudge:
+  - 1 skill damage with scepter changed from 160/280/360/450/500/540/650 to 100/160/240/320/380/440/480
+  - 2 skill now works on pudge correctly 
+  
+ Riki:
+  - 2 skill static amulet enabled
+  
+ Shadow Demon:
+  - 3 skill damage from intellect 60% to 30% 
+  - 3 skill static amulet disabled 
+  
+ Magnus:
+  - 1 skill movement slow changed from 60% to 20%
+  
+ Warlock:
+  - Fatal Bounds now don't activate talisman of mastery
+  
+ Gyrocopter:
+  - 1 skill damage from agi 6% to 4% ((пересмотреть))
+  
+ Lich:
+  - 3 skill now uses on point and have cast range 700 
+  
+ Kunkka:
+  - Ultimate radius with scepter changed from 400 to 250
+  
+ Centaur:
+  - Ultimate now dont spell amplify
+  
+ Monkey King:
+  - Ultimate duraiton changed from 13.0/13.5/13.7/14.0/14.5/15.0/15.5 to 5.0
+  - Ultimate cooldown changed from 100/95/90/85/80/75/70 to 70/65/60/55/50/45/40
+
+ Shadow Fiend:
+  - 1/2/3 skill damage changed from 80/120/155/225/280/320/400 to 65/100/120/180/220/260/300
+
+ Spike: 
+  - Bonus agility changed from 3.0 to 3.5 
+ 
+ Gun Joe:
+  - Movespeed changed from 315 to 300 
+
+ Sven:
+  - Ultimate bonus damage changed from 100/125/150/175/200/225/250% to 70/100/125/145/165/185/200%
+  - Ultimate duration changed from 25 seconds to 12 seconds
+
+ Necrophos:
+  - Ultimate damage per health changed from 0.6/0.65/0.7/0.75/0.80/0.85/0.9 to 0.5
+
+Item changes:
+ Edible gem:
+  - Now dont lose gem on reincarnation 
+  
+ Vanguard:
+  - Block damage on melee changed from 70 to 60
+  
+Changes:
+ - Recomended items backed 
+ - Duel gem radius changed from 900 to 500
+ - Invis rune now purges on duel start
+ - Fountain now dont have monkey king bar but have true strike
+
+Fixes:
+ - 10x10 teleport fixed
+ - Spike 3 skill fixed 
+ - Meepo and custom boots bug fixed
+ - Plague staff now dont spell amplify
+ - Lion 3 skill fixed 
+ - Some heroes fixed(hi 7.07)
