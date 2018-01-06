@@ -1,0 +1,164 @@
+5.2.9 fix 6:
+Heroes:
+ Lone Druid:
+  - Bear attack changed:
+   - 1 level: from 35-38 to 28-32
+   - 2 level: from 40-43 to 36-38
+   - 3 level: from 50-52 to 45-48
+   - 4 level: from 60-62 to 52-55
+  - Bear skill separation of souls now give additional damage to bear too
+
+ Invoker:
+  - Deafening Blast cooldown changed from 25 to 35 
+  - Tornado damage changed from 100/140/325/325/420/460/500/535 to 100/160/225/275/300/325/350/395
+  - Sun Strike damage changed from 225/250/275/325/450/550/575/600 to 175/250/275/325/450/550/575/600
+ 
+ Abaddon:
+  - Ultimate with scepter damage redirect changed from 50% to 30%
+  - Ultimate cooldown changed from 60 seconds to 90 seconds
+ 
+ Alchemist:
+  - Strength per level changed from 1.5 to 2.2 
+  
+ Ancient Apparation:
+  - 3 skill damage changed from 38/50/78/110/125/140/150 to 35/40/50/60/70/85/100
+  
+ Shadowsong:
+  - 2 skill damage changed from 30/40/50/60/70/80/90 to 35/45/55/65/80/90/100
+  
+ Enchantress:
+  - Strength per level changed from 2.0 to 2.8 
+  - Agility per level changed from 1.8 to 2.4
+  
+ Arc Warden:
+  - 1 skill cast range changed from 600/700/800/900/1000/1100/1200 to 900
+  
+ Beastmaster:
+  - 1 skill damage changed from 90/115/150/200/255/300/345 to 80/100/125/175/220/260/280
+  
+ Chaos Knight:
+  - 2 skill disarmor duration changed from 3 to 5 seconds 
+  
+ Chen:
+  - Base damage changed from 22-32 to 32-42 
+  - Strength per level changed from 1.8 to 2.8 
+   
+ Bounty Hunter:
+  - Base strength changed from 20 to 26 
+  - Base movement speed changed from 325 to 335 
+  
+ Darkseer:
+  - strength per level changed from 2.3 to 2.8
+ 
+ Earth Spirit:
+  - Base agility changed from 17 to 20 
+  
+ Gun Joe:
+  - Maelstrom and machine gun now have 1/2 damage
+  - Mjollnir 1/2 and machine gun now have 1/3 damage 
+ 
+ Huskar:
+  - Base armor changed from -2 to -3 
+
+ Pudge:
+  - 1 skill damage with scpeter changed from 160/280/360/450/500/540/650 to 100/160/240/320/380/440/480
+  
+ Rikimaru:
+  - 3 skill damage from agility changed from 0.6/0.7/0.8/1.0/1.2/1.4/1.5 to 0.6/0.7/0.8/0.9/1.0/1.1/1.2
+  
+ Shadow Fiend: 
+  - 1,2,3 skill damage changed from 65/100/120/180/220/260/300 to 45/75/100/120/140/180/200
+  - 1,2,3 stack bonus damage changed from 60 to 35 
+  
+ Skywrath Mage:
+  - 1 skill damage from int changed from 1.0 to 0.8 
+  - 3 skill cooldown changed from 18 to 20 
+  - 3 skill casttime changed from 0.1 to 0.3 
+  - Ultimate manacost changed from 350/575/600/900/1400/1800/3500 to 250/375/450/625/725/815/925
+  - Ultimate damage changed from 800/1000/1200/1400/1600/1800/2000 to 800/1200/1400/1600/1850/1950/2200
+  
+ Storm Spirit:
+  - 1 skill damage changed from 140/160/180/210/320/440/520 to 140/160/180/210/250/350/455
+  - Ultimate aoe damage changed from 125 to 200 
+  - Ultimate percent manacost changed from 1.0 to 1.2 
+  
+ Techies:
+  - Mine movement speed with talent changed from 25 to 50
+  
+ Templar Assassin:
+  - Agility per level changed from 2.8 to 3.8 
+  
+ Reaver Lord:
+  - 1 skill damage changed from 40/60/80/100/140/160/200 to 25/40/60/80/100/120/140
+  
+ Tidehunter:
+  - Agility per level changed from 2.6 to 2.9 
+  
+ Viper:
+  - 2 skill cooldown changed from 5.0 to 16.0
+  
+ Weaver: 
+  - 2 skill manacost changed from 75 to 60 
+  
+ Venomancer:
+  - Plague ward splash changed from 30% to 100%
+  - Ultimate damage changed from 50/105/150/180/220/310/420 to 50/95/120/140/160/200/250
+  - Ultimate damage changed from 75/135/190/220/310/420/560 to 75/125/160/200/250/270/320
+  
+ Bristleback:
+  - Ultimate damage per stack changed from 15/20/25/30/35/40/45 to 20/30/40/45/50/55/60
+ 
+ Timbersaw:
+  - 3 skill stack limit changed from 2/4/8/12/16/18/20 to 1/2/3/4/5/6/7
+  - 3 skill armor per stack changed from 2 to 5 
+  - 3 skill health regen per stack changed from 2 to 4 
+  
+ Undying:
+  - 2 skill damage from strength changed from 50% to 75% 
+  
+ Drow ranger:
+  - Ultimate radius changed from 300 to 250 
+ 
+ Gyrocopter:
+  - Agility per level changed from 3.0 to 3.7
+  
+ Nage Siren:
+  - Ultimate regeneration changed from 8% to 16%
+ 
+ Razor:
+  - 3 skill hit interval changed from 5 to 4
+  
+ Spectre:
+  - Agility per level changed from 1.8 to 2.4 
+  
+ Death Prophet:
+  - Ultimate spirit count changed from 8/9/10/12/13/14/16 to 8/9/10/11/12/13/14
+  - Ultimate damage to magical changed from 50% to 33%
+  
+ Jakiro:
+  - Movement speed changed from 300 to 325 
+  - Intellect per level changed from 2.9 to 3.9 
+ 
+ Lich:
+  - 2 skill armor bonus changed from 2/4/5/7/9/10/12 to 2/4/5/7/9/10/15
+ 
+ Nature Prophet:
+  - Agility per level changed from 2.3 to 3.3
+  
+ Tinker:
+  - 3 skill damage changed from 22/27/34/38/46/54/72 to 25/30/36/42/48/58/80
+  
+Item changes:
+ Abissal Blade 1/2, Skull Basher:
+  - Bash duration changed from 1.4 to 1.0 
+  
+ 
+Changes:
+ - Manaregen for intellect changed from 0.1 to 0.25
+ - Some summon damage increasing for time changed formula(less damage after 40min, that summons is lycan wolfs, necronomicons, pets, forge spirit and etc)
+
+Fixed:
+ - Stats book shareability
+ - Gem and techies mines 
+ - Gem and treant trees
+ - Other fixes
