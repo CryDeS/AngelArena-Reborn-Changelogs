@@ -153,6 +153,9 @@ Item changes:
  Abissal Blade 1/2, Skull Basher:
   - Bash duration changed from 1.4 to 1.0 
   
+ Linken Sphere 1/2:
+  - Fixed stacking 
+  
 Changes:
  - Manaregen for intellect changed from 0.1 to 0.25
  - Some summon damage increasing for time changed formula(less damage after 40min, that summons is lycan wolfs, necronomicons, pets, forge spirit and etc)
