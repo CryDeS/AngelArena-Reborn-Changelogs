@@ -1,0 +1,108 @@
+5.3.1
+Hero changes:
+ Axe: 
+  - Ultimate now have additional hp threshold 15/16/17/18/19/20/22%
+  
+ Alchemist: 
+  - 3 skill duration changed from 30 seconds to 90 seconds 
+  
+ Rubick:
+  - Talent for -10 sec cd to 1 skill changed to -8sec cd  
+  - Strength gain per level changed from 2.2 to 2.0
+  - Agility gain per level changed from 2.6 to 2.2 
+  - Intellegence gain per level changed from 2.4 to 2.2 
+  - 1 skill cast range changed from 550/575/600/625/725/825/1025 to 725
+ 
+ Queen of Pain: 
+  - 2 skill cooldown changed from 15/13/12/9/7/6/5 to 15/14/13/10/8/7/6
+  
+ Batrider: 
+  - Movement speed changed from 300 to 295 
+  
+ Bristleback: 
+  - Agility gain per level changed from 2.1 to 2.8 
+  
+ Naga Siren: 
+  - 1 skill outgoing damage changed from 10/12/15/18/20/22/25 to 15/20/25/30/35/40/45
+  - 1 skill incoming damage changed from 500/450/350/450/300/250/220 to 300/250/200/175/150/100/50
+  
+ Enchantress: 
+  - Agility gain per level changed from 2.4 to 2.8 
+  
+ Fireblade: 
+  - Agility gain per level changed from 2.5 to 3.0 
+ 
+ Enigma:
+  - Base damage changed from 22-28 to 42-48
+ 
+ Gun Joe: 
+  - Agility gain per level changed from 2.9 to 2.0 
+ 
+ Hola:
+  - 3 skill heal changed from 2/3/4/5/6/7/8% from max health to 350% from hola intellect
+  
+ Undying: 
+  - 1 skill steal str with scepter changed from 6 to 8 
+  
+ Timbersaw:
+  - Ultiamte added damage from strength of timber (80%)
+  
+ Templar Asassin:
+  - Agility gain per level changed from 3.8 to 4.8 
+  
+ Spectre: 
+  - Ultimate illusion now have 100% damage from spectre(old 10%)
+  
+ Slark: 
+  - Agility per level changed from 2.6 to 2.8 
+  
+ Shadowsong: 
+  - 2 skill damage changed from 35/45/55/65/80/90/100 to 40/55/65/75/95/115/145
+  - Talent for 2 skill changed:
+   - +100 damage changed to +200 damage 
+   - +1% damage changed to +2% damage
+  
+ Shadow Fiend:
+  - Ultimate damage/heal with scepter changed from 20% to 50%
+  - Ultimate damage changed from 80/120/160/200/220/240/280 to  100/140/180/220/240/260/320
+  
+ Reaver Lord:
+  - 2 skill cooldown changed from 24/18/17/16/15/14/12 to 16/14/12/10/8/6/5
+  
+ Razor: 
+  - 1 skill damage changed from 160/220/340/450/540/725/950 to 200/280/390/520/600/825/1200
+  - Ultimate damage changed from 75/135/170/235 to 95/155/200/275
+  
+ Phanthom lancer: 
+  - 2 skill cooldown changed from 25/20/18/15/12/10/8 to 15
+  
+ Mirana: 
+  - 1 skill damage changed from 100/120/180/200/240/280/320 to 120/140/200/220/260/300/350
+  
+ Lich:
+  - Intellect gain per level changed from 3.25 to 5.0 
+  
+ Jakiro: 
+  - Strength gain per level changed from 2.2 to 2.8 
+  
+Item changes: 
+ - Aeon disk now not refreshable
+ - Life catcher now breaks linker sphere and work with lotus orb 
+ - Medical Tractate initial charges changed from 20 to 10, max charges changed from 40 to 20 
+ 
+Other changes: 
+ - Chinese localization updated 
+ 
+Fixes:
+ - Sven 1 skill
+ - Slardar 1 skill 
+ - Riki 3/4 skill 
+ - Tinker laser 
+ - Necrolyte 1/2 skill 
+ - Dragon Knight 1 skill 
+ - Dark seer 1 skill 
+ - Shadow demon ultimate 
+ - Ogre Magi ultimate 
+ - Undying zombie skills 
+ - Wisp tether 
+ - Dark willow terrorize
