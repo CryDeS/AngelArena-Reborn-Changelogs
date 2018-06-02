@@ -1,0 +1,74 @@
+5.3.3
+Hero changes:
+ Clinkz:
+  - Ultimate duration changed from 10 to 15 
+
+ Gyrocopter:
+  - 2 skill max level now 7( damage = 225/350/420/520/650/750/950)
+  
+ Phanthom Lancer: 
+  - 2 skill duration changed from 8 sec to 4/5/6/7/8/9/10 sec
+  
+ Earth Spirit:
+  - 1 skill damage changed from 110/160/200/240/280/300/320 to 110/160/220/280/340/390/425
+  - 1 skill cooldown changed from 20.0/18.0/16.0/14.0/13.0/12.0/10.0 to 10.0
+  - 1 skill manacost changed from 100 to 80 
+  
+ Puck:
+  - 2 skill cooldown changed from 11 to 16
+  - 2 skill silence duration changed from 0.75/1.5/2.25/2.5/2.8/3.0/3.6 to 1.75/2.0/3.25/3.5/3.75/4.0/4.25
+  
+ Drow Ranger:
+  - 2 skill cooldown changed from 13 to 16 
+  
+ Shadow Shaman:
+  - 1 skill damage changed from 125/180/260/350/400/450/515 to 125/160/220/280/300/320/350
+  - 1 skill damage from intellect changed from 100% to 235%
+  
+ Spirit Breaker:
+  - Ultimate manacost changed from 125/150/175/190/220/240/280 to 0
+  
+ Sand King:
+  - Ultimate now have 7 levels 
+  
+ Razor:
+  - Ultimate now have 7 levels 
+  
+ Fireblade:
+  - Strength gain per level changed from 2.4 to 3.4 
+  
+ Templar Assassin:
+  - Agility per level changed from 4.8 to 7.2 
+  
+ Spike: 
+  - Base health changed from 250 to 450 
+  
+Item changes:
+ Abyssal blade:
+  - Bash cooldown changed from 3.0 to 3.5 
+  
+ Kings bar:
+  - Microbashes disabled
+  
+ Manta Style 3: 
+  - Recipe cost changed to 0 
+ 
+Boss changes:
+ - Possesed Demon drop changed to:
+  - Possesed Sword 
+  - Icarus 
+  - Branch
+  - Tome +60 all
+  - Angels Armor 
+  - Awful Mask 
+  - Eclipse Amphora 
+  
+Other changes:
+ - Fountain base manaregen changed from 5 to 10 
+ 
+Fixes: 
+ - Hp regen from strength reduced by 50%(perk), thanks to Sheodar
+ - Fixed pangolier
+ - Fixed zeus 
+ - Fixed wraith king 
+ - Devour helm and duel fixed 
