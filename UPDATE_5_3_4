@@ -1,0 +1,80 @@
+5.3.4:
+Hero changes:
+ Undying:
+  - Tombstone hits to destroy change from 6/10/14/18 to 8/10/12/16
+  - Tombstone zombie slow change from 7% to 5.5%
+  - 2 skill heal Tombstone change from 8/14/20/22/26/28/30 to 4/4/6/6/8/8/10
+  - 2 skill damage/heal per unit change from 28/36/45/52/63/72/85 to 25/35/45/60/75/100/125
+  
+ Lion:
+  - 4 skill damage change from 600/725/800/925/1150/1250/1375 to 400/500/600/700/800/900/1000
+  - 4 skill damage per Aghanim change from 725/800/925/1150/1300/1450/1600 to 600/700/800/900/1000/1100/1200
+  - 4 skill manacost per Aghanim change from 200/420/625/950/1300/1600/2300 to 300/400/550/650/750/875/1000
+  - 4 skill damage per Intellect change from 300% to 400%
+  
+ Pangolier:
+  - 4 skill cooldown change from 50/47/46/45/44/43/40 to 60 (thx volvo for talent)
+  
+ Lich:
+  - Base armor change from 0 to 2
+  - Strength per level change from 1.550000 to 2.5
+  - Agility per level change from 2 to 3.5
+  - 2 skill slow attack change from -10/-15/-17/-20/-23/-20/-30 to -15/-30/-40/-50/-60/-70/-80
+
+ Shadow Shaman:
+  - 1 skill damage per Intellect change from 235% to 250%
+  - 1 skill damage change from 125/160/220/280/300/320/350 to 90/120/150/180/220/260/290
+
+ Lina:
+  - 4 skill damage change 450/700/850/920/1150/1350/1600 to 450/600/750/900/1000/1100/1200
+  - 4 skill damage per Intellect change from 400% to 500%
+
+ Clinkz:
+  - 1 skill duration change from 4.0/6.0/7.0/8.0/8.5/9.0/10.0 to 4.0/4.5/5.0/5.5/6.0/7.0/8.0
+  - 1 skill bonus attack speed change from 130 to 70/80/90/100/110/120/130
+  - 4 skill cooldown change from 25 to 30
+  - 4 skill duration change from 15 to 20
+
+ Silencer:
+  - 1 skill movespeed slow change from -15% to -18%/-20%/-22%/-24%/-26%/-28%/-30%
+  - 3 skill delay change from 3 to 2
+  - 4 skill now have 7 levels -> duration 5.0/5.5/6.0/6.5/7.0/7.5/8.5
+  - 4 skill cooldown change from 100 to 75
+  - Strength per level change from 2.400000 to 3.5
+  - Intelect per level change from 3.0 to 4.0
+
+ Nyx Assassin:
+  - 2 skill manaburn multiplayer change from x4 to x6
+  - Aghanim burrow damage reduction change from 15% to 25%
+
+ Storm Spirit:
+  - 4 skill damage change from 7/11/16/21/26/30/36 to 7/11/16/22/25/28/30
+
+ Spike:
+  - Swap talents 15 level and 20 level
+
+ Skywrath:
+  - 4 skill duration change from 2.4 to 1
+
+ Chen:
+  - 2 skill min heal change from 70 to 150
+  - 2 skill max heal change from 100/150/200/220/270/300/350 to 200/500/800/1100/1400/1700/2000
+  - 4 skill heal change from 500/700/900/1200/2000/2500/3500 2000/3000/4000/6000/7000/8000/10000
+
+Item changes: 
+ Rebels Sword:
+  - Now cooldown stores on victim 
+  - Fixed stacking from multiple attackers 
+  - Added tooltip for modifier 
+  - Added modifier icon 
+  
+ Battle Fury 1/2 and Demons Fury:
+  - Particle changed 
+  - Lag in late-game fixed 
+  
+ Life Catcher:
+  - Added attack particle 
+  - Cast time removed 
+  
+Other changes:
+ - Battle fury/Holy book cleave for illusions now deal 1/4 damage(old 1/5 damage)
