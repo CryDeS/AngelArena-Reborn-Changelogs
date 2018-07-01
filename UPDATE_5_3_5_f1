@@ -43,6 +43,7 @@ Item changes:
 
  Dimensional predictor:
   - Now have AOE for passive ability
+  - Heal changed from 300 to 500
 
  Damned Eye:
   - Fixed that breakes for self-damage abilities
