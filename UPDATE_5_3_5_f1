@@ -1,0 +1,55 @@
+5.3.5 f1
+Hero changes:
+ Storm Spirit:
+  - Storm spirit 1 skill damage changed from 140/160/180/210/250/350/455 to 100/150/175/200/250/300/425
+
+ Tinker:
+  - Tinker 2 skill cooldown changed from 25 to 12 seconds
+  - Tinker 2 skill damage changed from 145/220/300/400/420/450/480 to 135/210/300/365/420/440/460
+
+ Chaos Knight:
+  - Chaos Knight ultimate cooldown changed from 80 to 60 seconds
+  - Chaos Knight ultimate duration changed from 42 to 30 seconds
+
+ Arc Warden:
+  - Arc Warden tempest double not not refresh item on created
+  - Arc Warden 1 skill slow changed from 50% to 25%
+
+ Shadow Fiend:
+  - 1/2/3 skill damage per hero-damage change from 1.0 to 0.5
+  - 4 skill cast point change from 1.67 to 0.3
+
+ Abaddon:
+  - 4 skill cooldown change from 90 to 60
+
+ Wisp:
+  - 4 skill channel time change to 1 sec
+
+ Nightstalker:
+  - 4 skill fixed vision enemy change from 700 to 800
+  - 4 skill cooldown change from 120/115/110/105/100/95/90 to 90/85/80/75/70/65/60
+
+ Mirana:
+  - 1 skill range change from 2000 to 2200
+  - 3 skill bonus attack speed change from 8/16/24/32/42/51/62 to 30/40/50/60/70/80/90
+  - 3 skill bonus move speed change from 4/8/12/16/18/20/22 to 22
+
+ Troll Warlord:
+  - 4 skill now stackeble for boss need attacks change from 4 to 1
+
+Item changes:
+ Slice of Static & Static Amulet:
+  - Now have cooldown 0.45 sec
+
+ Dimensional predictor:
+  - Now have AOE for passive ability
+
+ Damned Eye:
+  - Fixed that breakes for self-damage abilities
+
+Fixes:
+ - Nyx 2 skill 
+ - Lone druid 1 skill 
+ - Chen 3 skill 
+ - Earthshaker 3 skill
+ - Lich 3 skill 
