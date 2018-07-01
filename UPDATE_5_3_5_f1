@@ -1,4 +1,7 @@
 5.3.5 f1
+Added:
+ - Ban for heroes
+ 
 Hero changes:
  Storm Spirit:
   - Storm spirit 1 skill damage changed from 140/160/180/210/250/350/455 to 100/150/175/200/250/300/425
@@ -54,3 +57,4 @@ Fixes:
  - Chen 3 skill 
  - Earthshaker 3 skill
  - Lich 3 skill 
+ - Picks fixed 
