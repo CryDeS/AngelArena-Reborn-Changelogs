@@ -1,0 +1,35 @@
+5.3.5 f7
+ Hero changes:
+  Templar Assasin:
+   - 1 skill. Realy fix.
+   
+  Naga Siren:
+   - 1 skill incoming damage changed from 400/350/300/275/250/200/150% to 150%
+ 
+  Venomancer:
+   - 2 skill damage from main att changed from 10% to 30% 
+   - 2 skill damage changed from 8/11/16/20/30/38/42 to 20/35/47/50/60/70/80
+ 
+  Lycan:
+   - 1 skill fixed 
+   - Agility per level change from 1.0 to 2.6
+   - Intelligence per level change from 1.4 to 2.0
+   
+  Gyrocopter:
+   - 1 skill damage from agility changed from 8 to 14
+   
+  Fireblade:
+   - 2 skill burn damage changed from 15/25/30/35/40/45/50 to 20/30/45/65/75/85/100
+   - Ultimate cooldown changed from 40 to 20
+   - Talent from -30 sec cooldown to ultimate changed to -10 second cooldown ultimate
+   
+ Item changes:
+  Damned Eye:
+   - Constant heal change from 500 to 800
+   - Damage in caster disable
+   - Speed heal change from 5.0 to 4.5
+   - Recept change (Chainmail, Belt of Strenght, Recipe). Cost change from 1900 to 1100
+
+  Dimensional Preditor:
+   - Passive bonus do not stop charging by attack 
+   - Active skill duration change from 15 to 25 sec
