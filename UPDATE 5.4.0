@@ -1,0 +1,93 @@
+5.4.0 
+Hero changes: 
+ Nyx Assassin:
+  - 3 skill cooldown changed from 23/21/19/17/15/12/10 to 10 
+  - Ultimate cooldown changed from 70.0/60.0/50.0/45.0/40.0/35.0/30.0 to 45.0 seconds 
+  - Ultimate with scepter cooldown changed from 70.0/60.0/50.0/45.0/40.0/35.0/30.0 to 30.0 seconds 
+ 
+ Beastmaster: 
+  - 3 skill bonus attack speed changed from 35/45/55/65/75/85/95 to 35/55/75/85/90/100/125
+  - Ultimate cooldown changed from 80.0/75.0/70.0/65.0/60.0/55.0/50.0 to 50.0 seconds 
+  - Ultimate cooldown with scepter changed from 45.0/45.0/45.0/40.0/40.0/40.0/40.0 to 35.0 seconds 
+  
+ Gyrocopter: 
+  - Bonus strength per level changed from 1.8 to 2.4 
+  
+ Lycan: 
+  - 2 skill bonus health for hero changed from 50/100/150/200/250/300/350 to 100/200/300/400/500/600/750
+  - 2 skill bonsu health for creep changed from 25/50/75/100/150/200/250 to 100/200/300/400/500/600/750
+  - 3 skill radius changed from 900 to 9999999
+  
+ Dazzle: 
+  - 3 skill health from intellect changed from 100% to 100/150/200/250/300/425/600%
+
+ Grimstroke: 
+  - Ultimate cooldown changed from 60 to 30 seconds  
+  
+ Huskar:
+  - Ultimate damage changed from 35% to 45% 
+  - Ultimate damage with scpeter changed from 55% to 75% 
+  
+ Invoker:
+  - Emp damage per mana burned changed from 50% to 100% 
+  
+ Sand king: 
+  - 3 skill damage pct changed from 30% to 50% 
+  
+ Winter Wyvern: 
+  - 1 skill bonus attack range changed from 375 to 725
+  - Ultimate cast range changed from 800 to 600 
+  - Ultiamte cast point changed from 0.3 to 0.5 
+  - Ultimate radius changed from 1000 to 900 
+  - Ultimate damage reduction changed from 50/45/40/35/30/25/20% to 50%
+
+ Abyssal Underlord: 
+  - 1 skill cooldown changed from 14 to 10 
+  
+ Bristleback:
+  - 3 skill thresshold changed from 400 to 400/375/350/325/300/275/250
+  
+ Centaur Warrunner: 
+  - 3 skill damage from strength changed from 25/27/29/31/33/37/40% to 25/30/35/45/60/70/80%
+  
+ Clockwerk:
+  - 1 skill damage from strength changed from 20% to 30%
+  
+ Brewmaster: 
+  - Ultimate earth spirit health changed from 1500/2200/3000 to 2000/3000/5000 
+  - Ultimate earth spirit armor changed from 5/5/5 to 5/25/50 
+  - Ultimate storm spirit health changed from 1000/1500/1900 to 1500/2500/4200
+  - Ultimate storm spirit armor changed from 2/2/2 to 2/14/35
+  - Ultimate fire spirit health changed from 1200 to 1200/2500/3200
+  - Ultimate fire spirit armor changed from 0/3/6 to 0/10/32
+  
+ Enchantress:
+  - Ultimate scepter bonus attack range changed from 190 to 250 
+  
+ Naga Siren: 
+  - Bonus agility changed from 2.8 to 3.8 
+  
+Item changes:
+ Armlet 1/2/3:
+  - Health drain changed from 40/150/250 to 40/80/120
+  
+ Life Catcher & Talisman of Mastery:
+  - Max range deleted 
+  
+ Spiked Armor:
+  - Disarmor changed from -15 to -35 
+  - Active return damage changed from 200% to 100%
+  
+ Meteor Hammer:
+  - Bonus manaregen changed from 1.5 to 5.5
+  
+ Snake Boots: 
+  - Bonus all stats changed from 10 to 30
+  
+ Fury Shield:
+  - Bonus all stats changed from 4 to 8 
+  
+Fixes:
+ - Rebels sword 
+ - Medusa 3 skill 
+ - Mirana 2 skill 
