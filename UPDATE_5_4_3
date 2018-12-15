@@ -1,0 +1,118 @@
+5.4.3
+Hero changes:
+ Lich:
+  - Sinister Gaze cooldown changed from 20 to 30
+  - Frost Shield radius changed from 600 to 350
+ 
+ Sand King:
+  - 2 skill damage changed from 25/35/45/50/55/60/65 to 25
+  - 2 skill manacost changed from 60/50/40/30/20/10/0 to 60
+  - 2 skill cooldown changed from 40/30/20/10/8/6/5 to 40/35/30/25/20/15/10
+  
+ Rubick: 
+  - 2 skill cooldown changed from 16/14/12/10/8/6/5 to 6
+  
+ Shadow Demon:
+  - 2 skill radius changed from 100/110/120/130/150/170/200 to 200 
+  - 3 skill damage from intellect changed from 70% to 100%
+  
+ Shadow Fiend:
+  - 1/2/3 skill damage from attach changed from 0.5 to 0.7
+  - 4 skill max souls changed from 15/22/28/35/40/54/64 to 7/11/14/17/20/27/32
+  - 4 skill damage per soul changed from 2 to 4 
+  - 4 skill soul per hero kill changed from 11 to 5 
+  - Ultimate soul consuming changed from 2 to 1 
+  
+ Lion:
+  - Ultimate cast range changed from 1200 to 1000
+  - Ultimate damage from intellect changed from 400% to 300%
+  
+ Pudge:
+  - 3 skill health regen changed from 6/8/10/12/14/16/18 to 12/20/28/32/48/54/64
+  
+ Monkey King: 
+  - 1 skill cooldown changed from 20 to 12 
+  
+ Grimstroke:
+  - Spirit walk cooldown changed from 25/23/21/19/18/16/14 to 14
+  
+ Omniknight:
+  - 2 skill hp regen changed from 8/12/16/20 to 8/12/16/20/40/60/80
+
+ Death Prophet:
+  - Ultimate cooldown changed from 100 to 60
+  
+ Luna:
+  - 2 skill damage reduction changed from 18% to 10%
+  - Agility per level changed from 2.7 to 3.2
+  - Strength per level changed from 2.1 to 2.5 
+  
+ Juggernaut:
+  - Ultimate attack multiplier changed from 1.0/1.2/1.4/1.6/1.8/2.0/2.2 to 2.2
+  
+ Tusk:
+  - 1 skill cooldown changed from 19.0/16.0/13.0/10.0/10.0/10.0/10.0 to 10.0
+  
+ Gyrocopter:
+  - 1 skill damage from agility changed from 14% to 20%
+  
+ Hola: 
+  - Bonus stats per level changed to 8.0
+  
+ Legion Commander:
+  - 1 skill damage per unit changed from 28/30/32/36/38/45/48 to 32/35/40/44/48/55/60
+  - 1 skill damage per hero changed from 30/42/52/62/72/82/92 to 42/48/50/60/75/90/105
+  - 1 skill radius changed from 330 to 400
+  - 3 skill cooldown changed from 2.6/2.2/2.0/1.6/1.4/1.0/0.5 to 0.0
+  
+ Pangolier: 
+  - Bonus strength per level changed from 2.5 to 3.5
+  
+ Broodmother:
+  - Ultimate cooldown changed from 45 to 30
+  
+ Bounty Hunter:
+  - 2 skill cooldown changed from 3.0 to 3.0/2.8/2.5/2.2/2.0/1.8/1.5
+  
+ Clockwerk:
+  - Ultimate cooldown changed from 70.0/55.0/40.0/40.0/40.0/40.0/40.0 to 30.0 
+  - Ultimate damage chnaged from 200/350/400/550/650/780/875 to 350/450/500/750/950/1100/1250
+  
+ Enchantress:
+  - Ultimate bonus attack range with scepter changed from 250 to 400
+  
+ Dark Willow:
+  - 2 skill cooldown changed from 12 to 7 
+  
+ Troll Warlord:
+  - Fervor bonus damage changed from 4/6/8/9/10/11/12 to 12/15/20/25/30/35/40
+  - Fervor bonus attack speed changed from 10/11/12/13/14/16/18 to 5 
+  
+ Nature Prophet:
+  - Bonus strength per level changed from 2.0 to 2.9 
+  - Bonus intellect per level changed from 2.6 to 4.0
+  
+Item changes:
+ Talisman of Mastery / Life Catcher:
+  - Bonus exp for melee heroes increased(x2). 
+  
+ Slice/Static amulet:
+  - Amplify changed from 7.5/15% to 10/20%
+  
+ Sacred Blades:
+  - Recipe cost changed from 3400 to 1400
+  
+ Fury Shield:
+  - Bonus stats changed from 8 to 12 
+ 
+ Charon scepter:
+  - Recipe cost changed from 3150 to 1150
+  
+ Dimensional Predictor:
+  - Manacost changed from 120 to 0
+  - Bonus magical resist changed from 5% to 15%
+  
+Fixed:
+ - Lone druid bear
+ - Omniknight 1 skill 
+ - Storm spirit 2 skill
