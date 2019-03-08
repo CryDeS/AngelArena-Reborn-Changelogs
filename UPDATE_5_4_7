@@ -1,0 +1,148 @@
+5.4.7 Solar system
+
+Add hero:
+ - Mars
+ 
+Hero changes:
+ Underlord:
+  - Ultimate now save difference of position caster and allies
+  
+ Sand king:
+  - 2 skill damage from strength changed from 100% to 65%
+  - Ultimate cooldown changed from 120/110/100/90/80/70/60 to 60sec
+  - Ultimate attack speed slow changed from 30/32/35/40/37/45/50 to 100/150/200/250/300/350/400
+  
+ Drow Ranger:
+  - Ultimate chance changed from 21/23/25/28/31/35/40% to 20%
+  - Ultiamte bonus damage changed from 0 to 20/60/100/140/160/180/200
+  - Ultimate split count scepter changed from 2 to 4
+  - Ultimate scepter range changed from 375 to 400
+  
+ Enigma:
+  - 2 skill cooldown changed from 15 to 30
+  
+ Bane: 
+  - 2 skill cooldown scepter changed from 3.0 to 1.5
+  
+ Rubick:
+  - Agility gain per level changed from 2.2 to 2.0
+  
+ Huskar:
+  - Base armor changed from -3 to -1
+  
+ Broodmother:
+  - Base armor changed from -1 to 2
+  - Ultimate casttime changed from 0.2 to 0.1
+  - Ultimate bonus damage changed from 100/140/160/180/220/280/350 to 100/200/250/300/450/650/800
+  
+ Dark Seer:
+  - Ultimate cooldown changed from 60 to 15
+  - Ultimate duration changed from 45 to 15
+  - Ultimate manacost changed from 225/280/375/550/720/850/1200 to 225/280/375/425/525/625/725
+  
+ Enchantress:
+  - Base attack speed changed from 1.7 to 1.2
+  
+ Medusa:
+  - Intellect gain per level changed from 2.0 to 2.5
+  - 2 skill sneak scale changed from 35% to 45%
+  
+ Crystal Maiden:
+  - Ultimate cooldown changed from 90 to 60 sec
+  - Ultimate bonus armor changed from 10/20/30/40/50/60/70 to 20/30/40/50/60/70/80
+  - Ultimate damage fron intellect changed from 50% to 150%
+  
+ Techies:
+  - 3 skill radius changed from 1000 to 500
+  
+ Fireblade:
+  - 1 skill heal cooldown changed from 16 to 4
+  - 2 skill cast time removed 
+  - 3 skill shield damage block changed from 125/150/250/300/350/400/450 to 200/250/300/350/400/500/650
+  
+ Omniknight:
+  - 1 skill damage percent changed from 80% to 100%
+  - 3 skill attack speed slow changed from 30/38/46/54/62/70/80 to 30/40/50/70/90/110/120
+  - Ultimate range changed from 600 to 1200
+  
+ Phanthom Lancer:
+  - Agility per level changed from 2.5 to 3.5
+  - Ultimate illusion output damage changed from 26% to 30%
+  
+ Slark: 
+  - 2 skill manacost changed from 75 to 75/65/55/45/35/25/15
+  - Ultimate manacost changed from 250/230/200/180/160/100/80 to 80/100/160/180/200/230/250
+  
+ Warlock:
+  - Golems hp changed from 900/1000/1100/1200/1300/1400/1500 to 1000/1400/1800/2000/2200/2400/2600
+  - Golems with scepter hp changed from 675/900/1000/1100/1200/1300/1400 to 750/1000/1350/1750/1900/2300/2600
+  
+ Skeleton King:
+  - 1 skill damage changed from 50/100/150/200/300/400/500 to 100/150/200/250/350/450/550
+  
+ Chen:
+  - Holy Persuasion cooldown changed from 30/28/26/24/22/20/18 to 4.0
+  
+ Oracle:
+  - Strength per level changed from 2.6 to 3.0
+  - Intellect per levle changed from 2.4 to 2.8
+	
+ Wisp:
+  - Cast delay changed from 2.5 to 0.0
+  
+ Shadow Fiend:
+  - 1/2/3 skill damage changed from 60/85/115/130/160/190/220 to 85/125/150/175/200/245/280
+  
+ Phoenix:
+  - Ultimate damage changed from 60/90/120/200/320/450/600 to 90/150/200/250/375/550/750
+  
+ Venomancer:
+  - 2 skill damage changed from 33/50/75/100/125/150/175 to 30/45/55/75/100/115/135
+  - Ultimate damage changed from 80/100/150/200/250/300/350 to 100/150/200/300/350/400/500
+  
+ Tinker:
+  - 2 skill manacost changed from 140/160/200/220/250/340/400 to 140/160/200/220/250/270/290
+  - 3 skill manacost changed from 145/150/165/190/220/320/380 to 75/100/125/150/175/200/225
+  
+ Grimstroke:
+  - 3 skill max damage changed from 200/280/360/440/520/600/680 to 300/350/400/475/550/700/800
+  - 3 skill damage per tick changed from 5/7/9/11/13/15/17 to 20/30/40/60/80/100/110
+  
+Item changes:
+ Fury shield:
+  - Bonus all stat changed from +10 to +7
+  - Bonus attack speed changed from 30 to 50
+  
+ Sacred Blades:
+  - Recipe cost changed from 1400 to 200
+  - Burn to damage chnaged from 60% to 100%
+ 
+ Pipe of Insight:
+  - Bonus all stats changed from 0 to 20
+  
+ Power threads 2:
+  - Recipe cost changed from 2550 to 550
+  
+ Power treads 3:
+  - Recipe cost changed from 4750 to 1250
+  
+ Reverse:
+  - Bonus damage changed from 450 to 750
+  
+ Soul ring:
+  - Mana sacrifice changed frm 280 to 220
+  - Bonus strength changed from 6 to 12
+  
+ Mango:
+  - Cost changed from 90 to 70
+  
+ Skadi 2:
+  - Slow now not purgable
+  
+Other changes:
+ - Localization fixes
+ - Spiked armor fixed
+ - Various fixed of Valve patches
+ - Devour helm fixed
+ - Weaver fixed
+ - Underlord fixed
