@@ -1,3 +1,18 @@
+5.4.7 f1
+
+Hero changes:
+ Grimstroke:
+  - 3 skill damage per second changed from 100/150/200/300/400/500/550 to 40/60/80/96/100/136/160
+  
+Item changes:
+ Magician Ring:
+  - Now dont lose charges when got into backpack
+  
+ Devour helm:
+  - Now dont drop consumed unit when owner of devour is reincarnating
+  - Fixed
+  
+  
 5.4.7 Solar system
 
 Add hero:
