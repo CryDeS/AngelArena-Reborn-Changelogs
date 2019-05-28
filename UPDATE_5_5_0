@@ -1,0 +1,126 @@
+5.5.0 
+New items:
+ - Void Scepter
+  - Active: Void Astral - Hide your unit from map and regenerate health and mana.
+  - Active: Void Attraction - Attract selected unit to your location.
+  - Passive: Cooldown Reduction - Reduce cooldown of abilities and items.
+  - Craft: Polar Spear + Magician Ring + Charon Scepter + Blessed Essence + Recipe(3.000 gold)
+  
+Deleted item:
+ - Octarine core 1/2
+ - Soul booster
+ 
+Hero changes:
+ Abaddon:
+  - Ultimate cooldown changed from 60 to 50
+  
+ Pangolier:
+  - 3 skill slow change from 50% to 30%
+  - 3 skill now have scale disarmnor
+
+ Necrophos:
+  - 3 skill no have scacle regen HP/MP
+  
+ Windrunner:
+  - Ultimate bonus damage changed from -30/-25/-20/-15/-10/-5/0% to -25/-15/-10/0/10/25/35%
+  - Ultimate cooldown changed from 60 to 30 seconds
+ 
+ Dark Willow:
+  - 2 skill cooldown changed from 7 to 13
+  - 2 skill damage changed from 150/250/360/500/650/750/900 to 150/250/360/400/450/500/565
+  
+ Sand King: 
+  - 3 skill damage from strength changed from 175% to 150%
+  
+ Winter Wyvern:
+  - 1 skill with aghanim scepter manaburn changed from 150 to 75
+  
+ Enchantress:
+  - Ultimate bonus scepter range changed from 400 to 50/100/150/200/250/300/350
+  
+ Nature Prophet:
+  - Ultimate damage amplify changed from 5% to 2%
+  
+ Zeus:
+  - Ultimate cooldown changed from 45 to 55
+  
+ Lich:
+  - Vampire now dont work as passive
+  
+ Gyrocopter:
+  - 3 skill ultimate scepter fire rate changed from 1.1 to 0.7
+  
+ Dragon Knight:
+  - 3 skill health regen changed from 3/6/8/12/14/16/18 to 10/20/30/40/50/60/70
+  
+ Chaos Knight:
+  - 3 skill cooldown changed from 3 to 2.5
+  
+ Spike:
+  - Base health changed from 450 to 200
+  - Strength gain per level changed from 2.8 to 2.2
+  
+ Faceless Void:
+  - 3 skill backed to dota variation
+  
+ Undying:
+  - 2 skill hit to destroy changed from 4/5/6/7 to 5/6/7/8
+  
+ Skywrath Mage:
+  - 3 skill cast range changed from 500 to 700
+  - Ultimate duration changed from 1.4 to 2.4
+  - Ultimate radius changed from 180 to 220
+
+ Timbersaw:
+  - 1 skill damage changed from 120/200/225/280/320/450/520 to 100/150/200/250/300/350/400
+  
+ Slark: 
+  - Ultimate cooldown changed from 40 to 15
+  
+ Witch Doctor:
+  - Ultimate damage changed from 75/110/150/200/250/350/450 to 100/150/200/250/300/400/550
+  
+ Joe Black:
+  - Bonus intellect changed from 10.0 to 6.0
+  
+Item changes:
+ - Sentry wards:
+  - Cap changed from 10 to 20
+  - Stock time changed from 70 to 60
+  
+ - Knowlage Tome:
+  - Cooldown changed to 30 seconds
+  
+ - Smoke of Deceit:
+  - Cooldown changed from 4o to 70
+ 
+ - Polar Spear:
+  - Now can't be used from roots
+
+ - Charon Scepter:
+  - Item cost change from 3975 to 2975
+  
+Other changes:
+ - Maximum limit of items changed from 24 to 100
+ 
+Fixed:
+ - Wisp 2 skill
+ - Templar Assassin ultimate scepter skill fixerd
+ - Spectre ultimate scepter skill fixed
+ - Nature Prophet treant now grow up with time
+ - Ward dispenser fixed
+ - Fountain fixed
+ - Axe 2 skill
+ - Bane 2 skill
+ - Slardar 2 skill
+ - Windrunner 1 skill fixed
+ - Beastmaster fixed
+ - Clinkz fixed
+ - Nightstalker fixed
+ - Chen fixed
+ - Monkey king fixed
+ - Mars fixed
+ - Obsidian Destroyer fixed
+ - Omniknight fixed
+ - Slardar fixed
+ - Treant fixed
