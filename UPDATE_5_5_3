@@ -1,0 +1,80 @@
+5.5.3
+Hero Changes:
+ Timbersaw:
+  - 1 skill bonus for tree change from 50/60/70/80/90/100/120 to 27/40/53/66/80/95/115
+  - 1 skill manacost change from 70/80/90/100/120/140/150 to 85/95/105/115/125/140/160
+  - 4 skill damage per strength change from 80% to 50%
+
+ Leshrac:
+  - 4 skill now not triggered Static Amulet & Slice of Static
+
+ Wraith King:
+  - 4 skill cooldown change from 60/50/50/45/40/35/30 to 70/67/64/61/57/53/45
+  - 4 skill aghanim scepter bonus duration change from 5 to 4
+
+ Slark:
+  - 4 skill cooldown with aghanim change from 15 to 25
+  - 2 skill cooldown change from 10.0 to 11.5/11.0/10.5/10.0/9.5/9.0
+  - 2 skill duration change from 3.5 to 2.5/2.7/2.9/3.1/3.3/3.5/3.7
+  - 1 skill manacost change from 55/50/45/40/35/30/15/0 to 70/65/60/55/50/45/35
+
+ Slardar:
+  - 1 skill speed on river change from 80 to 30
+  - 1 skill aghanim status resist change from 30 to 20
+  - 4 skill disarmor percent change from 35/37/40/45/50/55/60 to 30/32/34/36/38/41/45
+  - 4 skill disarmot constant change from 10/12/14/16/18/20/22 to 8/10/12/14/16/18/20
+
+ Rubick:
+  - 4 skill now has 7 levels.
+  - 4 skill mana cost change from 25 to 50
+  - 4 skill duration change from 300/600/800 to 150/200/250/300/350/400/450
+  - 4 skill aghanim cooldown change from 6/4/2 to 12/10/8/6/4/2
+
+ Lina
+  - 3 skill now not purge after the end
+
+ Disraptor:
+  - Agility per level change from 1.9 to 2.4
+  - Strength per level change from 2.3 to 2.5
+  - Base Intelligence change from 22 to 25
+
+ Dragon Knight:
+  - 2 skill damage per Strength change from 450 to 250
+
+ Batrider
+  - COMEBACK!
+
+Item Changes:
+ Void Scepter:
+  - Cooldown change from 16 to 18 sec
+
+ Plague Staff:
+  - Critical damage now not work on yourself and friendly units
+
+ Dimensional Predictor:
+  - Dimensional charge attack now not work on ward (sentry or observer)
+
+ Damned Eye:
+  - Bonus health change from 50 to 100
+  - Heal constant change from 500 to 650
+
+ Vampire Claw:
+  - Bonus damage change from 32 to 20
+  - Now it doesn't ignore block damage (templar assassin's refraction, adaddon's shield, other)
+
+ Reverse:
+  - Now has 1000 movespeed limit again
+
+ Dead Boots:
+  - Bonus movespeed change from 100 to 20
+
+ Solar Crest:
+  - Now can't disassemble
+
+Fixes:
+ - Lina 3 skill saves your with aghanim ultimate Wraith King
+ - Fixed over 80 heroes after summerscrub
+ - Demons of Midas localization
+ - Phase Boots 1 & 2 & 3 localizations
+ - Amaliels Cuirass buff icon
+ - Spiked Armor buff icon
