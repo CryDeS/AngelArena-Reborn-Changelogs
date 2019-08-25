@@ -1,0 +1,34 @@
+5.5.4
+Items Changes:
+ - New Item: Soul Collector
+ - New Item: Soul Merchant
+
+ Mask Of Madness:
+  - Removed
+
+ Spirit Vessel:
+  - Removed
+
+ Aether Lens:
+  - Removed
+  
+ All Dagons:
+  - Removed
+
+Hero Changes:
+ Faceless Void:
+  - 1 skill colldown change from 4.0 to 6.0/5.7/5.4/5.1/4.8/4.4/4.0
+  - 1 skill manacost change from 70/75/80/90/100/115/125 to 80/90/100/110/120/145/160
+  - 3 skill duration change from 0.25 to 0.2
+  - 3 skill chance change from 10/14/18/22/25/27/30 to 8/10/12/14/16/18/20
+  - 4 skill manacost change from 250 to 250/300/350/450/550/650/800
+
+ Outworld Devourer
+  - 1 skill manacost change from 10/20/30/40/50/60/70 to 30/45/60/75/95/130/145
+  - 1 skill steal duration change from 60 to 25/30/35/40/45/50/60
+  - 4 skill int multiplier change from 5/8/10/12/15/20/22 to 5/7/9/11/13/16/19
+  - 4 skill radius change from 375/475/575 to 350/375/400/425/450/475/500
+  - 4 skill manadrain change from 40% to 30%
+
+ Warlock
+  - 4 skill. Golems now have +100 hp/minute.
