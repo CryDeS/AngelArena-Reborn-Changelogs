@@ -1,0 +1,86 @@
+Update 5.5.6:
+Hero changes:
+ Enchantress:
+  - 1 skill attack speed slow changed from -60/90/120/150/180/210/240 to -60/80/100/120/140/160/180 
+  - 2 skill mana cost changed from 65/45/35/25/15/5/0 to 65/75/85/90/100/110/120
+  - Ultimate manacost changed from 55/60/65/75/85/95/100 to 75/100/125/150/200/225/250
+  
+ Invoker:
+  - Quas health regen changed from 2.0/4.0/5.0/6.0/7.0/9.0/15.0 to 4.0/7.0/10.0/13.0/16.0/19.0/22.0
+  - Ultimate cooldown scepter changed from 1.5 to 0.5
+  - Forge Spirit health changed from 400/450/500/550/600/650/700/750 to 600/700/800/900/1000/1100/1200
+  - Forge Spirit duration changed from 20/30/40/50/60/70/80/100 to 30
+  - Forge Spirit attack range changed from 300/365/430/495/560/625/690/720 to 625
+  - Sun Strike cooldown changed from 15 to 6
+  - Aclarity manacost changed from 45 to 125
+  - Tornado cooldown changed from 42 to 36
+  
+ Jakiro:
+  - 1 skill damage from intellect changed from 18% to 25%
+  - Ultimate damage with scpeter changed from 125/200/280/300/320/340/380 to 150/225/300/375/450/525/600
+  
+ Legion Commander:
+  - 1 skill damage changed from 32/35/40/44/48/55/60 to 40/50/60/70/80/90/100
+  - 1 skill damage by hero changed from 42/48/50/60/75/90/105 to 60/70/80/90/100/110/120
+  - 1 skill cooldown changed from 15 to 12
+  - Strength per level changed from 2.8 to 3.5
+  
+ Morphling:
+  - Adaptive Strike(Agi) base damage changed from 50/60/70/80/120/160/180 to 100/140/180/220/260/300/340
+  - Morph bonus attributes changed from 3/7/9/12/15/18/22 to 10/17/24/32/39/46/54
+  
+ Queen of Pain:
+  - 1 skill cast range changed from 450/475/500/525/550/575/600 to 600
+  
+ Rubick:
+  - 2 skill damage changed from 90/135/180/235/285/325/375 to 100/160/220/280/340/400/460
+  
+ Enigma:
+  - 3 skill & Ultimate plague staff disabled
+  
+ Brewmaster:
+  - Ultimate cooldown changed from 120/100/80 to 45
+
+ Centaur:
+  - Strength gain per level changed from 4.6 to 5.0
+ 
+ Batrider:
+  - Base movement speed changed from 295 to 305
+  
+ Phantom Assassin:
+   - 1 skill manacost change from 30/40/50/60/70/80/100 to 30
+   - 4 skill manacost change from 80/100/120/140/160/180/200 to 50/65/80/95/110/125/140
+   - 4 skill projectile speed change from 1050 to 1500
+   - 4 skill damage per stack change from 7% to 10%
+   - 4 skill max damage percent change from 42% to 50%
+
+ Juggernaut:
+  - 1 skill cooldown change from 24/22/20/19/18/17/16 to 15
+
+ Shadow Fiend:
+  - 4 skill fix reduced sould (from 70% to 30%)
+
+ Riki:
+  - Change base movespeed from 290 to 310
+  
+Items Changes:
+ Center Of Peace:
+  - Fix recipe
+  - Add for store
+
+ Soul Merchant:
+  - Reduced heal change from 30% to 50%
+  - Slow change from 30% to 60%
+
+ Soul Collector:
+  - Reduced heal change from 70% to 85%
+  - Slow change from 30% to 60%
+  - Start radius change from 125 to 150
+  - End radius change from 180 to 220
+  - Cast range change from 750 to 900
+   
+Other Changes:
+ - Bonus gold from dragons changed from 30% to 15%
+ 
+Fixes:
+ - Capitans mode fixed
