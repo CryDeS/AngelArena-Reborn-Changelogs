@@ -1,26 +1,26 @@
 5.5.5
 Hero Changes:
  Zeus:
-  - 3 skill damage change from 5/5/6/6/7/7/8 to 5.0/5.5/6.0/6.5/7.0/7.5/8.0
+  - 3 skill damage changed from 5/5/6/6/7/7/8 to 5.0/5.5/6.0/6.5/7.0/7.5/8.0
 
  Lechrack:
-  - 3 skill damage change from 90/120/140/200/220/240/260 to 120/165/210/255/290/340/400
-  - 4 skill mana per second change from 20/40/60/90/110/150/160 to 10/27/44/61/78/97/120
+  - 3 skill damage changed from 90/120/140/200/220/240/260 to 120/165/210/255/290/340/400
+  - 4 skill mana per second changed from 20/40/60/90/110/150/160 to 10/27/44/61/78/97/120
 
  Phantom Assassin
-  - 4 skill change. Now it's active skill.
-  - 1 skill manacost change from 30/25/20/15/10/5/0 to 30/40/50/60/70/80/100
-  - 1 skill slow duration change from 1/2/3/4 to 1.0/1.5/2.0/2.5/3.0/3.5/4.0
+  - 4 skill changed. Now it's active skill.
+  - 1 skill manacost changed from 30/25/20/15/10/5/0 to 30/40/50/60/70/80/100
+  - 1 skill slow duration changed from 1/2/3/4 to 1.0/1.5/2.0/2.5/3.0/3.5/4.0
 
 Item Changes:
  Circlet:
-  - Bonus attribute change from 2 to 4
+  - Bonus attribute changed from 2 to 4
 
  Refresher Orb
-  - Cooldown change from 195 to 120
+  - Cooldown changed from 195 to 120
 
  Recovery Orb
-  - Cooldown change from 195 to 110
+  - Cooldown changed from 195 to 110
 
  Removed items:
   - Yasha (now dont drop on creeps)
@@ -40,9 +40,9 @@ Item Changes:
     ============
     New recipe: Fury Shield + Fury Shield + Demon Edge + Vitality Booster
     ============
-    Total cost change from 6400 to 5400
+    Total cost changed from 6400 to 5400
     ============
-  - Destroy bind range change from 1100 to 1200
+  - Destroy bind range changed from 1100 to 1200
 
  Deathshield:
   - Old Recipe: Vanguard + Vanguard
@@ -90,7 +90,7 @@ Item Changes:
     ============
     New Recipe: Echo Sabre 2 + Sacred Relic + Recipe
     ============
-  - Bonus damage change from 72 to 130
+  - Bonus damage changed from 72 to 130
 
  Heavens Halberd:
   - Old recipe: Sange + Talisman Of Evasion
