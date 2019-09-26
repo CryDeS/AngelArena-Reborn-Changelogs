@@ -1,0 +1,135 @@
+5.5.7
+Hero changes:
+ Abyssal Underlord:
+  - 1 skill damage changed from 45/90/110/150/200/220/250 to 30/55/80/105/130/155/180
+
+ Axe:
+  - 1 skill bonus armor changed from 40/50/60/80/120/160/220 to 10/20/30/40/50/60/70
+  - 2 skill cast range changed from 750 to 650
+ 
+ Ancient Apparation:
+  - 1 skill cast range changed from 700/800/900/950/1000/1100/1200 to 650
+  - 1 skill break distance changed from 750 to 700
+  - 3 skill attack range changed from  250/300/350/400/450/500/600 to 600
+  
+ Beastmaster:
+  - 3 skill bonus attack speed changed from 60/80/100/120/140/160/190 to 30/55/80/105/130/155/180
+  
+ Bounty Hunter:
+  - 2 skill bonus damage changed from 80/110/140/170/200/250/300 to 40/66/93/120/146/173/200
+	
+ Chen:
+  - Divine Favor cooldown changed from 37 to 12
+ 
+ Morphling:
+  - 1 skill manacost changed from 100/125/145/165/175/185/200 to 75/95/115/125/135/145/150
+  - Morph bonus attributes changed from 10/17/24/32/39/46/54 to 10/14/18/22/26/30/34
+  - Ultimate now have 7 levels
+  
+ Enigma:
+  - Black hole far damage changed from 65/130/185/250/350/450/650 to 65/100/125/150/175/200/250
+  - Black hole near damage changed from 70/150/215/320/420/500/700 to 70/125/150/175/200/250/300
+  - Black hole cooldown changed from 60 to 90
+  
+ Enchantress:
+  - BAT changed from 1.2 to 1.7
+  - Intellect per levle changed from 2.8 to 3.0
+  - Base intellect changed from 19 to 25
+  - Ultimate damage changed from 15/18/22/25/29/32/36 to 15/20/26/32/38/44/50
+  
+ Bristleback:
+  - 2 skill damage from strength for non-hero units changed from 1.0 to 0.5
+  - Ultimate bonus damage changed from 30/37/43/50/57/63/70 to 30/33/36/39/42/45/48
+  - Ultimate duration changed from 10/11/12/12.5/13/14/15 to 10
+  - Ultimate stack duration changed from 45 to 30
+  
+ Tidehunter:
+  - 3 skill cooldown changed from 4 to 10/9/8/7/6/5/4
+  - Ultimate cooldown changed from 60 to 90
+  - Ultimate manacost changed from 150/225/325/425/560/750/670 to 200/300/400/500/600/700/800
+  
+ Nyx Assassin:
+  - 2 skill manaburn changed from 6.0 to 4.5
+  
+ Wraith King:
+  - 1 skill dot duration changed from 4.0 to 2.0 
+  - 1 skill dot damage changed from 15/30/40/50/70/80/100 to 30/60/80/100/140/160/200
+  - 1 skill cast range changed from 525 to 500
+  - Ultimate scepter duration changed from 4 to 2.5
+  - Ultimate slow duration changed from 5 to 3
+  
+ Winter Wyvern:
+  - 1 skill damage duration changed from 5 to 7
+  - Ultimate radius changed from 900 to 750
+  - Ultimate manacost changed from 400 to 300/450/600/750/900/1050/1200
+  - Bonus agility per level changed from 2.4 to 2.7
+  - Base damage changed from 13-20 to 25-30
+  
+ Pudge:
+  - Ultimate cooldown changed from 30 to 50
+  
+ Phoenix:
+  - Ultimate damage changed from 90/150/200/250/375/550/750 to 90/145/200/255/310/365/420
+  
+ Naga Siren:
+  - 1 skill damage to illusions changed from 150% to 200%
+  
+ Sand King:
+  - 2 skill damage changed from 25 to 25/37/50/62/75/87/100
+  - Ultimate damage changed from 110/150/200/225/250/275/300 to 100/120/140/160/180/200/220
+  
+ Rubick:
+  - 2 skill damage changed from 100/160/220/280/340/400/460 to 160/210/260/310/360/410/460
+  - Ultimate cooldown changed from 15/13/11/9/7/6/4 to 7/6.5/6/5.5/5/4.5/4
+  - Ultimate cooldown scepter changed from 12/10/8/6/4/2 to 2
+  - Ultimate cast range scepter changed from 1700 to 1000/1100/1200/1300/1400/1500/1600
+  
+ Darkseer:
+  - Ultimate illusions damage with scepter chagned from 100/120/140/160/180/220/250% to 70/75/80/85/90/95/100%
+  
+ Spectre:
+  - 2 skill block changed from 10/12/15/17/20/22/25% to 10/12/14/15/16/18/20%
+  
+ Death Prophet:
+  - BAT changed from 1.4 to 1.7
+  
+ Io:
+  - 2 skill hero damage changed from 20/30/35/50/65/75/90 to 30/45/60/75/90/105/120
+  
+ Juggernaut:
+  - Bonus agility per level changed from 2.4 to 3.2
+  - Base movement speed changed from 295 to 300
+  - Base health regen changed from 4 to 20
+  
+ Spike:
+  - 1 skill damage changed from 80/100/120/160/220/320/400 to 100
+  
+ Techies:
+  - 1 skill cooldown changed from 8/7.8/7.6/7.2/6.8/6.5/6 to 8
+  - Suicide silence duration changed form 4 to 2/2.3/2.7/3/3.3/3.7/4
+  - Suicide damage changed from 200/250/300/350/400/450/500 to 100/166/233/300/366/433/500
+ 
+ Kunkka:
+  - 1 skill cast range changed from 900 to 1000
+  
+ Witch Doctor:
+  - 2 skill heal changed from 25/30/40/55/65/80/125 to 12/18/24/31/37/43/50
+ 
+Item changes:
+ Snake boots:
+  - Bonus armor changed from 10 to 2
+  - Bonus hp regen changed from 35 to 5
+  - Bonus all stats changed from 30 to 20
+  - Cast time changed from 1 to 1.5
+  - Now have a particles
+  
+ Void Scepter:
+  - Polar spear in recipe changed to center of peace
+  - Pull-ability disabled
+  
+ Polar Spear:
+  - Can't be used in spell immune 
+  - Now have a particle 
+  
+Fixed:
+ - Morphling 1 skill fixed with talent
