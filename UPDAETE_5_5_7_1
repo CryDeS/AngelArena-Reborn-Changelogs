@@ -1,0 +1,16 @@
+5.5.7.1
+Hero changes:
+ Lich:
+  - 2 skill duration duration changed from 8 to 6
+  - 2 skill damage changed from 50/80/110/150/190/240/290 to 40/75/110/145/180/215/250
+  - 3 skill duration changed from 3.0 to 1.5/1.8/2.2/2.5/2.8/3.2/3.5
+  
+Changes:
+ - Killlimit can be alt clicked
+ - Duel timer can be alt clicked
+
+Fixed:
+ - Abaddon passive fixed
+ - Disable help fixed
+ - Snake boots fixed
+ - Grimstroke all skill fixed
