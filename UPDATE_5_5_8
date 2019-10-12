@@ -1,0 +1,164 @@
+5.5.8
+Hero changes:
+ Earth Spirit:
+  - 2 skill damage changed from 100 to 100/133/166/200/233/266/300
+  - Ultimate damage changed from 65/85/125/200/250/300/350 to 85/140/195/250/305/360/415
+  
+ Lina: 
+  - Fire shield cooldown changed from 18/17/16/15/14/12/10 to 20/19.5/18/18.5/18/17.5/17
+  - Base damage changed from 36-40 to 20-26
+  
+ Wraith King:
+  - 1 skill tick damage changed from 30/60/80/100/140/160/200 to 30/50/70/90/110/130/150
+  
+ Dark seer:
+  - 2 skill damage changed from 25/40/50/65/70/75/80 to 25/30/36/42/48/54/60
+  - 3 skill speed boost changed from 30/45/60/75/90/110/120% to 15/20/25/30/35/40/45%
+  - 3 skill cast point changed from 0.4 to 0.01
+  - 3 skill cast range changed from 600 to 800
+  - Ultimate cooldown changed from 15 to 35
+  - Ultimate movement slow changed from 75 to 45
+ 
+ Spectre:
+  - Haunt damage outgoind changed from 100% to 60%
+  - Haunt Single damage outgoing damage changed from 100% to 60%
+  - Haunt Single damage incoming damage changed from 100% to 150%
+  
+ Phanthom Asssassin:
+  - 1 skill damage changed from 25/55/65/90/120/130/150% to 150%
+  
+ Juggernaut:
+  - 1 skill damage changed from 80/90/105/125/140/180/250 to 80/120/160/200/240/280/320
+  
+ Templar Assassin:
+  - 3 skill range changed from 60/120/180/190/210/220/240 to 160/170/180/190/210/220/240
+  
+ Razor:
+  - Ultimate cooldown changed from 80/75/70/65/60/55/50 to 60
+  
+ Reaver Lord:
+  - 1 skill cast range changed from 440 to 600
+  
+ Spirit Breaker:
+  - Base armor changed from 3 to 4
+  
+ Treant Protector:
+  - Eye in the forest manacost changed from 400 to 300
+  - Eye in the forest cooldown changed from 22 to 25
+  
+ Witch Doctor:
+  - 2 skill heal changed from 12/18/24/31/37/43/50 to 10/15/20/26/30/35/40
+  
+ Beastmaster:
+  - 1 skill cast range changed from 1600 to 1400
+  - Ultimate cast range changed from 900 to 800
+  
+ Winter Wyvern:
+  - Base movement speed changed from 315 to 305
+  - Bonus agility per level changed from 2.7 to 3.0
+  - Bonus intellect per level changed from 3.4 to 4.0
+  - Bonus strength per level changed frm 2.4 to 2.0
+  - 1 skill percent damage changed from 5% to 7%
+  - 1 skill attack point changed from 0.1 to 0.05
+  - 2 skill damage changed from 200/275/375/475/575/675/750 to 150/250/350/450/550/650/750
+  - 3 skill cast time changed from 0.3 to 0.1
+  - Ultimate cooldown changed from 25 to 45
+  - Ultimate damage reduction changed from 50 to 70
+  - Ultimate bonus attack speed changed from 200 to 50/175/300/425/550/675/800
+  
+ Phoenix:
+  - 2 skill duration changed from 4 to 3
+  - 2 skill cooldown changed from 18 to 22
+  
+ Death Prophet:
+  - 3 skill restore time changed from 45 to 25
+  
+ Sand king:
+  - 3 skill damage changed from 90/130/170/220/360/450/500 to 90/145/200/255/310/365/420
+  
+ Silencer:
+  - Intellect per level changed from 4.0 to 3.2
+  - Strength per level changed from 3.5 to 2.7
+  - Ultimate duration changed from 5/5.5/6/6.5/7/7.5/8.5 to 4/4.5/5/5.5/6/6.5/7
+  
+ Luna:
+  - 3 skill bonus att changed from 15/20/25/30/35/40/50 to 10/12/17/20/22/25/30
+  - Bonus agility changed from 3.2 to 3.0
+  
+ Sven: 
+  - 1 skill shield by str changed from 1/1.5/2/2.2/2.5/2.7/3.0 to 1.0
+  - Bonus strength changed from 3.2 to 3.0
+  
+ Axe:
+  - 2 skill cooldown changed from 20/17/15/12/10/7/5 to 18
+  - Bonus strength changed from 4.0 to 3.0
+  
+ Pugna:
+  - 3 skill damage by mana changed from 1/1.25/1.5/1.75 to 1/1.5/1.75/2.25
+  - 3 skill damage by int chagned from 0.7 to 1.5
+  
+ Magnus:
+  - 1 skill cooldown changed from 12/11/10/9/8/7/6 to 7
+  
+ Chen:
+  - 2 skill bonus movement speed changed from 10/15/20/25/30/35/40 to 30/35/40/45/50/55/60
+  - 2 skill bonus damage changed from 60/80/100/135/170/205/250 to 60/80/100/135/170/185/200
+  - 3 skil teleport delay changed from 0.5 to 0.8
+  - Talent changed -40 sec cooldown divine favor to -12 second divine favor
+  
+Item changes:
+ Dimensional Predictor:
+  - Bonus strength changed from 32 to 16
+  - Bonus damage changed from 60 to 30
+  - Bonus attack speed changed from 64 to 46
+  - Damage radius changed from 200 to 300
+  
+ Center of Peace:
+  - Bonus str/agi/int changed from 15 to 20
+  - Bonus manaregen changed from 5 to 10
+  
+ Slice/Static Amulet:
+  - Cooldown changed from 14 to 20
+  
+ Angel Desolators:
+  - Recipe cost changed from 2500 to 2000
+  
+ Snake Boots:
+  - Now teleport choose target on teleport start
+  - Added particles for target and caster
+
+ Reverse:
+  - Now stackable
+  
+ Phase boots 1/2/3/4:
+  - Bonus damage changed from 30/96/300/750 to 30/96/160/450
+  - Bonus armor changed from 6/10/15/35 to 6/8/12/25
+ 
+ Meteor Hammer:
+  - Bonus strength changed from 20 to 12
+  - Burn duration changed from 6 to 3
+  
+ Amulets changes:
+  - Now sellable
+  - Now initial charges is 0
+  - Can't be activated when charges count is 0
+  
+ Talisman of Mastery:
+  - Min exp changed from 32 to 22
+  
+Other changes:
+ - Alt + click on duel timer and kill limit timer has cooldown 2 secs
+ - Now game on start have auto-pause
+ - Backpack cooldown changed from 6 to 4
+ - Dimensional predictor added new icon when charged
+ 
+Fixed:
+ - Dragon Knight ultimate fixed
+ - Morphling ultimate fixed
+ - Beastmaster 1 skill fixed
+ - Axe ultimate fixed
+ - Fixed dragons & salamanders dominating
+ - Fixed lina ultimate with scepter and spell immune
+ - Captains mode fixed
+ - Lich 3 skill fixed
+ 
