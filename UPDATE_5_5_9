@@ -117,7 +117,7 @@ Item changes:
  Skadi 2:
   - Now can be applied to bosses 
 Other changes:
- - Now midas increase gold for bounty rune if you teammate up rune
+ - Now midas increases gold for bounty rune if you teammate picks up this rune
  - Now all heroes in team that pickup bounty rune have 20% chance to increase level
  
 Fixed:
