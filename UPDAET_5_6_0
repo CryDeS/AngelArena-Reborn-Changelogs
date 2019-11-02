@@ -1,0 +1,136 @@
+5.6.0
+Hero changes:
+ Drow Range:
+  - Ultimate chance changed from 20% to 50%
+ 
+ Leshrack:
+  - 3 skill damage changed from 120/165/210/255/290/340/400 to 95/135/175/225/250/300/325
+  - 3 skill scepter interval changed from 2 to 3
+  - 3 skill cast range changed from 800 to 600
+  - 3 skill scepter range changed from 750 to 600
+  
+ Phoenix:
+  - 3 skill damage changed from 1.25/2.5/3.75/5/5.5/6.0/6.5% to 1.25/1.75/2.25/2.75/3.0/3.5/4.0%
+  - Ultimate damage changed from 90/145/200/255/310/365/420 to 90/125/175/225/275/305/335
+  
+ Winter Wyvern:
+  - Ultimate radius changed from 750 to 700
+  
+ Queen of Pain:
+  - 1 skill duration changed from 15 to 3
+  - 1 skill tick changed from 3 to 1
+  - 1 skill tick damage changed from 30/40/60/80/110/130/160 to 50/100/150/200/240/290/330
+  - Ultimate damage scepter changed from 450/500/600/700/800/1100/2000 to 350/575/800/1025/1250/1475/1700
+  - Ultimate cooldown scepter changed from 15 to 35
+ 
+ Spike: 
+  - Damage from creeps changed from 1 to 2
+  - Damage from heroes changed from 10 to 25
+
+ Centaur:
+  - 1 skill manacost changed from 130 to 70
+
+ Wraith King:
+  - 2 skill vampire changed from 15/16/18/19/20/21/22% to 40/50/60/70/80/90/100%
+  - 2 skill vamprie radius changed from 900 to 500
+
+ Tinker: 
+  - 2 skill damage changed from 135/210/300/365/420/440/460 to 135/207/280/352/425/497/570
+  - 3 skill cooldown changed from 35 to 20
+
+ Undying:
+  - 1 skill cooldown changed from 14/13/12/11/10/8/7 to 7
+  - 3 skill duration interval changed from 1.0 to 1.75
+ 
+ Storm Spirit:
+  - 3 skill damage from intellect changed from 38% to 75%
+  
+ Invoker:
+  - Exort damage changed from 9/12/14/16/18/22/26 to 7/10/14/18/22/26/30
+  - Sun strike cooldown changed from 6 to 14
+  - Chaos Meteor cooldown changed from 30 to 20
+  - Emp cooldown changed from 25 to 10
+  - Blast cooldown changed from 35 to 30
+  - Ice wall duration changed from 3/4.5/6/7.5/9/10.5/12/13 to 4/5/6/7/8/9/10
+  - Forge spirit armor reduce chagned from 1 to 2
+  - Force spirit max disarmor changed from 100 to 1000
+
+ Beastmaster:
+  - Ultimate cooldown changed from 3.0/3.2/3.4/3.6/3.8/4.0/4.1 to 3.0
+  - Ultimate damage changed from 350% to 150/175/200/250/275/300/350%
+
+ Kunkka:
+  - 2 skill cooldown changed from 7/6.5/6/5.5/4.5/3.5/2.5 to 4/3.5/3/2.5/2/1.5/1
+  - 2 skill bonus damage changed from 30/40/45/50/55/60/65 to 65/75/85/95/115/135/150
+  
+ Warlock:
+  - 1 skill count changed from 2/3/4/5/6/7/8 to 7
+  - 1 skill damage changed from 25% to 10/12/14/16/18/20/25%
+  - 2 skill duration changed from 5.5 to 6.0
+  - 2 skill tick time changed from 0.5 to 1.0
+  - Ultimate duration changed from 60 to 30
+  - Ultimate cooldown changed from 60 to 75
+  - Ultimate stun duration changed from 1.0 to 0.75
+  - Ultimate AOE changed from 700 to 600
+  
+ Dazzle:
+  - 3 skill heal/damage changed from 75/100/120/160/190/220/250 to 100/125/160/200/225/275/350
+  
+ Faceless Void:
+  - Agility gain per level changed from 2.9 to 3.2
+  
+ Lina:
+  - Ultimate damage from intellect changed from 500% to 400%
+  - Ultimate cooldown changed from 70/60/50/40/30/20/15 to 70/60/50/40/35/30/25
+  
+ Juggernaut:
+  - 1 skill damage changed from 80/120/160/200/240/280/320 to 80/120/140/160/180/200/250
+
+ Fireblade:
+  - 1 skill now regenerate 50% of max mana and spend 10% of max mana
+
+ Necrophos:
+  - Base intellect changed from 12 to 21
+  - Base strength changed from 18 to 20
+
+ Abaddon:
+  - 1 skill percent heal/damage disabled
+  - 1 skill heal changed from 90/140/190/250/300/340/380 to 110/180/250/320/390/460/530
+
+ Visage:
+  - 2 skill manacost changed from 170/160/150/140/130/120/110 to 130/140/150/160/170/180/190
+  - 2 skill cooldown changed from 7.5 to 2.5
+  - 3 skill damage reduction changed from 8/10/12/14/16/18/20% to 20%
+  - Ultimate damage changed from 45/75/125 to 75/150/225
+  - Ultimate health changed from to 400/800/1200 to 700/1000/2200
+  - Ultimate stun delay changed from 1.0 to 0.3
+  - Ultimate now better grow health with time
+  - Ultimate now better grow damage with time
+  - Base movement speed changed to 350
+ 
+ Medusa:
+  - Agility per level changed from 2.3 to 3.0 
+  - Intelelct per level changed 2.5 to 3.0
+  
+ Wisp:
+  - 2 skill damage from stat changed form 100% to 20%
+
+Item changes:
+ Aeon Disk:
+  - Cooldown changed from 45 to 50
+ 
+ Hurrican Pike:
+  - Push distance changed from 800 to 1200
+  - Cooldown changed to 12
+
+ Force staff:
+  - Cooldown changed from 20 to 12
+
+Fixed:
+ - Damage throw aeon disk & oracle ultimate & gun joe ultimate
+ - Brewmaster 2 skill fix
+ - Lina 3 skill fix
+ - Soul collector fixed
+ - Angel greaves & cooldown reduction
+ - Duel fixed devour helm
+ - Duel fix refresh items
