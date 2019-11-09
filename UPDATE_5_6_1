@@ -1,0 +1,141 @@
+5.6.1
+Hero changes:
+ Drow Ranger:
+  - 3 skill bonus attack speed changed from 50/75/100/130/160/200/250% to 50/60/70/80/90/100/120%
+  - 3 skill cooldown changed from 100 to 70/60/50/40/30/20/10
+  
+ Wraith King:
+  - 2 skill vamprie changed from 40/45/50/55/60/65/70% to 15/20/25/30/35/40/45%
+  - Talent for +25% vampire aura changed to "Aura work on ranged heroes"
+  
+ Spike:
+  - Talent damage by creep changed from 2 to 1
+  - Talent damage by hero changed from 10 to 15
+  - Talent damage by kill boss now work as by kill hero 
+  
+ Visage:
+  - 2 skill damage by charge changed from 65 to 20/30/40/50/60/70/80
+  - 3 skill damage reduction changed from 20% to 15%
+  - Movement speed changed from 320 to 300
+  
+ Abaddon:
+  - 1 skill heal/damage changed to125/180/250/350/450/550/650
+  - 1 skill castpoint changed from 0.452/0.4/0.35/0.3/0.25/0.2/0.1 to 0.1
+  
+ Zeus:
+  - Nimbus cooldown changed from 50 to 35
+  
+ Chaos Knight:
+  - 2 skill cooldown changed from 14/13/12/11/10/9/7 to 8
+  
+ Warlock:
+  - 1 skill damage percentage changed from 10/12/14/16/18/20/25% to 10/12/15/16/17/18/20%
+  - Ultimate stun duration changed from 0.75 to 0.3 
+  
+ Lycan:
+  - Wolfs magical resist changed from 75/75/75/75/50/50/50% to 25%
+  
+ Chen:
+  - 1 skill cooldown changed from 10 to 6
+  - 1 skill cast time changed from 0.3 to 0.1
+  - 1 skill movement slow changed from 15/17/20/22/25/27/30% to 30%
+  - 2 skill cooldown changed from 4 to 9
+  - 2 skill creep min health changed from 700/900/1100/1300/1700/2000/2500 to 700/800/900/1000/1100/1200/1300
+  - 3 skill manacost changed from 150 to 100
+  - Ultimate heal changed from 2000/3000/4000/6000/7000/8000/10000 to 1500/2000/2500/3000/3500/4000/4500
+  - Talent from +1k heal changed to +3k heal
+  - Talent from +1k health to creeps changed to +2.5k health to creeps
+  
+ Silencer:
+  - 3 skill duration changed from 6 to 4
+  - Ultimate duration changed from 4.0/4.5/5.0/5.5/6.0/6.5/7.0 to 3.0/3.5/3.75/4.0/4.25/4.0/5.0
+  - Ultimate cooldown changed from 75 to 45
+  
+ Lich:
+  - Sinister gaze cast range changed from 700/850/1000/1150/1300/1450/1600 to 800
+  - Sinister gaze cooldown changed from 30 to 20
+  
+ Shadow Shaman:
+  - Ultimate cooldown changed from 30 to 60
+  
+ Dazzle:
+  - 3 skill heal changed from 100/125/160/200/225/275/350 to 80/100/140/200/225/275/350
+  - 3 skill cast range changed from 900 to 700
+  
+ Magnus:
+  - 2 skill duration changed from 40 to 20
+  - 2 skill manacost changed from 50 to 25
+  - 2 skill cleave/damage changed from 20/25/30/35/40/45/50% to 15/20/25/30/35/40/45%
+  
+ Rubick:
+  - 2 skill damage changed from 160/210/260/310/360/410/460 to 100/175/240/310/360/410/460
+  
+ Undying:
+  - 3 skill zombie interval changed from 1.75 to 2.0
+  - 3 skill zombie damage changed from 36-40 to 30-36
+ 
+ Batrider:
+  - 3 skill damage changed from 20/30/40/50/60/70/80 to 40/45/50/55/65/75/90
+  
+ Fireblade:
+  - 1 skill cooldown changed from 16 to 12
+  - 1 skill in fire form now slow enemy for 20% for a 6 seconds
+  - 3 skill manacost changed from 100/180/220/260/300/350/400 to 100/120/140/160/180/200/220
+  - Talent from +300 block damage to shield changed to +800 block damage from shield
+  - Talent +60 damage to 2 skill changed to +120 damage to 2 skill 
+  - Talent +6sek to 2 skill changed to 2x bonus damage and duration of 1 skill
+  
+ Templar Assassin:
+  - Bonus agility changed from 7.2 to 4.2
+  
+ Legion Commander:
+  - 1 skill damage by hero changed from 60/70/80/90/100/110/120 to 40/50/70/90/100/110/120
+  - 2 skill hp regen changed from 30/40/50/60/70/90/120 to 50/70/90/120/160/180/200
+  - Ultimate bonus damage changed from 22/32/42/52/62/70/80 to 40/47/55/62/70/77/85
+  
+Item changes:
+ Armlet:
+  - Recipe changed from 3xArmlet to 2xArmlet + 500gold
+  
+ Force staff:
+  - Push length changed from 1000 to 800
+  - Cast range changed from 1000 to 700
+  
+ Hurrican Pike:
+  - Push length changed from 1200 to 1000
+  - Bonus strength changed from 15 to 22
+  
+ Magician Ring:
+  - Bonus cast range changed from 350 to 175
+  
+ Void Scepter:
+  - Bonus cast range changed from 350 to 175
+  
+ Amaliels Cuierass:
+  - Bonus armor changed from 5 to 9
+  - Aura armor changed from 12 to 8
+  - Bonus health changed from 400 to 250
+
+ Charon Scepter:
+  - Fix localization
+
+ Soul Merchant:
+  - Recipe cost change from 970 to 50
+  - Destroy bind range changed from 1200 to 1400
+  - Cast range changed from 750 to 900
+
+ Soul Collector:
+  - Recipe cost changed from 1 to 30 (Total cost now 17 000)
+  - Cast range changed from 900 to 1100
+  - Wave width on the end changed from 220 to 250
+
+ Crimson Guard 1 & 2:
+  - Removed
+  
+Other changes:
+ - Little map revision
+ 
+Fixed:
+ - Damage from stats
+ - Duel now dont break on tiny toss & earthshaker 2 skill
+ - Duel now stop motion controllers on end
