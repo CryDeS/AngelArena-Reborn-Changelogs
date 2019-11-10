@@ -21,7 +21,7 @@ Hero changes:
   - 2 skill cooldown changed from 15 to 20
   
  Pugna:
-  - 1 skill cooldown changed from 85/105/125/145/190/245/310 to 85/105/125/145/165/185/205
+  - 1 skill manacost changed from 85/105/125/145/190/245/310 to 85/105/125/145/165/185/205
   - Ultimate damage changed from 150/200/225/250/275/300/325 to 150/225/275/300/355/425/500
 
  Lina:
