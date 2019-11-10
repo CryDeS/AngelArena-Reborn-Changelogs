@@ -1,0 +1,117 @@
+5.6.1 f3:
+Hero changes:
+ Zeus:
+  - Nimbus interval changed from 3 to 2.25
+  
+ Legion Commander:
+  - 2 skill cast range changed from 1100 to 700
+  - Ultimate cast time changed from 0.3/0.2/0.1/0.0/0.0/0.0/0.0 to 0.3
+
+ Juggernaut:
+  - 1 skill damage changed from 80/120/140/160/180/200/250 to 60/90/100/120/140/180/200
+  - Ultimate cooldown changed from 50 to 70
+  
+ Lycan:
+  - 1 skill magic damage disabled
+  - 1 skill BAT changed to 1.7
+  
+ Omniknight:
+  - 1 skill cooldown changed from 7 to 12
+  - 2 skill cooldown changed from 15 to 20
+  
+ Pugna:
+  - 1 skill cooldown changed from 85/105/125/145/190/245/310 to 85/105/125/145/165/185/205
+  - Ultimate damage changed from 150/200/225/250/275/300/325 to 150/225/275/300/355/425/500
+
+ Lina:
+  - 3 skill autocast disabled
+  - Ultimate damage changed from 400% to 200%
+  - Ultimate cast range changed from 600/700/800/900/1000/1200/1400 to 600
+  
+ Fireblade:
+  - 3 skill (damage) changed from 200/250/300/400/500/650/720 to 100/180/275/375/485/550/620
+  - 3 skill (block) changed from 200/250/300/350/400/500/650 to 100/200/275/300/375/450/525
+  
+ Lycan:
+  - 3 skill radius changed from 9999999 to 1200
+  
+ Shadow Shaman:
+  - Ultimate damage per time reduced
+  - Ultimate health per time reduced
+ 
+ Nyx Assassin:
+  - Ultimate damage changed from 250/320/380/500/600/850/1200 to 250/350/450/550/650/750/850
+  - Ultimate damage from main att changed from 400% to 200%
+  - Ultimate duration changed from 40/50/60/70/80/90/100 to 40
+ 
+ Grimstroker:
+  - 3 skill max damage changed from 200/300/350/425/500/600/700 to 100/166/233/300/366/433/500
+  - Ultimate cooldown changed from 15 to 60
+  
+ Lifestealer:
+  - 2 skill now work of max health 
+  - 2 skill heal from bosses changed frm 1/3 to 1/4
+  
+ Spike:
+  - 2 skill heal changed from 2.0/2.5/2.7/2.9/3.2/3.7/4.0 to 1.0/1.3/1.7/2.0/2.3/2.7/3.0
+  - Ultimate cooldown changed from 60 to 75
+  
+ Huskar:
+  - 3 skill thresshold changed from 7% to 10%
+  
+ Sand King:
+  - 3 skill damage changed from 90/145/200/255/310/365/420 to 70/110/150/190/240/290/340
+  - 3 skill expire damage changed from 45/72/100/125/155/180/210 to 45/70/95/120/145/170/195
+  - 3 skill damage from strength changed from 90% to 50%
+  - Ultimate pulse count changed from 6/7/8/9/10/12/14 to 6
+  - Ultimate damage changed from 100/120/140/160/180/200/220 to 100/140/180/200/220/240/260
+  - Ultimate attack slow changed frm -100/150/200/250/300/350/400 to -100/125/150/175/200/225/250
+  - Ultimate damage percent changed from 50% to 30%
+  
+ Viper:
+  - 3 skill damage from main att changed from 0% to 50%
+  
+ Phanthom Lancer:
+  - 2 skill cooldown changed from 15 to 12
+  
+ Kunkka:
+  - Base movement speed changed from 300 to 310
+  - Health regen changed to 6
+  
+ Lich:
+  - Ultimate damage changed from 375/425/525/625/750/875/900 to 300/375/475/525/625/725/750
+  - Ultimate damage with scepter changed from 450/550/670/780/890/1050/1150 to 400/475/550/625/700/775/850
+  
+ Faceless Void:
+  - 1 skill manacost changed from 80/90/100/110/120/145/160 to 50
+  - 1 skill cooldown changed from 6/5.7/5.4/5.1/4.8/4.4/4 to 12/11/10/9/8/7/6
+  - 2 skill cooldown changed from 34/28/22/18/16/14/12 to 20/19/18/17/16/15/14
+  - 2 skill duration changed from 5/6/6/7/7/8/9 to 3/4/5/6/7/8/9
+  - Ultimate manacost changed from 250/300/350/450/550/650/800 to 300/350/400/450/500/550/600
+  
+ Tidehunter:
+  - 1 skill manacost changed from 120 to 95/110/135/150/175/190/205
+  - 1 skill disarmor changed from 5/7/9/10/12/14/16 to 2/4/6/9/11/13/15
+  
+ Wraith King:
+  - 3 skill skeleton lifetime changed from 999 to 120
+Item changes:
+ Static Amulet:
+  - Amplify changed from 20% to 15%
+  
+ Soul Collector:
+  - Damage changed from 350% to 250%
+  
+ Tome of Hero:
+  - Cost changed from 700 to 900
+  
+ Armlet 1/2/3:
+  - Attack speed changed from 25/55/156 to 25/55/105
+  - Activate bonus strength changed from 28/70/90 to 25/50/90
+  
+Other changes:
+ - Add cheat command '-switchhero <heroname>' for change current hero (need full hero name, for example 'npc_dota_hero_abaddon')
+ 
+Fixed:
+ - Spam in console
+ 
