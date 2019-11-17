@@ -96,7 +96,6 @@ Item changes:
 Other changes:
  - Streak system gold in interval 10-20min changed to interval 10-30min from '300 + random(-100, 100)' to '800 + random(-110, 110)'
  - Dire ancient dragons splash disabled
- - Plague staff
  - Cheat command '-int' '-str' '-agi' now apply for hero under cursor(set intellect/strength/agility)
  
 Drop changes:
