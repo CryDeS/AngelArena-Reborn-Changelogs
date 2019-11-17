@@ -22,6 +22,7 @@ Hero changed:
   
  Lina:
   - Ultimate cast range changed from 600 to 900
+  - Ultimate damage changed from 200% to 350%
   
  Lycan:
   - Wolfs bat changed from 1.7 to 1.2/1.1/1.0/1.0/1.0/1.0/1.0
@@ -71,10 +72,7 @@ Hero changed:
   
  Sand King:
   - Ultimate pulse count changed from 6 to 6/7/8/9/10/11/12
-  
- Lina:
-  - Ultimate percent damage changed from 200% to 350%
-  
+   
  Treant Protector:
   - Base movement speed changed from 295 to 305
   
