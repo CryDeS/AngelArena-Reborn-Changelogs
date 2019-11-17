@@ -1,0 +1,110 @@
+5.6.1 f4:
+Hero changed:
+ Alchemist:
+  - 1 skill damage changed from 12/18/20/24/28/35/42 to 32/42/52/64/78/92/112
+  
+ Visage:
+  - Ultimate damage changed from 75/150/225 to 50/85/135
+  
+ Lifestealer:
+  - 2 skill damage/heal changed frm 6.5/6.7/6.9/7.4/7.8/8.5/9.0 to 1.0/1.5/2/2.5/3/3.5/4
+
+ Legion Commander:
+  - 3 skill cooldown changed from 0 to 0.6/0.5/0.4/0.3/0.2/0.1/0.05
+  
+ Brewmaster:
+  - Base movement speed changed from 305 to 315
+  
+ Faceless Void:
+  - 1 skill manacost changed from 50 to 50/60/70/80/90/100/120
+  - 2 skill manacost changed from 50 to 20/40/60/80/100/120/140
+  - Ultimate manacost changed from 300/350/400/450/500/550/600 to 200/250/300/350/400/450/500
+  
+ Lina:
+  - Ultimate cast range changed from 600 to 900
+  
+ Lycan:
+  - Wolfs bat changed from 1.7 to 1.2/1.1/1.0/1.0/1.0/1.0/1.0
+  
+ Witch Doctor:
+  - Ultimate cooldown changed from 30 to 50
+  - Ultimate bounces changed from 1 to 0
+  
+ Tinker:
+  - Ultimate manacost changed from 125/155/175/215/255/295/325 to 145/185/200/235/275/325/375
+  
+ Crystal Maiden:
+  - 2 skill cast range changed from 500 to 600
+  
+ Clinkz:
+  - 2 skill manacost changed from 15 to 8/8/8/10/12/14/16
+  - 2 skill damage changed from 30/50/65/70/90/110/150 to 30/45/960/75/90/105/120
+  - Talent for 2 skill damage changed from 15 to 60
+  - Ultimate manacost changed from 15 to 8/8/8/10/12/14/16 
+  
+ Dark Willow:
+  - 2 skill damage changed from 150/250/360/400/450/500/565 to 200/280/360/420/470/520/570
+
+ Undying:
+  - 3 skill aura changed from 600/800/1000/1200 to 600
+  
+ Broodmother:
+  - Spider grow with time health changed from 70 * (time - 15) / 5 to 40 * (time - 15) / 2
+  
+ Spirit Breaker:
+  - Base movement speed changed from 290 to 305
+  
+ Earth Spirit:
+  - 1 skill slow changed from 40/50/60/70/80/90/100% to 40%
+  - 2 skill damage changed from 100/133/166/200/233/266/300 to 100/110/120/130/140/150/160
+  - Petrify damage changed from 600 to 300
+  
+ Pangolier:
+  - 3 skill disarmor changed from 5/7/9/11/14/17/20 to 5
+  - Ultimate damage changed from 300/450/600/800/1000/1200/1300 to 200/300/400/500/600/700/800
+ 
+ Enchantress:
+  - Ultimate damage changed from 15/20.8/26.7/32.5/38.3/44.2/50 to 25/32.5/40/47.5/55/62.5/70
+  
+ Beastmaster:
+  - Ultimate cast range changed from 800 to 600
+  
+ Sand King:
+  - Ultimate pulse count changed from 6 to 6/7/8/9/10/11/12
+  
+ Lina:
+  - Ultimate percent damage changed from 200% to 350%
+  
+ Treant Protector:
+  - Base movement speed changed from 295 to 305
+  
+ Necrolyte:
+  - Ultimate cooldown changed from 100/90/85/80/75/70/60 to 60
+  
+Item changes:
+ Smoke of Deceit:
+  - Max stack changed from 4 to 2
+  - Stock time changed from 70 to 90
+  - Cooldown changed from 40 to 60
+  
+ Refresher:
+  - Manaregen changed from 2 to 8
+  
+ Recovery Orb:
+  - Manaregen changed from 4 to 12
+  
+ Dark Edge:
+  - Added bonus health and mana from skadi 2
+  
+Other changes:
+ - Streak system gold in interval 10-20min changed to interval 10-30min from '300 + random(-100, 100)' to '800 + random(-110, 110)'
+ - Dire ancient dragons splash disabled
+ - Plague staff
+ - Cheat command '-int' '-str' '-agi' now apply for hero under cursor(set intellect/strength/agility)
+ 
+Drop changes:
+ - Angel Armor and Posssessed sword has 100% for drop(1 item for 1 boss)
+ 
+Fixed:
+ - Lifestealer 2 skill and bosses
+ - Undying 3 skill
