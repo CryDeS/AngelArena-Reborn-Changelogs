@@ -1,0 +1,66 @@
+5.6.2
+Hero changes:
+ Alchemist:
+  - 1 skill damage changed from 32/42/52/64/78/92/112 to 24/34/44/48/54/58/62
+
+ Oracle:
+  - 3 skill manacost changed from 160 to 70/85/100/115/130/145/160 
+
+ Ancient Apparation:
+  - Strength per level changed from 1.4 to 2.4
+  
+ Shadow Fiend:
+  - Aura radius changed to 1200
+  
+ Lycan:
+  - Summons now again have magical damage
+  
+ Dark Willow:
+  - 2 skill damage changed from 200/280/360/420/470/520/570 to 200/280/360/440/520/600/680
+  - Agility per level changed from 1.6 to 2.6
+  - Base armor changed from -1 to 1
+  
+ Broodmother:
+  - Spiders magical damage disabled
+  
+ Spectre:
+  - Ultimate cooldown changed from 90 to 120
+  
+ Undying:
+  - 3 skill cast range changed from 600 to 600/650/700/800
+  
+ Abaddon:
+  - 3 skill activate hit count changed from 2 to 3
+  
+ Enchantress:
+  - 1 skill damage changed frm 25.0/32.5/40.0/47.5/55.0/62.5/70.0 to 25.0/27.0/30.0/32.0/34.0/36.0/38.0
+  
+ Kunkka:
+  - 1 skill cast range changed from 1000 to 1100
+  - 2 skill cooldown changed from 4.0/3.5/3.0/2.5/2.0/1.5/1.0 to 7.0/6.5/5.0/4.5/3.0/2.5/2.0
+  
+ Gyrocopter:
+  - 3 skill cooldown changed from 30/27/25/22/20/18/15 to 30
+  
+Item changes:
+ Polar Spear:
+  - Cooldown changed from 9 to 18
+  
+ Headdress, Mecanism, Pipe, Helm of Dominator, Guardian Greaves, Devour helm, Amaliels Cuirass, Repear Mask:
+  - Aura range changed to 1200
+  
+ Arcane Boots:
+  - Active aura changed from 900 to 1200
+  
+Other changes:
+ - Cheat command '-switchhero' now auto add 'npc_dota_hero_', so now usage is '-switchhero sven'
+ - Old custom drop disabled
+ - New dota neutral-drop items now can drop unlimited items that depends on creep level(but disabled repair kit, horn and apex)
+ - Creeps limit for 5x5/10x10 changed from 700/1200 to 400/1200
+ - Duel now doesnt refresh items
+ - Units on duel now doesnt have vision
+
+Fixed:
+ - Hola items
+ - Drop more then 6 items from bosses
+ - Fixed 7.23
