@@ -58,9 +58,9 @@ Hero Changes:
    - 4 skill max soul's count changed from 7/11/14/17/20/27/32 to 10/13/16/20/23/26/30
    - 4 skill max soul's count with aghanim changed from 22/26/30/32/45/64/82 to 15/20/25/30/35/40/45
    - 4 skill damage per soul changed from 4 to 5
-   - 5 skill slow duration (MIN) changed from 1.0 to 2.0
-   - 5 skill slow duration (MAX) changed from 3.5 to 4.0
-   - 5 skill wave speed changed from 700 to 800
+   - 6 skill slow duration (MIN) changed from 1.0 to 2.0
+   - 6 skill slow duration (MAX) changed from 3.5 to 4.0
+   - 6 skill wave speed changed from 700 to 800
 
   Bane:
    - 3 skill status resistance reduction changed from 20/25/30/35/40/45/50 to 20/21/23/25/26/28/30
