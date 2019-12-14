@@ -1,0 +1,173 @@
+5.6.3
+Hero Changes:
+ Visage:
+  - Ultimate damage/health/armor grow with time nerfed
+
+ Silencer:
+  - 1 skill base duration changed from 5.0 to 4.0
+  - 1 skill penalty duration per skill changed from 3.0 to 1.5
+  - 2 skill damage per intelligence changed from 20/22/24/25/28/30/35 to 15/16/18/20/21/23/25
+  - 3 skill damage per intelligence changed from 2.0/2.3/2.7/3.0/3.3/3.7/4.0 to 1.5/1.8/2.0/2.2/2.5/2.8/3.0
+  - 3 skill debuff duration changed from 2.0/2.2/2.5/2.8/3.0/3.2/3.5 to 1.7/1.9/2.1/2.4/2.6/2.8/3.0
+  - 4 skill cooldown changed from 70 to 80
+  - 4 skill manacost changed from 100/250/400/550/700/850/1000 to 300/500/700/900/1100/1300/1500
+
+ Tinker:
+  - Now cannot refresh Trusty Shovel
+
+ Lycan:
+  - Talent (25 lvl - left) changed addeble wolf count from 3 to 1
+  - Lycan's wolfes:
+   -- Magical resistance change from 25% to 0%
+   -- Magical damage changed from 25% to 15%
+   -- Bonus damage per time (0-40min) reduced by 20%
+   -- Bonus health per time reduced by 20%
+
+  Lone Druid:
+   - Talent (15 lvl - right) changed addeble cooldown from 12 to 8
+   - Bear:
+    -- Remove ability "Defender"
+    -- BAT changed from 1.75/1.5/1.35/1.2 to 1.7
+    -- Base armore change from 3/5/11/14 to 3/5/7/10
+    -- Armor inherited from a druid changed from 80% to 45%
+    -- Attack speed inherited from a druid changed from 50% to 40%
+    -- Attack damage inherited from a druid changed from 65% to 40%
+
+  Necrophos:
+   - 2 skill damage changed from 1.5/1.7/2.5/3.0/3.5/4.2/5.0 to 2.0/2.3/2.7/3.0/3.3/3.7/4.0
+   - 2 skill aghanim multiplayer changed from 2.0 to 1.5
+   - 2 skill health regen changed from 2/3/4/5/7/9/12 to 3/5/7/9/11/13/16
+   - 2 skill regen duration changed from 7 to 9
+
+  Dazzle:
+   - 1 skill slow changed from -14/-16/-18/-20/-22/-24/-26% to -20/-22/-25/-27/-30/-32/-35%
+   - 3 skill cooldown changed from 15.0/14.2/13.3/12.5/11.7/10.8/10.0 to 12
+   - 4 skill bonus cooldown reduction changed from 25/35/40/45/50/55/60% to 20/23/26/30/33/36/40%
+   - 4 skill armor reduction changed from 6/7/8/9/10/11/13 to 3/4/5/6/7/8/10
+   - 4 skill radius changed from 1200 to 1000
+
+  Treant Protector:
+   - Base movement speed changed from 305 to 275
+   - Strength per level changed from 4.2 to 2.2
+
+  Centaur Warrior:
+   - Strength per level changed from 5.0 to 4.0
+   - Base strength changed from 35 to 30
+
+  Shadow Fiend:
+   - 4 skill max soul's count changed from 7/11/14/17/20/27/32 to 10/13/16/20/23/26/30
+   - 4 skill max soul's count with aghanim changed from 22/26/30/32/45/64/82 to 15/20/25/30/35/40/45
+   - 4 skill damage per soul changed from 4 to 5
+   - 5 skill slow duration (MIN) changed from 1.0 to 2.0
+   - 5 skill slow duration (MAX) changed from 3.5 to 4.0
+   - 5 skill wave speed changed from 700 to 800
+
+  Bane:
+   - 3 skill status resistance reduction changed from 20/25/30/35/40/45/50 to 20/21/23/25/26/28/30
+   - 3 skill duration changed from 7 to 2.5
+
+  Abbadon:
+   - 4 skill trigger health with aghanim changed from 525 to 750
+
+  Clinkz:
+   - 2 skill manacost changed from 8/8/8/10/12/14/16 to 8/9/10/12/13/14/16
+   - 4 skill manacost changed from 80/100/120/175/200/250/300 to 30/38/46/55/63/71/80
+
+  Enchantress:
+   - 4 skill attack slow changed from -60/-80/-100/-120/-140/-160/-180 to -80/-120/-160/-200/-240/-280/-320
+
+  Spirit Breaker:
+   - 4 skill manacost changed from 0 to 150/250/350/450/550/650/750
+   - 4 skill damage per strength changed from 400% to 325%
+   - 4 skill cooldown changed from 80/78/76/74/70/65/60 to 60/55/51/47/43/39/35
+   - 4 skill cooldown with scepter changed from 15 to 24
+
+  Lifestealer:
+   - 2 skill damage changed from 1.0/1.5/2.0/2.5/3.0/3.5/4.0 to 1.0/1.3/1.7/2.0/2.3/2.7/3.0
+   - 2 skill bonus attack speed changed from 25/45/65/85/105/125/145 to 25/37/50/62/75/87/100
+
+  Weaver:
+   - 1 skill cooldown changed from 35/32/30/26/24/22/20 to 25/24/23/22/21/20/19
+   - 3 skill addeble damage changed from 10/20/30/40/50/60/70 to 25/37/50/62/75/87/100
+
+  Outworld Devourer:
+   - 1 skill duration changed from 25/30/35/40/45/50/60 to 35
+   - 1 skill damage per mana changed from 6.0 to 6.0/6.5/7.0/7.5/8.0/8.5/9.0
+   - 1 skill manacost from 30/45/60/75/95/130/145 to 35/49/63/77/91/105/120
+
+  Riki:
+   - Base damage changed from 10-12 to 30-32
+
+  Ancient Apparation:
+   - 2 skill radius changed from 275 to 350
+   - 2 skill movespeed slow changed from -15/-17/-18/-20/-22/-25/-30 to -25/-29/-33/-37/-41/-45/-50
+
+  Dark Willow:
+   - 1 skill cooldown changed from 25 to 21
+   - 1 skill damage changed from 100/175/200/275/325/350/375 to 120/200/280/360/440/520/600
+   - 5 skill cooldown changed from 100/95/90/80/70/60/50 to 65/60/55/50/45/40/35
+
+  Crystal Maiden:
+   - 2 skill mana regen changed from 1.0/1.3/1.7/2.0/2.3/2.7/3.0 to 3/5/8/11/14/17/20
+
+  Razor:
+   - 2 skill cooldown changed from 34/32/30/28/26/24/22 to 20/19/18/17/16/15/14
+
+  Clocwerk:
+   - 3 skill damage changed from 100/130/160/190/210/240/300 to 100/170/240/310/380/450/520
+
+  Lina:
+   - 3 skill. If you cast spell 2 or more times, damage after modifier lost includes all damage (OLD: game saw only last shield)
+
+  Timber:
+   - 3 skill armor changed from 1/2/3/4/5/6/7 to 2/3/4/5/6/7/8
+   - 3 skill health regen changed from 3/4/5/6/7/8/9 to 4/5/6/7/8/9/10
+   - 3 skill duration changed from 8 to 10
+   - 2 skill damage chagned from 100/140/180/220/270/300/320 to 100/170/240/310/380/450/520
+
+  Lich:
+   - 3 skill mababurn changed from 75/82/90/97/105/112/120 to 25/27/30/33/35/38/41
+
+  Windranger:
+   - 3 skill cooldown changed from 30.0/28.0/26.0/24.0/20.0/18.0/12.0 to 20/18/17/16/14/13/12
+   - 3 skill with scepter charges cooldown changed from 15/14/13/12 to 20/18/17/16/14/13/12
+   - 2 skill damage per intelect changed from 100 to 180
+
+  Warlock:
+   - 2 skill cooldown changed from 50/46/42/38/30/26/20 to 25/24/23/22/21/20/19
+   - 2 skill time to max slow movespeed changed from 12.5/6.5/4.5/3.5/2.5/1.5/1.0 to 6.5/5.8/5.0/4.2/3.5/2.8/2.0
+   - 2 skill max slow changed from 100 to 80
+   - 4 skill stun duration changed from 0.3 to 0.7
+
+  Skywrath Mage:
+   - 4 skill duration changed from 2.4 to 2.0
+
+  Beastmaster:
+   - 4 skill cast range changed from 600 to 1000
+
+Items Changes:
+ Desolator 2:
+  - Disarmor changed from 12 to 40
+  - Bonus damaged changed from 100 to 400
+
+Gameplay:
+ - Creeps level 80 start spawn if average all hero list 60> (old 66>)
+ - Creeps level 100 start spawn if average all hero list 70> (old 80>)
+ - Chanse to drop TIER 1 neutral item from 1 level creeps changed from 8 to 18
+ - Chanse to drop TIER 1 neutral item from 5 level creeps changed from 8 to 18
+ - On 15 level creeps now drop only TIER 2 netutral items (old: TIER 1 & TIER 2)
+ - Chanse to drop TIER 2 neutral item from 15 level creeps changed from 8 to 13
+ - Chanse to drop TIER 2 neutral item from 20 level creeps changed from 8 to 16
+ - On 25 level creeps now drop only TIER 3 netutral items (old: TIER 2 & TIER 3)
+ - Chanse to drop TIER 3 neutral item from 20 level creeps changed from 8 to 12
+ - Chanse to drop TIER 3 neutral item from 40 level creeps changed from 8 to 14
+ - On 60 level creeps now drop only TIER 4 netutral items (old: TIER 3 & TIER 4)
+ - Chanse to drop TIER 3 neutral item from 60 level creeps changed from 8 to 7
+ - Chanse to drop TIER 3 neutral item from 80 level creeps changed from 8 to 9
+
+Fixes:
+ - Riki 1 skill cooldown
+ - Riki 2 skill charges
+ - Dark Edge invisible
+ - Lina 3 skill double cast
+ 
