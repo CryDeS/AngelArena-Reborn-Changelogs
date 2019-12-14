@@ -6,8 +6,8 @@ Hero Changes:
  Silencer:
   - 1 skill base duration changed from 5.0 to 4.0
   - 1 skill penalty duration per skill changed from 3.0 to 1.5
-  - 2 skill damage per intelligence changed from 20/22/24/25/28/30/35 to 15/16/18/20/21/23/25
-  - 3 skill damage per intelligence changed from 2.0/2.3/2.7/3.0/3.3/3.7/4.0 to 1.5/1.8/2.0/2.2/2.5/2.8/3.0
+  - 2 skill damage per intellect changed from 20/22/24/25/28/30/35 to 15/16/18/20/21/23/25
+  - 3 skill damage per intellect changed from 2.0/2.3/2.7/3.0/3.3/3.7/4.0 to 1.5/1.8/2.0/2.2/2.5/2.8/3.0
   - 3 skill debuff duration changed from 2.0/2.2/2.5/2.8/3.0/3.2/3.5 to 1.7/1.9/2.1/2.4/2.6/2.8/3.0
   - 4 skill cooldown changed from 70 to 80
   - 4 skill manacost changed from 100/250/400/550/700/850/1000 to 300/500/700/900/1100/1300/1500
@@ -71,7 +71,7 @@ Hero Changes:
 
   Clinkz:
    - 2 skill manacost changed from 8/8/8/10/12/14/16 to 8/9/10/12/13/14/16
-   - 4 skill manacost changed from 80/100/120/175/200/250/300 to 30/38/46/55/63/71/80
+   - 4 skill damage changed from 80/100/120/175/200/250/300 to 30/38/46/55/63/71/80
 
   Enchantress:
    - 4 skill attack slow changed from -60/-80/-100/-120/-140/-160/-180 to -80/-120/-160/-200/-240/-280/-320
