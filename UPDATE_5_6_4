@@ -1,0 +1,169 @@
+5.6.4
+Hero Changes:
+ Shadow Fiend:
+  - Ultimate fear duration per wave changed from 1.5 - 3.0 to 1.0 - 1.0
+  - Ultimate radius changed from 975/1000/1025/1250/1250/1250/1250 to 975
+  - Ultimate cast point changed from 0.5 to 0.7
+  
+ Storm Spirit:
+  - Ultimate damage changed from 7/11/16/22/25/28/30 to 6.5/10/15/20/22/24/28
+  
+ Puck:
+  - 2 skill damage changed from 120/140/180/220/380/480/500 to 90/120/160/200/320/380/400
+  
+ Lycan:
+  - 1 skill cooldown changed from 25 to 35
+  - 1 skill duration changed from 55 to 30
+  - 1 skill talent for +1 wolf changed to +3 wolf
+  
+ Necrophos:
+  - 1 skill heal & damage changed from 135/215/285/325/385/435/520 to 100/170/240/310/380/450/520
+
+ Beastmaster:
+  - 1 skill cooldown changed from 23/20/18/16/15/14/13 to 19/18/17/16/15/14/13
+
+ Ursa:
+  - 1 skill heigth changed from 83 to 350
+  - 1 skill distance changed from 250 to 450
+  - 3 skill damage changed from 20/24/32/40/50/60/70 to 15/21/28/35/41/48/55
+
+ Batrider:
+  - 1 skill damage changed from 15/20/25/30/35/40/45 to 10/12/15/17/20/22/25
+
+Item changes:
+ Talisman of Mastery:
+  - Health regen changed from 4 to 0.5
+  
+ Tango:
+  - Duration changed from 20 to 10
+  
+ Observer/Sentry Wards:
+  - Restock time changed from 60 to 50
+  
+ Pipe of Insight:
+  - Bonus all stats changed from 20 to 12
+
+ Sacred Blades:
+  - Cooldown changd from 6 to 10
+
+ Center of Peace:
+  - Ricice cost changed from 750 to 450. Total cost changed from 3800 to 3500
+
+ Spell Immune Potion:
+  - Duration changed from 4.0 to 3.5
+
+Neutral Items:
+ TIER 1:
+  Arcane Ring:
+   - Bonus armor changed from 3 to 5
+   - Restore mana changed from 75 to 150
+
+  Broom Hundle:
+   - Bonus attack range cganged from 35 to 65
+
+  Elixer:
+   - Charges changed from 6 to 3
+   - Fixed icon
+
+  Iron Talon:
+   - Cooldown changed from 25 to 6
+
+  Ironwood Tree:
+   - Bonus all stats changed from 7 to 10
+
+  Keen Optic:
+   - Mana regen changed from 1 to 3
+   - Bonus cast range changed from 75 to 125
+
+  Ocean Heart:
+   - Water health regen changed from 6 to 30
+   - Water mana regen changed from 3 to 15
+
+  Poor Man's Shield:
+   - Bonus agility changed from 7 to 15
+   - Block damage from melee changed from 20 to 30
+   - Block damage from range changed from 10 to 20
+
+  Royal Jelly:
+   - Mana regen changed from 1.25 to 2.2
+
+ TIER 2:
+  Dragon Scale:
+   - Damage per second changed from 12 to 35
+   - Bonus armor changed from 5 to 8
+
+  Essense Ring:
+   - Mana cost changed from 200 to 125
+   - Bonus int changed from 6 to 10
+
+  Grove Bow:
+   - Attack speed changed from 10 to 35
+   - Magic resistance reduction changed from 12 to 15
+
+  Imp Claw:
+   - Crit multiplier changed from 135 to 200
+   - Bonus damage changed from 24 to 50
+
+  Nether Shawl:
+   - Disarmor changed from 3 to 0
+   - Spell amplify changed from 8 to 20
+
+  Philosophers Stone:
+   - Bonus GPM changed from 60 to 180
+   - Bonus damage changed from -35 to 0
+
+  Pupils Gift:
+   - Bonus attribute changed from 13 to 25
+
+  Vampire Fangs:
+   - Spell lifesteal changed from 8 to 15
+   - Bonus night vision changed from 250 to 450
+
+ TIER 3:
+  Quickening Charm:
+   - Health regen chaned from 9 to 15
+
+  Mind Breaker:
+   - Cooldown changed from 20 to 13
+   - Magic damage changed from 25 to 50
+   - Attack speed changed from 25 to 70
+
+  Enchanted Quiver:
+   - Cooldown changed from 8 to 1.5
+   - Bonus magical damage changed from 270 to 300
+
+  Orb of Destruction:
+   - Disarmor changed from 5 to 12
+
+  Titan Sword:
+   - Bonus attack damage changed from 16% to 25%
+   - Bonus magical resistance changed from 16% to 25%
+   - Bonus status resistance changed from 16% to 25%
+
+ TIER 5:
+  Pirate Hat:
+   - Attack speed changed from 250 to 2500
+
+  Fusion Rune:
+   - Initial charges changed from 3 to 15
+   - Cooldown changed from 120 to 30
+
+  Seer Stone:
+   - Bonus vision changed from 450 to 900
+
+Other changes:
+ - Neutral item spawn chance changed from:
+  - Tier 1: 18% -> 10%
+  - Tier 2: 13% -> 10%
+  - Tier 3: 12%/14% -> 10%
+  - Tier 4: 7%/9% -> 8%
+  - Tier 5: 8% -> 6%
+ - Main Rune count changed from 2 to 3
+ - Map changes(new runes, new paths)
+ - Positive buffs on duel doesnt purges
+
+Fixes:
+ - Private courier don't fly
+ - Abyssal Blade 2 cast range
+ - Neutral item shareability fixed
+ - Abyssal blade 2 fixed
