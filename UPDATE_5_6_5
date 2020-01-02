@@ -1,0 +1,265 @@
+5.6.5
+Hero changes:
+ Axe:
+  - 2 skill cooldown changed from 18 to 14
+  - 2 skill duration changed from 15 to 10
+  - 3 skill cooldown changed from 0.2/0.17/0.15/0.12/0.1/0.07/0.05 to 0.0
+  - 3 skill damage from attack changed from 1.0 to 0.5/0.6/0.7/0.8/0.9/1.0/1.2
+  - Ultimate cooldown changed from 75.0/65.0/55.0/50.0/40.0/30.0/25.0 to 25.0
+
+ Abyssal Underlord:
+  - 1 skill cooldown changed from 7 to 12
+  
+ Bane:
+  - 2 skill damage changed from 100/150/200/280/320/400/450 to 130/180/220/300/340/420/480
+  - 2 skill manacost changed from 70/100/130/160/180/210/230 to 70/100/120/130/140/150/160
+  - 3 skill duration changed from 2.5 to 4.0
+  
+ Bristleback:
+  - 3 skill back-damage reduction changed from 25/28/32/34/36/38/42% to 30/32/34/36/38/40/45%
+  - 3 skill side-damage reduction changed from 15/17/19/20/22/24/27% to 18/22/24/27/29/31/35%
+  
+ Puck:
+  - Talent for -9s cooldown of 2 skill changed to -4s cooldown 2 skill
+  
+ Ursa:
+  - 1 skill cooldown changed from 5 to 11/10/9/8/7/6/5
+  - Agility per level changed from 2.7 to 2.5
+  - Strength per level changed from 3.0 to 2.5
+  - Base armor changed from 1 to 0
+  
+ Troll Warlord:
+  - Agility per level changed from 2.8 to 2.1
+  - 2 skill(range) damage changed from 100 to 100/160/220/280/340/400/460
+  - 3 skill bonus attack speed changed from 5 to 3
+  - Ultimate bonus attack speed changed from 140/170/200/250/300/350/400 to 50/90/120/180/250/350/400
+  
+ Viper:
+  - 1 skill damage changed from 15/22/30/37/45/52/60 to 15/20/25/30/38/45/52
+  - 3 skill damage from agi changed from 50% to 35%
+  - 3 skill bonus magical resistance changed from 10/15/20/25/28/30/32% to 10/12/15/18/20/23/26%
+
+ Venomancer:
+  - 2 skill damage changed from 30/45/55/75/100/115/135 to 30/45/52/70/80/90/100
+  - Ultimate damage changed from 100/150/200/300/350/400/500 to 100/135/180/275/325/350/400
+  
+ Nyx Assassin:
+  - 2 skill multiplier changed from 4.5 to 4.0
+  - 3 skill cooldown changed from 10 to 14
+  - Ultimate cooldown changed from 45 to 60 
+ 
+ Joe Black:
+  - Reworked
+ 
+ Jakiro:
+  - 1 skill damage changed from 16/28/32/42/50/75/85 to 16/24/28/36/45/62/72
+ 
+ Lifestealer:
+  - Base damage changed from 32-42 to 45-55
+  - 2 skill damage removed
+  - 2 skill heal changed from 1.0/1.3/1.7/2.0/2.3/2.7/3.0% to 8/9/10/11/12/13/14%
+  - 3 skill cooldown changed from 12 to 8
+  - 3 skill slow steps changed from -70/-70/-60/-50/-30/-10/-10/-10% to -70/-65/-60/-55/-50/-45/-40/-35%
+  
+ Necrophos:
+  - 2 skill cooldown changed from 28/26/24/22/20/18/16 to 25
+  
+ Spectre:
+  - Ultimate incoming damage changed from 150% to 200%
+  - Ultimate outgoing damage changed from 60% to 40%
+  
+ Clockwerk:
+  - 1 skill damage from strength changed from 30% to 15%
+  - 3 skill cooldown changed from 13/12/11/10/9/8/7 to 13/12.5/12/11.5/11/10.5/10
+  - Ultimate cast range changed from 2000/2200/2400/2600/2800/3000/3200 to 2000
+  - Ultimate speed changed from 4000/5000/6000/7000/8000/9000/10000 to 4000
+  
+ Tiny:
+  - Tree Grab cleave damage changed from 35/39/43/47/51/55/60% to 15/20/25/30/35/40/45%
+  
+ Pugna:
+  - Ultimate damage/heal changed from 150/225/275/300/355/425/500 to 200/275/325/350/425/525/650
+  
+ Juggernaut:
+  - 1 skill cooldown changed from 15 to 16
+  - 1 skill damage changed from 60/90/100/120/140/180/200 to 50/80/90/100/120/160/180
+  - Ultimate cooldown with scepter changed from 30 to 45
+  
+ Dazzle:
+  - 2 skill duration changed from 4.8/5.0/5.2/5.4/5.6/5.8/6.0 to 4.0/4.3/4.7/5.0/5.3/5.7/6.0
+  
+ Legion Commander:
+  - 1 skill damage per unit changed from 40/50/60/70/80/90/100 to 30/40/45/55/65/75/80
+  - 3 skill leech changed from 20/22/23/25/30/32/45% to 15/20/23/25/30/32/45%
+  
+ Winter Wyvern:
+  - 1 skill damage duration changed from 7 to 3
+  - 2 skill cast range changed from 1200 to 1000
+  - 2 skill manacost changed from 120/130/140/150/160/170/180 to 150/160/170/180/190/200/220
+  - 2 skill damage from intellect changed from 150% to 100%
+  - Ultimate cooldown changed from 45 to 50
+  
+ Queen of Pain:
+  - Ultimate damage changed from 310/400/480/520/640/850/1500 to 360/550/740/930/1120/1310/1500
+  - Ultimate scepter damage changed from 450/500/600/700/800/1100/2000 to 500/750/1000/1250/1500/1750/2000
+  
+ Fireblade:
+  - 1 skill(non-fire form) heal changed from 50% to 10/15/20/25/30/35/40%
+  - 1 skill damage changed from 100/180/260/360/450/570/680 to 100/150/240/350/420/480/520
+  - Base movespeed changed from 325 to 300
+  
+Item changes:
+ Arcane Ring:
+  - Cooldown changed from 40 to 20
+   
+ Ring of Aquila:
+  - Bonus damage changed from 7 to 15
+  - Bonus manaregen changed from 1.25 to 3.0
+  - Bonus agility changed from 9 to 12
+  - Bonus strength changed from 3 to 7
+  
+ Imp Claw:
+  - Cooldown changed from 8 to 3 seconds
+ 
+ Grove Bow:
+  - Bonus attack range changed from 100 to 150
+  - Bonus attack speed changed from 35 to 40
+  
+ Clumsy Net:
+  - Bonus all stats changed from 6 to 20
+  - Bonus manaregen changed from 2 to 10
+  - Active duration changed from 1.75 to 3
+  - Cooldown changed from 25 to 12
+  - Cast range changed from 900 to 1100
+  
+ Essence Ring:
+  - Health gained changed from 425 to 725
+  - Bonus intellect changed from 10 to 15
+  
+ Dragon Scale:
+  - Bonus damage changed from 35 to 64
+  - Bonus hp regen changed from 5 to 15
+  
+ Craggy Coat:
+  - Bonus attack speed changed from -35 to +50
+  
+ Mind Breaker:
+  - Magical damage changed from 50 to 60
+  
+ Paladin Sword:
+  - Heal amplify changed from 17% to 35%
+  
+ Quickening charm:
+  - Cooldown reduction changed from 13% to 15%
+  
+ Spider Legs:
+  - Bonus movement speed changed from 24% to 31%
+  
+ Third Eye:
+  - Bonus vision changed from 300 to 600
+  - Truesight radius changed from 500 to 1200
+  - Bonus all stats changed from 7 to 18
+  
+ Titan Sliver:
+  - Bonus damage changed from 25% to 30%
+  - Bonus status resistance changed from 25% to 30%
+  - Bonus magical resistance changed from 25% to 30%
+  
+ Flicker:
+  - Bonus movement speed changed from 30 to 60
+ 
+ Havok Hammer:
+  - Bonus damage changed from 30 to 160
+  - Bonus strength changed from 18 to 30
+  - Base damage of nuke changed from 175 to 500
+  - Damage from strength(multiplier) changed from 0 to 2
+  
+ Illusionsts Cape:
+  - Illusion damage changed from 50% to 100%
+  - Illusion incoming damage changed from 150% to 100%
+  - Bonus agi/str changed from 14 to 35
+  
+ Magic Lamp:
+  - Cooldown changed from 75 to 35
+  - Heal changed from 300 to 1200
+  
+ Princess Knife:
+  - Cooldown changed from 12 to 6
+  - Projectile bonus speed changed from 60% to 100%
+  
+ Spell Prism:
+  - Bonus all stats changed from 12 to 15
+  - Bonus mp regen changed from 4 to 15
+  
+ Telescope:
+  - Scan cooldown reduction changed from 50% to 85%
+  
+ Leveller:
+  - Bonus attack speed changed from 50 to 500
+  
+ Timeless Relict:
+  - Spell amplify changed from 15% to 30%
+  
+ Witless Shako:
+  - Bonus health changed from 1000 to 2500
+
+ Fallen Sky:
+  - Burning dps changed from 90 to 500
+  
+ Angel Blood:
+  - Cost changed from 10`000 to 1`000
+ 
+ Blessed Essence:
+  - Cost changed from 10`600 to 1`600
+  
+ Dead Boots:
+  - Cost changed from 12`000 to 1`200
+  
+ Eclipse Amphora:
+  - Cost changed from 20`000 to 5`000
+  
+ Damned Swords:
+  - Recipe changed from Demons Edge+Relic+Skadi+Reaver+Recipe(5150) to Skadi+Relic+Recipe(150)
+  - Total cost changed from 19650 to 9450
+  
+ Burning Blades:
+  - Recipe cost changed from 4500 to 450
+  - Total cost changed from 43150 to 19900
+  
+ Demons Fury:
+  - Total cost changed from 54600 to 31350
+  
+ Power Amulet:
+  - Bonus damage per charge changed from 20 to 10
+  
+ Burning Book:
+  - Total cost changed from 54075 to 30825
+  
+ Potion Immune:
+  - Cooldown changed from 35 to 50
+  - Cost changed from 175 to 225
+  
+ Tome of Knowlage:
+  - Initial charges changed from 1 to 2
+  
+ Polar Spear:
+  - Cast range changed from 900 to 600
+  - Bonus health changed from 725 to 425
+  - Bonus intellect changed from 30 to 22
+  
+ Spiked Armor:
+  - Now have activate sound
+ 
+ Armlet 1/2/3:
+  - Bonus strength changed from 25/50/90 to 25/40/75
+  
+Other changes:
+ - Burning blades/Demons Fury/Burning Book now can be stacked by disarmor
+ - Little map changes and fixes
+ 
+Fixed:
+ - Elder titan spirit 3 skill
+ - Little localization fixed
+ - Devour fixed
+ - Teleport refresh fixed
+ - Refresher and charge-skills
