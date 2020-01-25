@@ -1,0 +1,174 @@
+5.6.6
+Hero changes:
+ Obsidian Destroyer:
+  - 2 skill cast range changed frm 450/500/550/600/700/800/900 to 750
+  - Ultimate bonus mana changed from 20/30/40/50/60/70/80 to 40/50/60/80/100/120/150
+  
+ Naga Siren:
+  - 3 skill damage from agility changed from 75% to 145%
+
+ Joe Black:
+  - 3 skill duration changed from 4/4.5/5/5.5/6/6.5/7 to 2/2.2/2.5/3/3.5/3.7/4
+  
+ Lina:
+  - 1 skill damage changed from 110/150/200/300/340/380/450 to 150/180/220/320/380/400/450
+  
+ Lifestealer:
+  - 2 skill heal changed from 8/9/10/11/12/13/14% to 5/5.5/6/6.5/7/7.5/8%
+  
+ Ursa:
+  - 1 skill hop range changed from 450 to 325
+  
+ Void Spirit:
+  - Dissimilate cooldown changed from 20/18/17/16/14/13/11 to 17/16/15/14/13/12/11
+  - Ultimate cast range changed from 700/900/1100/1200/1400/1600/1800 to 800
+  
+ Wraith King:
+  - 1 skill slow duration changed from 2 to 4 sec.
+  - Ultimate scepter duration changed from 2.5 to 4.5
+  
+ Slardar:
+  - 2 skil puddge radius changed from 550 to 850
+  
+ Templar Assassin:
+  - 2 skill manacost changed from 60/90/120/160/190/220/250 to 60/70/80/90/100/110/120
+  
+ Necrophos:
+  - 2 skill cooldown with scepter changed from 10 to 15
+  
+ Enchantress:
+  - Bonus strength changed from 2.8 to 3.2
+  - Bonus agility changed from 2.8 to 3.2
+  - Bonus intellect changed from 3.0 to 4.0
+  - BAT changed from 1.7 to 1.5
+  
+ Medusa:
+  - 1 skill target count changed from 1/2/4/6/11/15/19 to 2
+  - 1 skill damage changed from 80% to 80/90/100/110/120/130/140%
+  
+ Legion Commander:
+  - 3 skill cooldown changed from 0.6/0.5/0.4/0.3/0.2/0.1/0.05 to 0.7/0.6/0.5/0.4/0.3/0.2/0.1
+
+ Ancient Apparation:
+  - 3 skill manacost changed from 30/40/50/60/70/80/90 to 45/55/65/75/85/95/105
+  - 3 skill additional attack range changed from 600 to 350
+
+ Dark Willow:
+  - 2 skill additinal attack range changed from 600/620/640/660/680/700/750 to 350/375/400/425/450/475/500
+  - 2 skill max damage changed from 200/280/360/440/520/600/680 to 200/250/320/390/460/530/600
+
+ Riki:
+  - Talent 25lvl (left) -cooldown changed from -7 to -3
+  - 3 skill attack count changed from 4/5/6/8/9/10/12 to 4/5/6/7/8/9/10
+  - 3 skill attack count with aghanim changed from 6/8/10/12/14/16/18 to 6/7/9/10/12/13/15
+
+ Mars:
+  - 4 skill cooldown changed from 60 to 40
+
+ Luna:
+  - 3 skill bonus damage changed from 10/13/16/20/23/26/30% to 20/24/28/32/36/40/45%
+  - 3 skill bonus armor changed from 10/13/16/20/23/26/30% to 20/24/28/32/36/40/45%
+
+ Snapfire:
+  - 1 skill damage changed from 80/150/220/290/350/480/520 to 150/225/300/375/450/525/600
+  - 2 skill cooldown changed from 24/23/22/21/20/19/18 to 18/17/16/15/14/13/12
+  - 2 skill stun duration changed from 1.6/1.9/2.2/2.5 to 1.6/1.8/2.1/2.3/2.5/2.8/3.0
+  - 3 skill cooldown changed from 24/22/20/18/16/14/12 to 16/15/14/13/12/11/10
+  - 4 skill cooldown changed from 90 to 45
+  - 4 skill constant damage changed from 200/300/400/500/600/700/800 to 300/400/500/600/700/800/900
+  - 4 skill damage per second changed from 50/75/100/125/150/175/200 to 100/150/200/250/300/350/400
+  
+Item changes:
+ Ring of Aquila:
+  - Bonus damage changed from 7 to 160
+  - Manaregne aura changed from 2 to 15
+  - Agility changed from 12 to 25
+ 
+ Static Amulet:
+  - Recipe cost changed from 13`000 to 2`000
+  
+ Angel Sword:
+  - Cost changed from 7`000 to 4`000
+ 
+ Angel Desolator 2:
+  - Bonus damage changed from 120 to 180
+  - Recipe cost changed from 2000 to 1000
+  
+ Dimensional Predictor:
+  - Bonus attack speed changed from 46 to 50
+  - Bonus magical resistance changed from 15% to 20%
+  - Recipe cost changed from 500 to 100
+  
+ Skadi 2:
+  - Recipe cost changed from 9`000 to 1`000
+  
+ Azrael Crossbow:
+  - Critical chance changed from 24% to 30%
+  
+ Helm of the Undying:
+  - Armor changed from 6 to 15
+
+ Advanced Hand of Midas:
+  - Bonus gold for use changed from 1000 to 650
+
+ Grove Bow:
+  - Attack speed changed from 40 to 100
+
+ Pupil's Gift:
+  - Bonus attribute changed from 25 to 40
+
+ Nether Shawl:
+  - Spell amplify changed from 20% to 40%
+  - Reduced armor changed from -0 to -5
+
+ Dragon Scale:
+  - Damage per second changed from 64 to 150
+  - Armor chaned from 8 to 12
+
+ Mind Breaker:
+  - Cooldown chaned from 13 to 10
+  - Magic damage changed from 60 to 100
+  - Attack speed changed from 70 to 130
+
+ Paladin's Sword:
+  - Lifesteal changed from 17% to 25%
+  - Bonus damage changed from 17 to 60
+
+ Telescope:
+  - Removed
+
+ Ninja Gear:
+  - Cooldown changed from 45 to 5
+
+ Magic Lamp:
+  - Trigger hp changed from 15% to 25%
+  - Heal changed from 1200 to 3200
+
+ Phoenix Ash:
+  - Initial charges changed from 1 to 2
+
+ Heaven's Halberd:
+  - Fixed localization
+
+ Soul Collector:
+  - Base damage changed from 500 to 1000
+  - Cast range changed from 1100 to 1300
+  - Spell amplify changed from 20% to 35%
+
+Other changes:
+ - Time in neutral items list in shop changed to creeps level
+ 
+Fixed:
+ - Angel armor cost fixed
+ - Axe 3 & 4 skill fixed
+ - Joe black talents fixed
+ - Imp claw cooldown fixed
+ - Knowlage tome initial stack items
+ - Neutral Items tier 5 shareability fixed
+ - Nyx ultimate manacost fixed
+ - Grimstroke tooltip fixed
+ - Visage fixed
+ - Satan 1 skill fixed
+ - Mango fixed
+ - Devour Helm drop target in 1st slot back pack
+ - All amulets don't reduced changed in 1st slot back pack
