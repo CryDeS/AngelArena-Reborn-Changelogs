@@ -9,11 +9,11 @@ Hero changes:
   - Ultimate damage changed from 150/200/250/350/450/500/550 to 200/300/400/500/600/700/800
   
  Medusa:
-  - Ultimate cooldown changed from 90 to 60seconds
+  - Ultimate cooldown changed from 90 to 60 seconds
   
  Warlock:
   - 1 skill cast point changed from 0.2 to 0.1
-  - 2 skill heal/damage changed from 35/45/65/85/110/130/150 to
+  - 2 skill heal/damage changed from 35/45/65/85/110/130/150 to 45/55/75/95/120/150/180
   - Ultimate stun duration changed from 0.7 to 0.8
   
  Shadow Fiend:
