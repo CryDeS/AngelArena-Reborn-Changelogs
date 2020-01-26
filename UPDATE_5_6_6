@@ -1,3 +1,56 @@
+5.6.6.1
+Hero changes:
+ Wraith King:
+  - 1 skill damage changed from 100/150/200/250/350/450/550 to 100/120/200/240/300/420/450
+  - 1 skill dot damage changed from 30/50/70/90/110/130/150 to 20/30/40/50/60/70/80
+  - 1 skill slow changed from 20% to -10/12/14/16/18/20/22%
+  
+ Void Spirit:
+  - Ultimate damage changed from 150/200/250/350/450/500/550 to 200/300/400/500/600/700/800
+  
+ Medusa:
+  - Ultimate cooldown changed from 90 to 60seconds
+  
+ Warlock:
+  - 1 skill cast point changed from 0.2 to 0.1
+  - 2 skill heal/damage changed from 35/45/65/85/110/130/150 to
+  - Ultimate stun duration changed from 0.7 to 0.8
+  
+ Shadow Fiend:
+  - Bonus strength per level changed from 2.0 to 2.5
+  - Bonus agility per level changed from 2.9 to 3.2
+  - Base health regen changed from 1.5 to 15
+  
+Item changes:
+ Vampire Claw:
+  - Added active ability Blood Rivers: 
+   - Instantly restores 20 health за per charge stored. Max 20 charges. Gains a 1 charge per hit on hero and 1 charge per hit on creep
+
+  
+ Ring of Aquila:
+  - Bonus damage echanged from 160 to 60
+  
+ Helm of Undying:
+  - Active duration changed from 5 to 6 seconds
+  - Bonus armor changed from 15 to 10
+  
+ Hand of Midas 2:
+  - Activation bonus gold changed from 650 to 450
+
+ Pupils Gift:
+  - Bonus non-main stats changed from 40 to 30
+ 
+ Nether Shawl:
+  - Bonus spell amplify changed from 40% to 20%
+  
+ Mind Breaker:
+  - Cooldown changed from 10 to 6
+  
+Fixed:
+ - Venomancer 3 skill particles
+ - Russian localization fixed
+
+
 5.6.6
 Hero changes:
  Obsidian Destroyer:
