@@ -1,3 +1,58 @@
+5.6.6.2 
+Hero Changes:
+ Puck:
+  - 2 skill max distance cast changed from 350 to 250
+  - Tallent 25lvl(left) additional radius changed from 425 to 150
+
+ Pudge:
+  - 4 skill channel time changed from 2.95 to 3.0
+
+ Techies:
+  - 3 skill cooldown changed from 15 to 22
+  - Tallent 20lvl(right) cooldown reduction changed from -28sec to -8sec
+
+Items Changes:
+ Vampire Claw:
+  - Max changes changed from 20 to 25
+  - Charges per hit on hero changed from 1 to 2
+  - Heal per charge changed from 20 to 18
+
+Fixes:
+ - Shadow Demon 4 skill
+ - Lion 3 skill
+ - Morphling 1 skill
+ - Puck 2 skill
+ - Pudge 4 skill
+ - Tiny 2 skill
+ - Witch Doctor 3 skill
+ - Enigma 1 skill
+ - Tinker 3 skill
+ - Venomancer 1 skill
+ - Omniknight 2 skill
+ - Enchantress 2 skill
+ - Broodmother 2 skill
+ - Jakiro 1 skill
+ - Ancient Apparition 1 skill
+ - Silencer 1 skill
+ - Chaos Knight 4 skill
+ - Ogre Magi 2 skill
+ - Undying 3 skill
+ - Nyx Assassin 1 skill
+ - Tusk 4 skill
+ - Earth Spirit 3 skill
+ - Earth Spirit stone caller (remnant charges)
+ - Phoenix 1 skill
+ - Dark Willow 4 skill
+ - Grimstroke 3 skill
+ - Void Spirit 4 skill
+ - Techies 1 skill
+ - Winter Wyvern 3 skill
+ - Tango & Single Tango
+ - Battle Fury
+ - Iron Talon
+ - Battle Fury 2 & Demons Fury mana regen localization
+ 
+ 
 5.6.6.1
 Hero changes:
  Wraith King:
