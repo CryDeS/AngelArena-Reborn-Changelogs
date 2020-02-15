@@ -1,0 +1,196 @@
+5.6.8
+Hero changes:
+ Ark Warden:
+  - 1 skill cooldown changed from 20 to 14
+  - 1 skill manacost changed from 75/65/55/45/35/25/0 to 75/85/95/105/115/125/135
+  - 2 skill cooldown changed from 22 to 14
+  - Rune forge(ultimate ability) cooldown changed from 60 to 75
+  
+ Abyssal Underlord:
+  - 1 skill cooldown changed from 12 to 15/14.5/14/13.5/13/12.5/12
+  - 1 skill wave count changed from 6 to 4
+  - 1 skill buff duration changed from 2/3/4/5/6/7/8 to 3
+  - 3 skill damage from creep changed from 7 to 4
+  - Ultimate delay changed from 2.0/1.8/1.5/1.2/1.0/0.7/0.5 to 3.0/2.5/2.2/2.0/1.5/1.2/1.0
+  
+ Batrider:
+  - 1 skill damage changed from 10/12/15/17/20/22/25 to 15/17/20/22/25/27/30
+  - 2 skill damage impact changed from 75/95/116/137/158/179/200 to 100/120/160/180/200/220/250
+  - Ultimate damage changed from 40/60/80/110/140/170/200 to 100/200/300/400/500/600/700
+  
+ Bounty Hunter:
+  - 1 skill cooldown changed from 10 to 4
+  - 2 skill cooldown changed from 3.0/2.8/2.5/2.2/2.0/1.8/1.5 to 1.25
+  
+ Bristleback:
+  - 1 skill cast range changed from 700 to 900
+  
+ Broodmother:
+  - 1 skill spider duration changed from 60/65/70/75/80/85/90 to 60
+  - 1 skill damage changed from 125/225/325/400/500/600/720 to 125/225/275/325/350/400/450
+  - Ultimate bonus damage changed from 100/200/250/300/450/650/800 to 100/150/200/225/250/375/400
+  - Ultiamte manacost changed from 100/80/60/40/20/10/0 to 100/150/200/250/300/350/400
+  
+ Dragon Knight:
+  - 1 skill cooldown changed from 8 to 5
+  
+ Dazzle:
+  - 1 skill duration changed from 5 to 3.5
+  - 1 skill damage changed from 20/32/38/45/65/75/85 to 30/40/50/60/70/80/90
+  - 3 skill cooldown changed from 12 to 14/13.5/13/12.5/12/11.5/11
+  
+ Shadow Fiend:
+  - 1/2/3 skill manacost changed from 75 to 90
+  
+ Legion Commander:
+  - 1 skill damage per unit changed from 30/40/45/55/65/75/80 to 20/30/40/50/60/70/80
+  
+ Tiny:
+  - 3 skill cleave changed from 15/20/25/30/35/40/45% to 10/12/15/18/20/22/25%
+  
+ Gyrocopter:
+  - Ultimate scepter firerate changed from 0.5 to 1.5
+  - 3 skill cooldown changed from 25 to 30
+  - Ultimate cooldown changed from 55 to 75
+
+ Faceless Void:
+  - 3 skill damage cahnged from 25/30/35/40/50/60/70 to 50/70/90/110/130/150/175
+  
+ Fireblade:
+  - 1 skill(heal) cooldown changed from 4 to 8
+  - 1 skill bonus damage per hero changed from 40/60/80/100/120/140/160 to 20/40/50/60/70/80/90
+  - 1 skill manacost changed from 125 to 100/110/120/130/140/150/160
+  
+ Venomancer:
+  - 1 skill tick delay changed from 3 to 1
+  
+ Kunkka:
+  - 1 skill damage changed from 145/215/290/350/460/560/620 to 145/215/150/325/425/475/525
+  - Ultimate ability radius changed from 900 to 750
+  
+ Lifestealer:
+  - 1 skill duration changed from 3/3.5/4/4.5/5/6/7 to 3/3.5/4/4.5/5/5.5/6
+  
+ Joe Black:
+  - 1 skill cooldown changed from 9 to 12
+  - 3 skill cast range changed from 500/550/600/650/650/700/700 to 500
+  - 3 skill cooldown changed from 40/35/30/25/20/15 to 40/37/35/30/27/25
+
+ Naga Siren:
+  - 3 skill disarmor changed from -6/8/10/11/12/13/15 to -6/7/8/9/10/11/12
+ 
+ Nyx Assassin:
+  - Ultimate bonus damage changed from 250/320/380/500/600/850/1200 to 250/300/350/400/450/500/650
+
+ Magnus:
+  - 1 skill manacost changed from 90/110/130/150/170/190/200 to 90/95/100/105/110/115/120
+  - 3 skill cooldown changed from 30/27/25/22/20/18/16 to 18
+  
+ Medusa:
+  - 1 skill damage changed from 80/90/100/110/120/130/140% to 70/75/80/90/100/110/120%
+  - Agility gain per level changed from 3.0 to 1.6
+  - Intellect gain per level changed from 3.0 to 1.6
+  
+ Treant Protector:
+  - 3 skill cast range changed from 700 to 1600
+  
+ Troll Warlord:
+  - Ultimate scepter duration on enemies changed from 3.25 to 4.5
+  
+ Timbersaw:
+  - 3 skill hp regen per stack changed from 4/5/6/7/8/9/10 to 6/7/8/9/10/11/12
+  
+ Tusk:
+  - 2 skill cooldown changed from 21/20/19/18/17/16/15 to 15
+  - 2 skill bonus damage per unit changed from 20/30/40/50/60/70/80 to 50/70/90/105/115/125/135
+  
+ Razor:
+  - 3 skill self-movement speed changed from 12/20/24/32/36/40/50% to 6/10/12/16/18/20/25%
+  
+ Reaver Lord:
+  - 1 skill percent damage changed from 2.8% to 2.0%
+  - 3 skill bonus damage per stack changed from 50/60/70/80/90/100/120 to 25/30/35/40/45/50/55
+  - Ultimate damage pct changed from 20% to 5%
+ 
+ Queen of Pain:
+  - 1 skill damage changed from 100/166/233/300/366/433/500 to 80/125/175/250/300/350/400
+  - 2 skill cast range changed from 1450 to 750/800/850/900/950/1000/1050
+  - Ultimate damage changed from 360/550/740/930/1120/1310/1500 to 360/450/560/675/800/900/1000
+  - Ultimate damage with scepter from 500/750/1000/1250/1500/1750/2000 to 400/525/600/725/875/950/1150
+  
+ Sand King:
+  - 1 skill manacost changed from 110/120/130/140/150/160/170 to 75/85/95/100/105/115/125
+  - 1 skill cooldown changed from 11 to 9
+  
+ Shadow Demon:
+  - 3 skill hit damage changed from 25/30/40/50/70/90/120 to 35/50/60/75/90/110/150
+  
+ Shadowsong:
+  - Base health changed from 102 to 100
+  
+ Storm Spirit:
+  - 3 skill damage from int changed from 75% to 45%
+  - Ultimate manacost changed from 1.35 to 1.45
+  - Ultimate damage changed from 6.5/10/15/20/22/24/28 to 6.5/9/13/15/18/20/22
+  
+ Snapfire:
+  - Ultimate cooldown changed from 45 to 75
+  
+ Phanthom Lancer:
+  - 1 skill damage changed from 100/180/220/260/350/430/480 to 90/150/200/220/275/350/400
+  - 2 skill cooldown changed from 16 to 18
+  - 2 skill duration changed from 4/5/6/7/8/9/10 to 3/3.5/4/4.5/5/5.5/6
+  
+ Pugna:
+  - 3 skill now have 7 levels
+  - Ultimate damage changed from 200/275/325/350/425/525/650 to 200/225/250/300/325/375/400
+  
+ Warlock:
+  - 1 skill duration changed from 25 to 10/11/12/13/14/15/16
+  - 1 skill search AOE changed from 700 to 550
+  - 2 skill now have 2 charges
+  
+ Witch Doctor:
+  - 1 skill hero damage changed from 75/100/125/150/210/260/320 to 50/75/100/125/150/175/200
+  
+Item changes:
+ Center of Peace:
+  - Bonus mana changed from 800 to 500
+  
+ Grove Bow:
+  - Bonus attack speed changed from 100 to 70
+  - Now not stackable
+
+ Void Scepter:
+  - Bonus health changed from 1000 to 700
+  - Astral regen changed from 10% to 5%
+  - Mana reduce after cast changed from 20% to 10%
+  
+ Vampire Claw:
+  - Heal per charge changed from 18 to 8
+  
+ Enchanted Quiver:
+  - Now not stackable
+  
+ Pipe of Insight:
+  - Block changed from 800 to 600
+  
+ Plague Staff:
+  - Chance changed from 27% to 20%
+  
+Other changes:
+ - Little map changes
+ - Dire ranged ancient now have granite aura
+ - Radiant ranged ancient now have fireball
+ 
+Fixed:
+ - Warlock golems with scepter fixed
+ - Shadow Fiend talent fixed
+ - Troll warlord ultimate cooldown
+ - Mirana 3 skill
+ - Dark Edge unit collision fixed
+ - Spiked fixed return damage
+ - Static/Slice and magic immune fixed
+ - Joe black 3 skill with talent & magic immune & lotus & linken sphere
+ - Dominated creeps agro-range fixed
+ 
