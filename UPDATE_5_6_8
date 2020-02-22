@@ -1,3 +1,150 @@
+5.6.8 f1:
+Hero changes:
+ Batrider:
+  - 1 skill cast range changed from 600/620/640/670/700/740/780 to 600
+  - 1 skill damage chagned from 15/17/20/22/25/27/30 to 10/13/17/19/20/22/25
+  - Strength gain epr level changed from 3.5 to 2.4
+  
+ Bounty Hunter:
+  - 2 skill cooldown changed from 1.25 to 6/5.5/5/4.5/4/3.5/3
+  
+ Centaur Warrunner:
+  - 2 skill damage changed from 175/220/255/310/365/455/560 to 125/175/235/310/365/455/560
+  - Strength gain per level changed from 4 to 3
+  
+ Enchantress:
+  - 1 skill manacost chagned from 75/100/125/150/200/225/250 to 50/75/90/105/120/135/145
+  
+ Kunkka:
+  - 1 skill damage changed from 145/215/150/325/425/475/525 to 145/215/250/325/425/475/525
+  - Ultimate damage changed from 400/600/800/1000/1200/1400/1600 to 400/500/600/700/800/900/1000
+  - Torrent storm cooldown changed from 45 to 60
+  
+ Dragon Knight:
+  - 1 skill damage changed from 145/220/300/350/435/525/625 to 90/150/225/285/335/375/425
+  - 1 skill cooldown changed from 5 to 7
+  
+ Disruptor:
+  - 1 skill cooldown changed from 12/11/10/10/10/9/8 to 12
+  - 2 skill cooldown changed from 16 to 20
+  - 3 skill cooldown changed from 13 to 17
+  
+ Phanthom Lancer:
+  - 1 skill cooldown changed from 7 to 10
+  - 3 skill bonus range chagned from 700/800/900/950/1000/1100/1200 to 700
+  - Ultimate illusion damage in changed frm 235% to 285%
+  
+ Gyrocopter:
+  - 1 skill damage changed from 5/12/16/20/24/28/30 to 4/10/14/18/20/22/24
+  
+ Gun Joe:
+  - 1 skill machinegun BAT changed from 0.5 to 0.7
+  - 3 skill bonus movement speed changed from 20/40/60/80/100/120/160 to 25
+  - 3 skill bonus attack speed changed from 10/20/30/40/50/60/70 to 20/40/60/80/100/120/140
+  
+ Grimstoke:
+  - 1 skill damage changed from 100/180/250/350/400/450/500 to 125/200/275/350/450/500/600
+  
+ Lone Druid:
+  - Bear damage from druid changed from 40% to 30%
+  - Bear health changed from 1000/1400/2200/2600 to 1000/1200/1300/1400
+  - Bear attack speed changed from 40% to 30%
+  
+ Lion:
+  - 1 skill stun duration changed from 1.02/1.52/2.02/2.05/2.15/2.3/2.4 to 2.4
+  
+ Legion Commander:
+  - 1 skill cast time changed from 0.3/0.28/0.25/0.22/0.2/0.12/0.08 to 0.3
+  - Ultimate cooldown changed from 50 to 60
+  
+ Joe Black:
+  - 3 skill now purges  by attack
+  - 3 skill spread cooldown changed from 10 to 4
+  - Talent for 4 sec cd 1 skill changed to 7 sec cd 1 skill
+  
+ Ogre Magi:
+  - 2 skill duration changed from 5/6/7/8/9/10/11 to 5
+  - 2 skill damage changed from 32/38/45/54/68/75/90 to 32/52/65/100/120/130/150
+  
+ Omniknight:
+  - Base damage changed from 31-41 to 51-61
+  - Movement speed changed from 300 to 320
+  
+ Sven:
+  - 3 skill manacost changed from 55/75/90/110/150/200/250 to 55/65/75/85/95/105/115
+  
+ Shadowsong:
+  - 3 skill aura range changed from 700 to 1200
+  
+ Spectre:
+  - 1 skill cast range changed from 2000/2000/2000/2000/2500/3000/3000 to 2000
+  
+ Pugna:
+  - 3 skill damage changed from 75/116/158/200/250/300/350 to 75/115/165/225/250/300/350
+  
+ Pudge:
+  - Ultimate cooldown changed from 50 to 40
+  
+ Nature Prophet:
+  - 2 skill cast time changed from 3 to 2
+  - 3 skill BAT changed from 1.75 to 1.3
+  - 3 skill health changed frm 550 to 550/650/750/850/950/1050/1150
+  - 3 skill movement speed changed from 325 to 325/335/345/355/365/375/385
+  - 3 skill large treant health changed from 1650 to 2000
+  - 3 skill large treant movement speed changed from 325 to 425
+  
+ Nyx Assassin:
+  - Ultimate damage changed from 250/300/350/400/450/500/650 to 100/175/225/300/325/400/450 
+  
+ Mirana:
+  - Overskill little changes(localization and tooltips)
+  
+ Wraith King:
+  - Cooldown changed from 8 to 10
+  
+ Ursa:
+  - Ultimate cooldown changed from 30/28/25/24/22/20/18 to 30/29/28/27/26/25/24
+  
+Item changes:
+ Icarus:
+  - Cost changed from 7200 to 3200
+ 
+ Sacred Blades:
+  - Damage changed from magical to physical
+  
+ Pipe of Insight:
+  - Barrier block changed from 600 to 400
+  
+ Hood of Rage:
+  - Cooldown changed from 18 to 12
+  - Activation resist changed from 80% to 50%
+  - Hp regen changed from 20 to 50
+  
+ Shiva 1/2:
+  - Damage changed from 250/550 to 350/650
+  
+ Smoke of Deceit:
+  - Max stock count changed from 2 to 1
+  
+Other changes:
+ - Duel exp per minute changed from 75 to 50
+ - Duel gold per minute changed from 40 to 30
+ - Starting gold changed to 625
+ - Cooldown of items in backpack changed from 2x to 1x
+ - Invisibility rune now can't give haste rune effect
+ 
+Fixed:
+ - Silcener 2 skill
+ - Sacred bladed animation
+ - Hand of midas animation
+ - Dazzle 1 skill double damage fixed
+ - Riki 2 skill charges fixed
+ - Death prophet 3 skill charges fixed 
+ - Wisp 1 skill slow fixed
+ - Crystal Maiden 2 skill fixed
+ 
+ 
+ 
 5.6.8
 Hero changes:
  Ark Warden:
