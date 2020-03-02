@@ -1,0 +1,256 @@
+5.6.9
+Hero changes:
+ Arc Warden:
+  - 1 skill now have 2 charges
+  
+ Axe:
+  - Strength gain per level changed from 3.0 to 3.2
+  - Base regen chagned from 4.25 to 7
+  
+ Alchemist:
+  - 2 skill damage changed from 150/200/230/340/450/550/620 to 200/250/270/350/470/570/650
+  
+ Clockwerk:
+  - 1 skill cast time changed from 0.3/0.3/0.3/0.25/0.2/0.15/0.0 to 0.3
+  - 2 skill duration changed from 5/6/7/8/9/10/10 to 5
+  - 2 skill cast time changed from 0.3/0.3/0.3/0.3/0.3/0.2/0.1 to 0.3
+  - 3 skill bonus damage changed from 90/145/200/255/310/365/420 to 100/145/225/305/350/395/450
+  
+ Centaur Warrunner:
+  - 1 skill damage from strength changed from 100% to 50%
+  - 2 skill damage from strength changed from 100% to 75%
+  - Ultimate radius changed from 105 to 125
+  
+ Fireblade:
+  - 3 skill(fire form) cooldown changed from 18 to 8
+  
+ Darkwillow:
+  - 3 skill cooldown changed from 18/17/16/15/14/13/12 to 12
+  
+ Magnus:
+  - 1 skill cast time changed from 0.3/0.3/0.3/0.3/0.2/0.1/0.0 to 0.3
+  - 3 skill damage changed from 100/160/220/280/320/380/410 to 125/195/250/320/380/420/500
+  - Ultimate cooldown changed from 90 to 70
+  
+ Satan:
+  - 1 skill manacost changed from 450/550/650/750/800/850/925 to 250/300/350/400/450/500/550
+  
+ Sven:
+  - 1 skill manacost changed from 140 to 100
+  
+ Spike:
+  - 1 skill cooldown changed from 13/12/11/10/9/7/5 to 8/7.5/7/6.5/6/5.5/5
+  - Base mana changed from 0 to 200
+  - Base intellect changed from 12 to 2
+  
+ Shadow Fiend:
+  - 1/2/3 skill damage changed from 85/125/150/175/200/245/280 to 100/125/150/175/200/245/280
+  - 1/2/3 skill cast time changed from 0.67 to 0.4
+  - 5 skill radius of aura changed from 900 to 1200
+  
+ Shadowsong:
+  - 2 skill damage changed from 40/55/65/75/95/115/145 to 25/35/45/55/65/75/85
+  - 2 skill percent damage changed from 0% to 2.5%
+  - Talent for +1.25% to 2 skill changed to +2.5%
+  - Base movement speed changed from 310 to 300
+  
+ Luna:
+  - Ultimate cooldown changed from 90 to 60
+  - Agility gain per level changed from 3.0 to 3.2
+  
+ Pangolier:
+  - 1 skill damage changed from 24/42/52/68/72/82/92 to 30/45/62/75/85/90/105
+  - 2 skill manacost changed from 90/100/110/120 to 90/100/110/120/130/140/150
+  - 2 skill block damage per hero changed from 8/9/10/11/12/13/14% to 15%
+  - 2 skill duration changed from 10 to 4
+  - 3 skill duration changed from 1 to 2
+  
+ Tidehunter:
+  - 1 skill slow changed from 40% to 80%
+  
+ Enigma:
+  - 1 skill duration changed from 0.25/0.5/0.75/0.8/0.85/0.9/1 to 1
+  - Ultimate cooldown changed from 90 to 75
+  
+ Slark:
+  - Agility gain per level changed from 2.8 to 3.2
+  - Base armor changed from 0 to 2
+  
+ Pugna:
+  - 2 skill cast range changed from 700/700/700/700/800/900/1000 to 700/750/800/850/900/950/1000
+  
+ Pudge:
+  - Ultimate damage changed from 70/115/160/205/250/295/350 to 100/125/160/205/250/295/350
+  
+ Phanthom Assassin:
+  - 1 skill damage changed from 80/90/100/110/120/130/140% to 80/83/85/88/90/95/100%
+  - 2 skill cooldown changed from 8/7/6/5/4/3/2 to 8
+  
+ Tinker:
+  - 1 skill cast time changed from 0.53/0.43/0.35/0.32/0.25/0.15/0.1 to 0.3
+  - 1 skill damage changed from 95/140/220/320/390/450/515 to 115/190/280/320/390/450/515
+  - 1 skill duration changed from 3/3.5/4/4.5/4.8/6/7 to 3
+  
+ Treant Protector:
+  - Base movement speed changed 275 to 285
+  
+ Void Spirit:
+  - 1 skill projectile speed changed from 900 to 1000
+  - Ultimate cooldown changed from 25/24/23/22/20/17/15 to 15
+  
+ Lifestealer:
+  - 2 skill heal changed from 5/5.5/6/6.5/7/7.5/8 to 3.5/4/4.5/5/5.5/6/6.5
+  - 3 skill duration changed from 8 to 5
+  - Ultimate damage changed from 450/750/920/1200/1600/2000/2200 to 250/350/420/500/600/700/800
+  
+ Lion:
+  - 1 skill stun duration changed from 2.4 to 2.0
+  - Ultimate cooldown changed from 90/80/70/60/50/40/35 to 60/55/50/45/40/35/30
+  - Ultimate cooldown with scepter changed from 15 to 20
+  - Ultimate damage per stack changed from 50 to 40
+  
+ Lycan:
+  - Ultimate cooldown changed from 55 to 75
+  - Ultimate critical damage changed from 180/220/300% to 180/210/240%
+  
+ Nightstalker:
+  - 1 skill damage changed from 190/240/300/350/410/490/580 to 130/200/275/325/410/490/580
+  - 1 skill damage from strength changed from 100% to 75/80/85/90/95/100/110%
+  
+ Rikimaru:
+  - 2 skill damage changed from 50/60/80/100/120/160/200 to 100/140/200/220/280/300/350
+  - 2 skill cooldown between charges changed from 0.1 to 2
+  - Ultimate cooldown changed from 6/5.2/4.3/3.5/2.7/1.8/1 to 4/3.5/3/2.5/2/1.5/1
+  
+ Reaver Lord:
+  - Base strength changed from 20 to 25
+  - Base intellect changed from 12 to 15
+  - Strength gain per level changed from 2.0 to 2.5
+  - Agility gain per level changed from 2.9 to 3.2
+  
+ Dark Seer:
+  - 3 skill bonus movement speed changed from 15/20/25/30/35/40/45% to 45%
+  
+ Weaver:
+  - 3 skill cooldown changed from 6.0/5.0/4.0/3.0/2.8/2.0/1.0 to 6.0/5.5/4.5/3.5/3.0/2.5/1.75
+  
+ Undying:
+  - 1 skill duration changed from 21 to 15
+  
+ Visage:
+  - Ultimate bonus damage changed from 'minute / 10 - minute / 150' to 'minute / 20 - minute / 150'
+ 
+ Warlock:
+  - Golems bonus health changed from 'minute * 65' to 'minute * 100'
+  
+Item changes:
+ Arcane Ring:
+  - Bonus armor changed from 5 to 3
+  
+ Aeon Disk:
+  - Cooldown changed from 70 to 80
+  
+ Faerie Fire:
+  - Bonus damage changed from 2 to 5
+  
+ Charon Scepter:
+  - Bonus movement speed changed from 45 to 25
+
+ Damned Eye:
+  - Bonus armor changed from 5 to 3
+  
+ Slice/Static Amulet:
+  - Bonus armor changed from 8/24 to 5/12
+  
+ Phase boots 1/2/3/Reverse:
+  - Bonus armor changed from 6/8/12/25 to 3/5/7/10
+  - Bonus damage changed from 30/96/160/450 to 30/86/120/200
+  
+ Magician Ring:
+  - Bonus armor changed from 2 to 1
+  
+ Vladmir:
+  - Bonus armor changed from 8 to 4
+  
+ Void Scepter:
+  - Cooldown changed from 18 to 25
+  - Bonus movement speed changed from 45 to 25
+  
+ Rebel Sword:
+  - Bonus armor changed from 15 to 12
+  - Disarmor changed from 14 to 8
+  
+ Solar Crest:
+  - Bonus armor changed from 12 to 8
+  
+ Plague Staff:
+  - Bonus armor changed from 6 to 3
+  
+ Armlet 1/2/3:
+  - Bonus armor changed from 5/7/15 to 5/7/9
+  
+ Talisman of Ambition:
+  - Cast time removed
+  - Bonus armor changed from 3 to 1
+  
+ Lotus Orb:
+  - Bonus armor changed from 20 to 10
+  
+ Lifecatcher:
+  - Bonus hpregen changed from 9 to 2
+  
+ Shiva 1/2:
+  - Bonus armor changed from 18/25 to 12/16
+  
+ Holy Book 2/3:
+  - Bonus armor changed from 10/16 to 5/7
+  
+ Awful Mask:
+  - Bonus armor changed from 10 to 2
+  
+ Death Mask:
+  - Bonus armor changed from 10 to 4
+ 
+ Spiked Armor:
+  - Bonus armor changed from 35+15 to 15+10
+  - Disarmor aura changed from -35 to -18
+ 
+ Angel Greaves:
+  - Bonus armor changed from 2 to 4
+  - Bonus armor in aura changed from 20 to 12
+  
+ Angel Desolators:
+  - Bonus damage changed from 50/180 to 50/120
+  - Disarmor changed from -16 to -10
+  - Corruption duration changed from 8 to 15
+  
+ Demons Fury:
+  - Bonus damage changed from 185 to 125
+  
+ Burning Blades:
+  - Bonus damage changed from 175 to 100
+  
+ Burning Book:
+  - Bonus damage changed from 175 to 100
+  
+ Sacred Bladed:
+  - Bonus agility changed from 25/75 to 25/60
+  - Mana purge to damage changed from 100% to 50%
+  
+ Soul Collector:
+  - Active damage changed from 1000 to 500
+  - Active damage from main stat changed from 250% to 350%
+  - Decrease heal changed from 85% to 100%
+  
+ Death Shield:
+  - Block incoming damage changed from 17% to 20%
+
+ Infused Raindrop:
+  - Initial stack changed from 3 to 5
+  
+ Witless Shako:
+  - Bonus health changed from 2500 to 5000
+  
+Fixed:
+ - Plague staff
+ - Visage familiars
