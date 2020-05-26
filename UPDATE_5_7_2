@@ -1,0 +1,83 @@
+5.7.2
+Hero changes:
+ Elder Titan:
+  - 1 skill cooldown changed from 14/13/12/11/10/10/10 to 10
+  - 2 skill buff duration changed from 9 to 16
+  - 2 skill spirit duration changed from 8 to 10
+  - 3 skill radius changed from 275 to 375
+  
+ Wraith King:
+  - 3 skill additional damage changed from 15/25/36/47/58/68/80 to 5/9/12/18/20/25/30
+  - 3 skill aura radius changed from 500 to 1200
+  
+ Centaur Warrunner:
+  - 3 skill damage changed from 15/30/45/65/85/110/150 to 30/45/50/65/85/110/150
+  
+ Nature Prophet:
+  - 3 skill treant damage changed from 27/30/33/36/50/77/97 to 45/55/65/75/85/95/105
+  - 3 skill with scepter large treant health chagned from 2000 to 3500
+  
+ Huskar:
+  - 2 skill damage changed from 10/15/20/28/32/36/42 to 15/20/25/30/35/40/45
+  
+ Sven:
+  - 3 skill cooldown changed from 25/23.5/22/20.5/19/17.5/16 to 16
+  
+Other changes:
+ - Added banning heroes on pick-stage.
+ - Now you can push item to neutral slot:
+  - All neutral items
+  - Wards
+  - Faerie Fire
+  - Smoke of Deceit
+  - Mango
+  - Tango
+  - Tome of Knowledge
+  - Dust of Appearance
+  - Bottle
+  - Throwing Daggers
+  - Amulets
+  - Glimmers Cape
+  - Death Shield
+  - Hand of Midas 1/2
+  - Solar Crest
+  - Holy Locket
+  - Infused Raindrop
+  
+Item changes:
+ Trident:
+  - Added to 4 tier
+  
+ Tome of Knowledge:
+  - Restock time changed from 120 to 90
+  
+ Phase Boots 1/2/3/4:
+  - Movespeed changed from 20/25/30/45 to 45/50/55/60
+  
+ Power Treads:
+  - Bonus stats changed from 9/28/42 to 10/28/42
+  - Movespeed changed from 25/30/35 to 45/50/55
+  
+ Tranquil Boots:
+  - Movespeed changed from 30 to 75
+  - Break movespeed changed to 50
+  
+ Arcane Boots:
+  - Movespeed changed from 25 to 45
+  
+ Angel Greaves:
+  - Movespeed changed from 35 to 55
+  
+ Guardian Greaves:
+  - Movespeed changed from 30 to 50
+  
+ Snake boots:
+  - Movespeed changed from 45 to 130
+  
+ Royal Jelly:
+  - Radius now global 
+  
+Fixed:
+ - Invoker & too many skill points
+ - No skill points in 25-29 lvl
+ - Observer ward health
