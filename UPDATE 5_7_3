@@ -1,0 +1,99 @@
+Update 5.7.3
+Hero changes:
+ Wraith King:
+  - 2 skill self multiplier changed from 3 to 2
+  - Talent +12 strength changed for stun when reincarnatiig
+  - Talent +24 skeleton damage changed to +64 skeleton damage
+  
+ Nature Prophet:
+  - 2 skill manacost changed from 50 to 75
+  - BAT changed from 1.4 to 1.6
+
+ Pangolier:
+  - 1 skill now have 6 attack instead 4
+  
+ Visage:
+  - Talent for +1 layer changed for +4 layers
+
+ Tiny:
+  - 2 skill damage 100/160/220/280/300/320/360 to 140/180/240/300/330/380/420
+  
+ Magnus:
+  - 1 skill cast time changed from 0.3 to 0.1
+  - 3 skill cast time changed from 0.3 to 0.1
+  
+ Clinkz:
+  - 2 skill manacost changed from 8/9/10/12/13/14/16 to 8
+ 
+ Crystal Maiden:
+  - 1 skill radius changed from 700 to 300
+  - 1 skill damage changed from 120/170/220/325/385/445/525 to 200/250/350/450/500/650/700
+  
+ Outworld Devouver:
+  - 2 skill damage changed from 120/245/385/400/550/620/700 to 120/245/385/450/550/620/700
+  - Bonus agility changed from 2.0 to 2.7
+  
+ Ogre Magi:
+  - 1 skill cast time changed from 0.45 to 0.15
+  - 2 skill cast time changed from 0.45 to 0.1
+  - Ultimate 4x multicast chance changed from 0/0/10/12.5/13/14/15% to 0/0/10/15/17/19/22%
+  
+ Pugna:
+  - 1 skill cast range changed from 400 to 700
+  
+Item changes:
+ Heart of Tarrasque 2:
+  - Recipe cost changed from 5200 to 1200
+  
+ Dimensional Predictor:
+  - Bonus strength changed from 16 to 14
+ 
+ Dead Boots:
+  - Bonus movespeed changed from 20 to 60
+  
+ Echo Sabre 2/3:
+  - Deleted
+  
+ Dark Edge:
+  - Now have echo sabre effect
+  
+ Soul Merchant:
+  - Heal reduction changed from 50% to 70%
+  
+ Holy Book:
+  - Splash changed from 30% to 25%
+  
+ Phoenix Ash:
+  - Now regenerate 100% health
+  
+ Kings bar:
+  - Attack speed changed from 45 to 100
+  
+ Holy Locket:
+  - Restore per charge changed from 15 to 30
+  - Bonus all stats changed from 3 to 8
+  
+Fixed:
+ - Bug when neutral slots dont drop on creep level 10
+ - Nature Prophet ultimate
+ - Mekasm
+ - Vladmir Offering
+ - Echo Sabre
+ - Heart of Tarrasque
+ - Meteor Hammer
+ - Trident
+ - Helm of Dominator
+ - Soul Ring
+ - Shadow Amulet
+ - Guardian Greaves
+ - Pirate Hat
+ - Several bugs with neutral slot
+ - Fixed repick bug with secondary charges
+ - Fixed repick bug with neutral slot
+ - Fixed Soul Merchant break range when unit have item for bonus cast range
+ - Earth Spirit 2 skill talent tooltip
+ - Teleport scroll refresh/rearm fixed
+ - Phoenix icarus dive now dont increase enemy movespeed
+ - Rebels Sword
+ - Lifestealer feast fixed
+ - Vampire claw fixed
