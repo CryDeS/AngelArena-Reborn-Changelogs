@@ -1,7 +1,8 @@
 Update 5.7.3 f1
 Hero changes:
  Bane:
-  - 3 skill cast time changed from 0.5/0.4/0.3/0.2/0.1/0.0/0.0 to 0.2
+  - 1 skill cast time changed from 0.5/0.4/0.3/0.2/0.1/0.0/0.0 to 0.2
+  
  Puck:
   - 2 skill damage changed from 90/120/160/200/320/380/400 to 110/140/180/220/350/420/500
   
