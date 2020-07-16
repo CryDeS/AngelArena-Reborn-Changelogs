@@ -1,3 +1,98 @@
+Update 5.7.3 f1
+Hero changes:
+ Bane:
+  - 3 skill cast time changed from 0.5/0.4/0.3/0.2/0.1/0.0/0.0 to 0.2
+ Puck:
+  - 2 skill damage changed from 90/120/160/200/320/380/400 to 110/140/180/220/350/420/500
+  
+ Troll Warlord:
+  - 4 skill bonus damage changed from 20/25/30/35/40/45/50 to 14/18/22/28/32/36/40
+  
+ Sven:
+  - Ultimate duration changed frm 12 to 30
+
+ Satan:
+  - 3 skill bonud damage changed from 30/40/50/55/60/65/70 to 20/22/25/30/32/35/37
+  - 4 skill duration duration changed from 2.8 to 4.8
+  
+ Venomancer:
+  - 3 skill cast range changed from 450 to 550
+  
+Item changes:
+ Solar Crest:
+  - Bonus attack speed target changed from 80 to 120
+ 
+ Moonshard:
+  - Consume attack speed changed from 60 to 120
+ 
+ Craggy Coat:
+  - Bonus attackspeed changed from 50 to 100
+  
+ Minotaur Horn:
+  - Added to neutral tier 3
+  - Duration changed from 2 to 3
+  
+Fixed:
+ - Bane 2 skill damage from intellect
+ - Localization of Heart 2/Shiva 2
+ - Halberts now have shared cooldown
+ - Voodo Mask in shop
+ - Illusions and magician ring
+ - Snake boots and teleport to one target
+ - Neutal slot and any item
+ - Echo sabre and pause attacks
+ - Dark edge and pause attacks
+ - Axe ultimate
+ - Juggernaut ultimate
+ - Lion ultimate
+ - Phanthom Lancer ultimate
+ - Pudge 1 skill
+ - Razor 1 skill
+ - Razor 3 skill
+ - Razor 4 skill
+ - Sven ultimate
+ - Wraith King 2 skill
+ - Slardar ult
+ - Tiny 1 skill
+ - Tiny Tree Grab
+ - Sand king 3 skill
+ - Lich 1 skill
+ - Lich ultimate
+ - Witch Doctor 3 skill
+ - Witch Doctor ultimate
+ - Enigma 2 skill
+ - Enigma 3 skill
+ - Beastmatser 1 skill
+ - Beastmaster 3 skill
+ - Phantom Assassin 1 skill
+ - Phantom Assassin 2 skill
+ - Luna 3 skill
+ - Clockwerk 2 skill
+ - Leshrac 1 skill
+ - Leshrac 3 skill
+ - Darkseer ultimate
+ - Clinkz 1 skill
+ - Clinkz ultimate
+ - Omniknight 3 skill
+ - Nightstalker 1 skill
+ - Nightstalker 3 skill
+ - Bounty hunter 2 skill 
+ - Invoker chaos meteor
+ - Lone druid bear ectangle
+ - Chaos Knight 1 skill
+ - Chaos Knight 3 skill
+ - Undying ultimate
+ - Rubick 2 skill
+ - Disruptor ultimate
+ - Centaur Warrunner 3 skill
+ - Abyssal Underlord 2 skill
+ - Oracle 1 skill
+ - Dark Willow 3 skill
+ - Grimstroke 3 skill
+ - Snapfire 1 skill
+ - Snapfire 3 skill
+ - Bottle
+ 
 Update 5.7.3
 Hero changes:
  Wraith King:
