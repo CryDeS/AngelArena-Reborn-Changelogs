@@ -1,3 +1,79 @@
+Update 5.7.3 f2
+Hero changes:
+ Rubick:
+  - 2 skill damage decreasing debuff damage changed from 19/24/38/49/75/91/121% to 25/27/29/31/33/35/37%
+
+ Templar Assassin:
+  - 1 skill duration changed from 17/16.5/16/15/14/13.5/13 to 14
+  - Base damage changed from 26-30 to 36-40
+  
+ Tidehunter:
+  - Ravage cooldown changed from 90 to 60
+  
+ Spike:
+  - 1 skill damage changed from 100 to 100/120/140/160/180/200/220
+  
+ Oracle:
+  - 1 skill cooldown changed from 15/14/12/10/9/7/6 to 6
+  
+ Pangolier:
+  - 2 skill damage decrease per hero changed from 15% to 20%
+  
+ Leshrack:
+  - 3 skill cast point changed from 0.6/0.5/0.5/0.4/0.3/0.3/0.2 to 0.2
+  
+ Grimstroke:
+  - 2 skill cooldown changed from 22/21/20/19/18/17/16 to 16
+  
+Item changes:
+ Minotaur Horn:
+  - Cooldown changed from 6 to 40
+  
+ Titan Sliver:
+  - Bonus base damage changed from 30% to 50%
+  
+ Vambrace:
+  - Bonus spell amplify changed from 6% to 20%
+  
+ Essence Ring:
+  - Bonus health changed from 725 to 825
+  - Duration changed from 15 to 20
+  
+ Force Boots:
+  - Bonus movement speed changed from 50 to 100
+  - Cooldown changed from 6 to 4
+  
+ Book of the Dead:
+  - Cooldown changed from 90 to 30
+  
+ Pirat Hat:
+  - Cooldown changed from 40 to 10
+  
+ Havoc Hammer:
+  - Nuke damage changed from 500 to 1000
+  - Nuke damage from strength changed from 2.0 to 3.0
+  
+ Ninja Gear:
+  - Bonus agility changed from 20 to 200
+  - Cooldown changed from 5 to 25
+  
+ Apex:
+  - Bonus all stats changed from 200 to 300
+  
+ Life catcher:
+  - Bonus strength changed from 6 to 4
+  - Bonus intellect changed from 16 to 12
+  
+ Throwing Daggers:
+  - Cost changed from 50 to 30
+  - Manacost changed from 35 to 0
+  
+Fixed:
+ - Wraith King 2 skill
+ - Neutral items and neutral slot(again)
+ - Echo sabre/Dark edge attack to dead units.
+ 
+ 
 Update 5.7.3 f1
 Hero changes:
  Bane:
@@ -10,21 +86,21 @@ Hero changes:
   - 4 skill bonus damage changed from 20/25/30/35/40/45/50 to 14/18/22/28/32/36/40
   
  Sven:
-  - Ultimate duration changed frm 12 to 30
+  - Ultimate duration changed from 12 to 30
 
  Satan:
-  - 3 skill bonud damage changed from 30/40/50/55/60/65/70 to 20/22/25/30/32/35/37
-  - 4 skill duration duration changed from 2.8 to 4.8
+  - 3 skill bonus damage changed from 30/40/50/55/60/65/70 to 20/22/25/30/32/35/37
+  - 4 skill duration changed from 2.8 to 4.8
   
  Venomancer:
-  - 3 skill cast range changed from 450 to 550
+  - 3 skill castrange changed from 450 to 550
   
 Item changes:
  Solar Crest:
-  - Bonus attack speed target changed from 80 to 120
+  - Bonus attack speed for target changed from 80 to 120
  
  Moonshard:
-  - Consume attack speed changed from 60 to 120
+  - Consuming attack speed changed from 60 to 120
  
  Craggy Coat:
   - Bonus attackspeed changed from 50 to 100
