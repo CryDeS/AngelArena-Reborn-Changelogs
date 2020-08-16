@@ -1,0 +1,120 @@
+Update 5.7.4
+Hero changes:
+ Omniknight:
+  - Talent for -60s guarian angel changed to -30s
+  
+ Bristleback:
+  - 2 skill damage from strength for hero changed from 1.0 to 1.5
+  
+ Naga Siren:
+  - 3 skill damage from agi changed from 145% to 115%
+  - Ultimate cast time changed from 0.8/0.7/0.6/0.5/0.4/0.3/0.2 to 0.35
+  - Ultimate cooldown with scepter changed from 140/100/60 to 40/38/36/34/32/30/28
+  
+ Spike:
+  - Ultimate now refresh neutral item slot and tp slot
+  - Ultimate after buff ability cooldown will be reverted to (cooldown - passed from cast time) seconds, not to (cooldown)
+  - Ultimate now correctly work with cooldown reduction
+  
+ Slark:
+  - Base damage changed from 33-41 to 27-33
+  - Base armor changed from 2 to 1  
+  - Ultimate cooldown changed from 25 to 35
+  
+ Clinkz:
+  - Ultimate damage gain percentage changed from 6/7/8/9/10/12/14 to 6
+  - Ultimate bonus health changed from 60/70/80/90/100/110/120% to 60/65/70/75/80/85/90%
+  - Ultimate duration changed from 50 to 40
+  
+ Undying:
+  - Ultimate strength percentage changed from 30/40/50/60/70/80/90% to 50%
+  
+ Puck:
+  - Base armor changed from 1 to 3
+  - Base strength changed from 19 to 22
+  
+ Techies:
+  - 2 skill activation radius changed from 450 to 390
+  - 2 skill stun radius changed frm 500 to 450
+  - 2 skill stun duration changed from 2.5/3/3.5/4/4.2/4.5/4.8 to 2.5/2.7/2.9/3.1/3.3/3.5/3.7
+  
+ Troll Warlord:
+  - Ultimate cooldown changed from 30 to 60
+  
+ Kunkka:
+  - Torrent storm interval changed from 0.25 to 0.5
+  - Torrent storm cooldown changed from 60 to 75
+  
+ Gun Joe:
+  - 1 skill machinegun slow changed from 20% to 30%
+  - 1 skill rifle base attack time changed from 1.7 to 1.8
+  - 2 skill stack count changed from 8 to 6
+  - 2 skill damage changed from 40/60/80/100/120/170/190 to 30/40/50/60/70/80/90
+  
+ Chen:
+  - 2 skill bonus damage changed from 60/80/100/135/170/185/200 to 30/50/80/100/140/165/185
+  
+ Earthshaker:
+  - 2 skill jump distance with scepter changed from 1100 to 950
+  
+ Drow Ranger:
+  - Ultimate disable range changed from 200 to 400
+  - Ultimate bonus damage changed from 20/60/100/140/160/180/200 to 20
+ 
+ Pangolier:
+  - 1 skill strike count changed from 6 to 5
+  
+ Tinker:
+  - 3 skill damage changed from 30/45/55/65/75/85/95 to 25/40/50/60/70/80/90
+  
+Item changes:
+ Power Amulet:
+  - Damage per charge changed from 10 to 5
+  
+ Silver Edge:
+  - Echo cooldown changed from 5 to 3
+  
+ King Bar:
+  - Now have activation sound
+
+ Snake boots:
+  - Recipe cost changed from 500 to 1000( total cost now 5500 )
+  
+ Armlet 1/2/3:
+  - Bonus armor changed from 5/7/9 to 5/10/20
+  
+ Skadi 2:
+  - Bonus health/mana changed from 1250 to 500
+  - Bonus all stats changed from 75 to 65
+  
+ Amaliel Cuirass:
+  - Bonus armor in aura changed from 8 to 12
+  - Bonus attack speed changed from 10 to 20
+  
+ Damned Sword:
+  - Bonus agi/str changed from 56 to 46
+  
+ Mjollnir 2:
+  - Bonus damage changed from 52 to 120
+  
+ Abyssal Blade 1/2:
+  - Stun duration changed from 2 to 1
+  
+Other changes:
+ - Repick not can't be done when 30sec. before duel(old limit is 12sec.)
+ 
+Added neutral items:
+ - Dimensional doorway : tier 4 (allow teleport to any point on map)
+ 
+Fixed:
+ - Shadow Fiend necromastery fixed
+ - Satan Might now dont work in magic immune
+ - Reaver lord 1 skill now dont work when caster/target dead
+ - Treant Protector aghanim skill now have charges
+ - Lina now can't dodge death by helm of undying and 3 skill
+ - Fixed all skills and items that was decreasing damage by old spell amplify
+ - Life catcher/Talisman of Mastery now dont give experience to dead units
+ - Echo sabre tooltip
+ - Snake boots tooltip
+ - Dark Edge slow now dont have cooldown(but reduced by 50%)
+ - Soul collector/Soul Merchant fix incoming heal reduction
