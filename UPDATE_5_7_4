@@ -1,4 +1,53 @@
-Update 5.7.4
+Update 5.7.4 v1
+Hero changes:
+ Oracle:
+  - Ultimate cooldown changed from 70/65/60/55/50/45/40 to 60
+
+ Brewmaster:
+  - 2 skill cooldown changed from 1.5 to 4
+  
+ Void Spirit:
+  - 3 skill damage changed from 100/140/210/320/380/420/520 to 100/140/210/240/280/320/360
+  
+ Kunkka:
+  - 2 skill cooldown changed from 7/6.5/5/4.5/3/2.5/2 to 2
+  
+ Bane: 
+  - 2 skill damage from intellect changed from 100% to 200%
+  
+ Ursa:
+  - 2 skill attack count changed from 5/6/7/8/9/10/12 to 10/11/12/13/14/15/16
+  
+ Huskar:
+  - Base armor changed from -1 to 1
+  
+ Outworld Devouver:
+  - 2 skill cast range chagned from 750 to 550
+  - 2 skill damage changed from 120/245/385/450/550/620/700 to 120/245/285/350/420/480/520
+  - Ultiamte cooldown changed from 90 to 70
+  
+ Crystal Maiden:
+  - Damage from attack changed from 24-49 to 44-69
+  
+Other changes:
+ - Mango tree deleted
+ - Pets death bounty now changed from 400-500 to 1500
+ 
+Fixed:
+ - Enchantress 2 skill
+ - Magnus 1/2 skill
+ - Darkseer 3 skill fixed
+ - Gold for boss fixed
+ - Templar Assasin and undying helmet
+ - Clinkz ultimate damage fixed
+ - Brewmaster fixe dlocalization
+ - Minor localization fixes
+ - Gun joe 1 skill
+ - Omniknight 3 skill
+ - Satan ultimate & status resistance
+ 
+ 
+ Update 5.7.4
 Hero changes:
  Omniknight:
   - Talent for -60s guarian angel changed to -30s
