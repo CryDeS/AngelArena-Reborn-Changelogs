@@ -1,0 +1,122 @@
+Global Update 5.6.0
+
+Map changes:
+ - Major map rework
+ - Added doors to duel that has open/close state(when duel starts - doors will close)
+ - Duel zone reworked
+ 
+Boss changes:
+ - Deleted travaler, all monks and angels
+ - Added new boss Abyss Warrior
+ - Added keymasters(finally!)
+ - Reworked Possessed Demons
+ - Reworked Hero change guardian
+ 
+Creeps changed:
+ - All old creeps was deleted(lol)
+ - Added 19 main creep stacks on every team side( 2-4 creeps on stack ), all creeps have new abilities
+ - Added 1 megacreep stack on every team side(that creeps have AI, and can kill anyone)
+ 
+Buildings:
+ - Added new building type - Obelisk( 3 per team side ).
+   You can teleport on obelisk when it not broken, but enemy team can destroy it(and got gold for kill obelisk!).
+   Also Obelisk can be restored with keymater-item named 'Enigmatic Fire'
+ - Added new building type - Shrine (you can passivly restore health and mana when standing aroud you team shrine)
+   
+Main rules changed:
+ - Now kill limit is always 100.
+ - After reach 100 kills game will not be ended. Instead game end team that take 100 kills MUST to win next duel.
+ - Connection system has been reworked, if player was disconencted > 5 minutes - it marked as leaved(and will be kicked all time). Him gold will be shared for friend team.
+   Also when player abaddon game(or disconnect > 5 minutes), enemy team kill limit will be reduced!
+   
+Reworked heroes:
+ - Shadowsong 3 skills was reworked
+ - Gun Joe 1 skill and ultimate reworked
+ - Fireblade was totally reworked
+ - Spike 2 skill reworked
+ 
+New heroes:
+ - Charon(old hero was Visage)
+ - Huntress(old hero was Mirana) is now goddess
+ - Forgotten Hero(old hero was Monkey King)
+ 
+Other changes:
+ - God repick gui remake
+ - Added and rebalanced dota hero Hoodwink
+ - Added all dota neutral items( but not deleted iron talon and other items )
+ 
+Removed items:
+ - Power/Mystic/Strange amulet
+ - Echo Sabre
+ - Skadi 1/2
+ - Angels armor, angles blood, dead boots, eclipse amphora
+ - Iron Branch(gg wp)
+ - Circlet, Mantle, Null Talisman
+ - Orb of Venom
+ - Shadow Blade, Silver Edge
+ - Desolator, Angels Desolators
+ 
+Main new items:
+ - Boss Soul (can be obtained by keymasters 1 soul, and 2 soul from Possessed Demon/Abyss Warrior/Soul Guardian)
+ - Doombolt
+ - Heavy Crossbow
+ - Enchanted Skull
+ - Corrupted Skull
+ - Devils Helm
+ - Bandolin's Blade
+ - Sealed Rune
+ - Soul Stone
+ - Mystical Sword
+ - Material Projector
+ - Mozaius Blade
+ - Amber's Knife
+ - Enigmatic Fire
+
+Base new items:
+ - Cursed Orb
+ - Health Gel
+ - Dimensional Accelerator
+ - Steel Frame
+ - Consumption Orb
+ - Wisdom Shard
+ - Restoration Bracer
+ - Knight Talisman
+ - Agile Wand
+ 
+Reworked Items:
+ - Blessed Essence reworked(and no longer drops from boss)
+ - Azrael Crossbow was reworked and now crafted from Heavy Crossbow and Boss Soul
+ - Damned Swords
+ - Burning Blades
+ - Burning Book
+ - Holy Book 1/2
+ - Rebels Sword now drops from Possessed Demon
+ 
+New cheat-mode commands:
+ Main:
+  - If you press button [mouse-3]( mouse whell click ) you will be teleported to your cursor point.
+ Duel Commands:
+  - '-duel_start' - start the duel
+  - '-duel_end' - stop the duel
+  - '-duel_toggle' - start duel if it stopped, or stop if it started
+  - '-duel_freeze' - freeze/unfreeze timer to duel
+  - '-duel_time' - print to chat time until duel
+  - '-duel_time X' - set duel timer to X(where X is seconds until duel, for example '-duel_time 300' set 300sec until duel)
+ Creeps:
+  - '-spawn_creeps' - respawn creeps if it not. alias '-sc'
+  - '-disable_creeps_spawn' - disable all creep spawning
+  - '-enable_creeps_spawn' - enable creeps spawn( if it was disabled )
+ Other commands:
+  - '-create_dummy' - spawn damage dummy
+  - '-str X' - set strength to unit under your cursor
+  - '-agi X' - set agility to unit under your cursor
+  - '-int X' - set intellect to unit under your cursor
+  - '-nofog' - disable Fog of War( WARNING, enabling fog of war will broke dota vision system and produce graphical artefacts)
+  - '-fog' - enable Fog of War
+  - '-restore_obelisk' - restore all map obelisks
+  
+Big thanks to:
+ - Sanctus Animus
+ - Nikoshuno
+ - Cyberpunk
+ - Fury & Sashatxt
