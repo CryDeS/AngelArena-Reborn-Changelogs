@@ -1,0 +1,52 @@
+6.0.0
+Hero changes:
+ Wraith King:
+  - 3 skill critical damage changed from 275% to 150/175/200/225/250/275/300%
+ 
+ Phantom Assassin:
+  - Ultimate critical damage chagned from 230/255/275/300/315/325/350% to 300/325/350/375/400/425/450%
+ 
+Item changes:
+ Spiked Armor:
+  - Bonus armor changed from 15 to 20
+  - Bonus aura armor changed from 10 to 20
+  
+ Slice/Static Amulet:
+  - Bonus armor changed from 5/12 to 10/20
+  
+ Bandoline Blade:
+  - Bonus stats changed from 15 to 10
+  
+ Mozaius Blade:
+  - Bonus stats changed from 60 to 40
+  
+ Soul Stone:
+  - Active damage changed from 200 + 200% to 300 + 250%
+  
+ Soul Collector:
+  - Active damage frm main stat changed from 200% to 300%
+  
+ Boss Soul:
+  - Cost changed from 0 to 10`000 (you can't sell it but it will be used for streak-comeback system)
+  
+ Advanced Midas:
+  - Bonus exp changed from 9 to 6
+  
+ Aghanims Shard:
+  - Cost changed from 9600 to 6300
+  
+Other changes:
+ - Keymasters now drop 1 boss soul instead 0
+ - Possessed now drop 1 boss soul instead 2
+ 
+Fixes:
+ - Crash with charon
+ - Some another crashes
+ - Sand king ultimate cast time
+ - Snapfire aghanim skill and boss killing
+ - Pings on killlimit
+ - Huntress Owl counter fixed
+ - Clinkz fixed
+ - Localization fixes
+ - Juggernaut can't ult to bossess
+ - Fixed creep spawn block with some units
