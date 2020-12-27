@@ -1,0 +1,60 @@
+6.0.1
+Hero changes:
+ Charon:
+  - 1 skill cast point changed from 0 to 0.3
+  - Ultimate damage per mana changed from 1.5 to 1.2
+  
+ Morphling:
+  - Damage mult from adaptive strike changed from 0.75/0.85/0.95/1.0/1.1/1.2/1.3 to 1/1.25/1.5/1.75/2/2.25/2.5
+  
+ Drow Ranger:
+  - Ultimate chance changed from 35% to 15%
+  
+ Undying:
+  - Ultimate damage amplify changed from 80/100/120/140/160/180/200% to 30/35/40/45/50/55/60%
+  
+Item changes:
+ Talisman of mastery:
+  - Expirience from attacks for melee heroes changed frm 48 to 32
+  
+ Life catcher:
+  - Expirience from attacks for melee heroes changed frm 48 to 38
+  
+ Soul stone:
+  - Cooldown changed from 18 to 13
+  
+ Soul collector:
+  - Cooldown changed from 25 to 13
+
+ Mozaius Blade:
+  - Heal per charge changed from 100 to 75
+ 
+ Magic Lamp:
+  - Removed
+  
+Boss changes:
+ Keymaster:
+  - Shadows Support cooldown changed from 6 to 10
+
+ Possessed Demon:
+  - Hellshield cooldown changed from 8 to 12
+ 
+Other changes:
+ - Creep exp changed for:
+  - Lvl 1: 40 -> 60
+  - Lvl 5: 70 -> 100
+  - Lvl 10: 110 -> 135
+  
+ - Creep spawn levels changes:
+  - Lvl 5: Average hero level 2
+  - Lvl 10: Avaerage hero level 5
+  
+ - Ancient Golem damage from meteor rain changed from 1000 to 700
+ - Doors on duel temporary disabled
+ 
+Fixed:
+ - Potential crash with Gun Joe
+ - Infinite crits with doombolt/heavy crossbow
+ - Several creep abilities fixes
+ - Fixed timer on game end
+ - Lina fixed 3 skill & Dimetional Predictor insta kill
