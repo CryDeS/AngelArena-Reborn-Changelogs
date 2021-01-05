@@ -1,3 +1,27 @@
+6.0.1 f3
+Hero changes:
+ Outworld Devouver:
+  - 1 skill manacost changed from 15% to 5%
+  
+Other changes:
+ - Keymaster now have 100% chance to drop boss soul
+ - Boss base gold changed from 5000 to 1000
+ - Boss base exp changed from 5000 to 1000
+ - Boss gold per death changed from 2500 to 500
+ - Boss exp per death changed from 2500 to 500
+ 
+Fixed:
+ - Neutral slot on illusions
+ - Soul Guardian ring now doesnt return damage
+ - Lina 3 skill now ignore blademail damage
+ - Life Catcher
+ - Skelet now can't set zero health with aura
+ - Lifestealer new skill
+ - Doombolt/Heavy crossbow/Azrael Crossbow active ability damage type changed to physical
+ - Hero change shards now breakable
+ - Courier can't use Devour Helm
+ 
+ 
 6.0.1 f2
 Fixed:
  - Duel crash( again fix )
