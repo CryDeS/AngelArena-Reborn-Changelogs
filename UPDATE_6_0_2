@@ -1,0 +1,94 @@
+6.0.2
+Hero Changes:
+ Charon:
+  - 1 skill can be cast from several sources (Charon + Rubick example);
+  - 1 skill not purgeble (hard purge)
+  - Now units can go away from 4 skill. Example: Pudge can save allias from this
+  
+ Lina: 
+  - Fixed 3 skill magic damage problems (example, Dimentical Predictor killed lina)
+  - 3 skill chaned logic and now Lina DON'T have full damage immune. Not can be killed Axe's Ultimate
+  
+ Juggernaut:
+  - Fixed manacost 4 skill
+  
+ Satan:
+  - 1 skill stop work after boss die
+  
+ Reaverlord:
+  - 1 skill stop work after boss die
+  
+ Brewmaster:
+  - 3 skill crit damage changed from 250% to 200%
+  - 3 skill crit change changed from 15/17/19/21/23/25/27 to 18/19/20/21/22/23/24
+  - 3 skill passive dodge chance changed from 25/30/35/40/45/50/55 to 20/22/25/27/30/32/35
+  
+ Phantom assassin:
+  - Agility per level changed from 2.0 to 3.0
+  - Strength per level changed from 1.9 to 2.4
+  - 2 skill attack speed bonus changed from 50/80/110/160/180/210/250 to 70/100/130/160/190/220/250
+  - Base damage changed from 23-25 to 30-32
+  
+ Axe: 
+  - 3 skill basic changed from 20/30/40/50/60/70/80 to 100/130/160/190/220/250/280
+  - 3 skill fixed trigger chance from Aghanim's shard 
+  
+ Hoodwink:
+  - 4 skill max charge time changed from 3.0 to 2.0
+  - 4 skill damage changed from 600/1000/1400/1600/1800/2000/2200 to 1000/1500/2000/2500/3000/3500/4000
+  - 4 skill cooldown changed from 45 to 25
+  
+ Tinker: 
+  - Defense Matrix (by shard) damage absorb changed from 500 to 800
+  
+ Wisp:
+  - 3 skill fixed regen
+ 
+ Luna:
+  - 3 skill damage changed from 20/24/28/32/36/40/45 to 20/35/50/65/80/95/110
+  
+ Rubick: 
+  - 3 skill cast range changed from 75/125/175/225 to 50/90/130/170/210/250/290
+  - 4 skill debuff bonus duration changed from 10/20/30 to 8/13/18/24/29/34/40
+  
+Items changes:
+  Doombolt:
+   - Bonus to stats changed from +8 to +13
+  
+  Aghanim's Shard: 
+   - Cost changed from 6300 to 5800
+   
+  Soul Collector:
+   - Base damage changed from 500 to 900
+      
+Bosses:
+ Soul Guardian: 
+  - Now all skills stop working after boss die
+  
+Creeps:
+ - Neutral stacks with skeleteons and zombie was swapped
+ - Neutral stacks with demons and bears was swapped
+ - Basic exp for ancient stacks in bottom increased on 30% (from 65/90/140/300/350/500/1000/1600/2200/5000 to 85/120/185/390/450/650/1300/2100/2900/6500)
+ - Basic exp for normal stacks changed:
+  > 1 level: from 60 to 50
+  > 5 level: from 100 to 75
+  > 10 level: from 135 to 125
+ - Big satyr passive stun duration changed from 2 sec to 1 sec
+ 
+Other:
+ - Gold for kill streak changed from (400 + 100 * minute) to (200 + 150 * minute)
+ - Base gold per kill changed from 70 to 100
+ 
+Fixes:
+ - Fixed server crashes with some summons (Lycan's wolfs, Venomancer's wards, some else)
+ - Fixed Soul Collector heal
+ - Fixed Soul Stone heal
+ - Fixed Phase Boots 2
+ - Fixed crash with Obsidian Destroyer
+ - Fixed neutral skeleton 3 skill (HP buff)
+ - Some fixes for disabling help
+ - Fixed AI for super creeps: golem and beast
+ - Fixed creep spawners (when corpses blocked creeps spawning)
+ - Fixed Megacreep Beast movespeed buff & unlocks for movespeed
+ - Some fixes fome localization
+ - Fixed talents on client
