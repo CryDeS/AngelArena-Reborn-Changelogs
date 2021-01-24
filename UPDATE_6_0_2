@@ -1,3 +1,50 @@
+6.0.2 f1:
+Hero changes:
+ Abyssal Underlord:
+  - 1 skill cooldown changed from 15/14.5/14/13.5/13/12.5/12 to 12
+  - Ultimate cooldown changed from 60 to 30
+  - 3 skill bonus damage for creep changed from 4 to 15
+  
+ Bristleback:
+  - 1 skill cast point changed from 0.3/0.3/0.3/0.2/0.2/0.2/0.05 to 0.1
+  - 2 skill damage per strength for creeps changed from 0.5 to 2
+  - 2 skill damage per strength for heroes changed from 1.5 to 2
+  
+ Lycan:
+  - 1 skill cooldown changed from 35 to 15
+ 
+ Spectre:
+  - 1 skill manacost changed from 130/140/150/160/180/190/250 to 45/50/55/60/65/70/75
+  - 3 skill damage dispersion changed from 10/12/14/15/16/18/20% to 16/17/18/19/20/21/22%
+  
+ Techies:
+  - 1 skill manacost changed from 100/110/120/130/140/150/160 to 30/40/50/60/70/80/90
+  - 1 skill max charges changed from 3/3/4/4/5/5/6 to 3
+  - 1 skill charge cooldown changed from 10 to 6
+  
+ Leshrac:
+  - 3 skill damage changed from 95/135/175/225/250/300/325 to 100/150/200/250/275/325/350
+  - Ultimate damage from int changed from 30% to 100%
+  
+Item changes:
+ Talisman of Mastery:
+  - Damage to exp melee changed from 7.5% to 15%
+  - Damage to exp ranged changed from 5% to 12%
+  
+ Life catcher:
+  - Damage to exp ranged changed from 10% to 12%
+  
+ Dimensional Predictor:
+  - Bonus strength changed from 14 to 16
+ 
+Fixed:
+ - Gold for streaks
+ - Crash with gun joe
+ - Crash with keymaster
+ - Sand king 2 skill
+ - Shadowsong ultimate and linken sphere
+ 
+
 6.0.2
 Hero Changes:
  Charon:
