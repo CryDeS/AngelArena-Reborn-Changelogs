@@ -1,0 +1,182 @@
+6.0.4
+Hero changes:
+ Huntress:
+  - 1 skill bonus attack range changed from 200/250/300/350/400/450/500 to 50/75/100/125/150/175/200
+  - 2 skill cast range changed from 900 to 600
+  - 2 skill max owl count changed from 1/2/3/4/5/6/7
+  - 2 skill owl vision range changed from 1000 to 700/750/800/850/900/950/1000
+  - 3 skill root duration changed from 1.5 to 1.0
+ 
+ Medusa:
+  - Strength per level changed from 1.8 to 2.8
+  - Agility per level changed from 2.6 to 4.2
+  
+ Shadow Fiend:
+  - 1/2/3 skill duration changed from 8 to 4
+  - 1/2/3 skill damage changed from 100/125/150/175/200/245/280 to 75/85/95/105/115/125/135
+  - 5 skill disarmor changed from 1/2/3/4/5/6/8 to 1/2/3/4/5/6/7
+  - 5 skill disarmor pct changed from 15/17/20/22/24/27/30% to 5/7/9/11/13/15/17%
+  - BAT changed from 1.6 to 1.7
+  - Base movement speed changed from 305 to 295
+  - Base health regen changed from 15 to 2
+  
+ Dark Willow:
+  - Terrorize cooldown changed from 65/60/55/50/45/40/35 to 65
+  - Terrorize cast range changed from 1500 to 1000
+  
+ Naga Siren:
+  - Bonus agility per level changed from 3.2 to 3.0
+  - 3 skill disarmor changed from 6 to 2/3/4/5/6/7/8
+  
+ Faceless Void:
+  - Base agility changed from 28 to 24
+  
+ Riki:
+  - BAT changed from 1.5 to 1.7
+  - 3 skill damage percent changed from 75/83/91/100/108/116/125% to 75%
+  
+ Gun Joe:
+  - Ultimate cooldown changed from 18 to 25
+  
+ Nature Prophet:
+  - Bonus intellect per level changed from 3.5 to 3.2
+  - Bonus agility per level changed from 3.2 to 2.5
+  
+ Templar Assassin:
+  - 1 skill bonus damage changed from 40/45/50/60/70/80/100 to 50/60/70/80/90/100/110
+  - Ultimate cooldown changed from 11/10/8/5/4/3/2 to 3
+  - Psi Trap Teleport cooldown changed from 30 to 20
+  - Psi Trap Teleport channel time changed from 2.0 to 1.5
+  - Bonus agility per level changed from 4.2 to 4.5
+
+ Chen:
+  - Holy Persuation max creatures changed from 2/3/4/5/6/7/8 to 1/2/3/4/5/6/7
+  - Holy Persuation cooldown changed from 9 to 18
+  - Holy Persuation manacost changed from 100 to 150
+  - Holy Persuation bonus movement speed changed from 30 to 15
+  
+ Clinkz:
+  - Death Pact bonus health changed from 60/65/70/75/80/85/90% to 30/35/40/45/50/55/60%
+  
+ Death Prophet:
+  - 1 skill cast time changed from 0.5/0.5/0.5/0.5/0.3/0.2/0.2 to 0.35
+  - Bonus agility per level changed from 3.0 to 2.5
+  
+ Hoodwink:
+  - Ultimate damage changed from 1000/1500/2000/2500/3000/3500/4000 to 700/800/900/1000/1200/1600/2500
+  
+ Spectre:
+  - Base agility changed from 25 to 40
+  - Base movement speed changed from 290 to 300
+  
+Item changes:
+ Trident:
+  - Magical damage by attack changed from 30 to 125
+ 
+ Heart of Tarrasque:
+  - Health regen changed from 10% to 8%
+  
+ Orb of Corrosion:
+  - Delete item
+  
+ Pipe of Insight:
+  - Bonus stats removed
+  
+ Enchanted Skull:
+  - Bonus damage changed from 25 to 20
+  - Disarmor changed from 5 to 4
+ 
+ Corrupted Skull:
+  - Bonus damage changed from 35 to 25
+  - Disarmor changed from 7 to 5
+  
+ Devils Helm:
+  - Bonus damage changed from 70 to 50
+  - Disarmor changed from 12 to 9
+  
+ Sealed Rune:
+  - Bonus damage changed from 30 to 25
+  
+ Mystical Sword:
+  - Bonus damage changed from 30 to 25
+  
+ Damned Swords:
+  - Bonus damage changed from 60 to 50
+  
+ Burning Blades:
+  - Disarmor changed from 20 to 12
+  - Maim damage changed from 225 to 75
+  - Recipe cost changed from 600 to 2600
+  
+ Holy Book 2:
+  - Bonus damage changed from 160 to 45
+  
+ Burning Book:
+  - Disarmor changed from 25 to 12
+  - Bonus agility changed from 110 to 81
+  - Bonus strength changed from 115 to 86
+  - Bonus damage changed from 160 to 145
+  
+ Demons Fury:
+  - Disarmor changed from 25 to 14
+  - Bonus damage changed from 200 to 175
+  - Bonus agility changed from 105 to 76
+  - Bonus strength changed from 105 to 76
+  
+ Battle Fury 2:
+  - Bonus damage changed from 85 to 75
+  
+ Heavy Crossbow:
+  - Bonus damage changed from 85 to 40
+  - Bonus stats changed from 25 to 18
+  - Critical damage changed from 225% to 200%
+  
+ Azrael Crossbow:
+  - Bonus damage changed from 125 to 60
+  - Recipe cost changed from 500 to 5000
+  - Critical damage changed from 300% to 250%
+  
+ Poor man shield:
+  - Bonus agility changed from 15 to 5
+  
+ Tango:
+  - Health regen changed from 15 to 17
+  
+ Smoke of Deceit:
+  - Cooldown changed from 90 to 75
+  - Max charges in shop changed from 1 to 2
+  
+Other changes:
+ - Demon Warrior rupture cooldown changed from 35 to 15
+ - Demon Warrior rupture duration changed from 15 to 5
+ - Creep health changed:
+  -  5 lvl: 750  -> 600
+  - 10 lvl: 1000 -> 750
+  - 15 lvl: 2000 -> 900
+  - 20 lvl: 3000 -> 1200
+  - 25 lvl: 4000 -> 1500
+ - Reduced gold reward for all neutral creeps in 20%
+ 
+Fixed:
+ - Cursed orb bonus stats
+ - Possessed demon curse doesnt work into lotus
+ - Radiance in neutral slot
+ - Heavens Halberd 2 localization
+ - Crash with Azrael Crossbow
+ - Crash with Keymaster
+ - Big Wolf bite cooldown
+ - Creeps skills that works in game pause
+ - Outworld Devouver 3 skill
+ - Wisp ultimate
+ - Templar Assassin psi-blades through all map
+ - Forest bear rage localization
+ - Forest bear rage cooldown
+ - Skeleton bone throwing fixed stun duration
+ - Fixed some boss AI problems
+ - Fixed some crashes with dragon reflect spell
+ - Soul Collector, Life Catcher, Soul Stone now have shared cooldown
+ - Void stick, Charon Scepter, Wind Waker, Eul Scepter now have shared cooldown
+ - Phase boots localization
+ - Fixed abyssal blade 2 localization
+ - Minor map changes
+ 
