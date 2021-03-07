@@ -1,0 +1,102 @@
+6.0.5
+Hero changes:
+ Medusa:
+  - Intellect per level changed from 1.6 to 3.0
+  - Base movement speed changed from 295 to 300
+  
+ Enigma:
+  - 2 skill damage changed from 20/35/55/75/95/115/135 to 30/40/50/60/75/90/110
+  - 3 skill damage chagned from 2/3/4/5.5/5/5.5/6% to 5/5.5/6/6.5/7/7.5/8%
+  - Ultimate damage changed from 65/100/125/150/175/200/250 to 100/150/175/225/250/275/300
+  
+ Rikimaru:
+  - 1 skill missrate changed from 70/75/80/85/90/95/100% to 70%
+  
+ Phanthom Lancer:
+  - 1 skill cooldown changed from 10 to 8
+  - Ultimate illusion count changed from 4 to 6
+  - Agility per level changed from 3.0 to 3.5
+  
+ Tiny:
+  - Tree Grab removed speed reduction
+  - Tree Grab splash changed from 10/12/15/18/20/22/25% to 45%
+  
+ Templar Assassin:
+  - 1 skill bonus damage changed from 50/60/70/80/90/100/110 to 50/65/80/95/110/125/140
+  
+ Lifestealer:
+  - Feast bonsu attack speed changed from 25/37/50/62/75/87/100 to 40/60/80/100/120/140/160
+  
+ Weaver:
+  - 2 skill bonus speed changed from 225 to 200
+  
+ Tidehunter:
+  - 2 skill block changed from 22/34/42/64/74/85/96 to 25/40/55/70/85/100/115
+  
+ Gyrocopter:
+  - 3 skill damage radius changed from 700 to 1200
+  
+ Earthshaker:
+  - 2 skill bonus damage changed from 300/400/500/600/700/800/900% to 300/350/400/450/500/550/600%
+  - Strength per level changed from 3.7 to 4.0
+  - Agility per level changed from 1.4 to 2.4
+  
+ Morphling:
+  - 2 skill damage min changed from 0.25 to 1
+  - 2 skill damage max changed from 1/1.25/1.5/1.75/2/2.25/2.5 to 3
+  - Strengh per level changed from 2.4 to 3.0
+  - Agility per level changed from 3.0 to 4.0
+  
+ Forgotten Hero:
+  - Ultimate cooldown chagned from 30 to 45
+  
+ Pudge:
+  - 2 skill damage from strength now doesn't apply for caster
+  
+Item changes:
+ Heart of Tarrasque:
+  - Passive heal changed from 8% to 7%
+  
+ Battle Fury 2:
+  - Health regen changed from 12 to 30
+
+ Death Shield:
+  - Recipe cost changed from 2515 to 2200
+
+ Rebels Sword:
+  - Max disarmor changed from 70% to 40%
+  - Bonus attack speed changed from 80 to 20
+  - Bonus all stats changed from 35 to 5
+  - Bonus damage changed from 110 to 50
+
+ Phase Boots 2:
+  - Recipe cost changed from 2680 to 1000 
+ 
+ Phase Boots 3:
+  - Recipe cost changed from 6610 to 2000
+ 
+ Heavy Crossbow:
+  - Stun duration changed from 1.5 to 0.5
+  
+ Mask of Reaper:
+  - Bonus armor changed from 4 to 12
+  - Bonus damage changed from 25% to 50%
+  
+ Radiance 1/2/3:
+  - Bonus damage from stats changed from 0.0/0.1/0.2 to 0.5/0.75/1
+  
+Other changes:
+ - Enabled ban for leaving game
+ - Possessed Demon base health changed from 15'000 to 20'000
+ - Now last duel respawn all heroes on both teams
+ 
+Fixed:
+ - Medusa strength
+ - Shiva 2 hp degen
+ - Kill limit and last duel bug( when you get enough kill on duel and that duel aumaticly converts to last duel)
+ - Devour Helm and buildings
+ - Fireblade 1 skill with talent and any motion controller interruption
+ - Doombolt & Heavy Crossbow & Azrael Crossbow critical hits when caster is in invul
+ - Burning blades/Damned Swords/Burning Book attack slow localization
+ - Arc warden now can't clone Devour Helm
+ 
