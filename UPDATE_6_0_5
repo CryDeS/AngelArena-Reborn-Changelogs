@@ -1,4 +1,84 @@
-6.0.5 f1
+6.0.5 f2:
+Hero changes:
+ Ancient Apparation:
+  - 3 skill manacost changed from 45/55/65/75/85/95/105 to 45
+  
+ Joe Black:
+  - 1 skill cast time changed from 0.452 to 0.2
+  - Bonus strength per level changed from 2.4 to 3.0
+  - Main attribute changed to intellect
+  - Intellect per level changed from 3.0 to 3.5
+  - Ultimate now apply damage on debuff start
+  - Ultimate damage changed from 300/400/500/600/700/800/900 to 600/700/800/900/1000/1100/1200
+
+ Dark Willow:
+  - BAT changed from 1.5 to 1.7
+  - Agility per level changed from 2.6 to 2.8
+  - 2 skill bonus cast range changed from 350/375/400/425/450/475/500 to 350
+  - 2 skill max damage duration changed from 3.5 to 4
+  - 2 skill mana cost changed from 100 to 100/125/150/175/200/225/250
+  
+ Charon:
+  - 2 skill cast time changed from 0.0 to 0.3
+  - Ultimate cast time changed from 0.0 to 0.5
+  
+ Elder Titan:
+  - 3 skill magical resist changed from 12/19/24/28/30/32/34% to 40/50/60/70/80/90/100%
+  - 3 skill radius changed from 375 to 500
+ 
+ Luna:
+  - Agility per level changed from 3.2 to 2.7
+  - Base damage changed from 32-34 to 26-28
+  
+ Alchemist:
+  - Ultimate bat changed from 1.6/1.57/1.55/1.53/1.5/1.45/1.4 to 1.3/1.25/1.2/1.15/1.1/1.05/1
+  
+ Tinker:
+  - 1 skill cooldown changed from 14 to 12
+  - Ultimate cast time changed from 0.53/0.5/0.45/0.40/0.2/0.15/0.1 to 0.1
+  
+  - Shrink Ray health scale changed from 25% to 15%
+  
+Item changes: 
+ Heart of Tarrasque 2:
+  - Bonus strength changed from 140 to 80
+  - Bonus health chagned from 800 to 600
+ 
+ Abyssal Blade:
+  - Block chance changed from 50% to 100%
+  - Bonus damage changed from 25/75 to 50/75
+  - Bonus strength changed from 10/32 to 15/35
+  
+ Bullwhip:
+  - Bonus health/mana regen chagned from 3 to 15
+  - Cooldown changed from 12 to 3
+  - Duration changed from 5 to 8
+  
+ Trusty Shovel:
+  - Kobold damage changed from 10-11 to 100-100
+  - Kobold health changed from 240 to 1000
+  - Kobold bonus exp changed from 19 to 200
+  - Kobolt bonus gold changed from 6-8 to 100-200
+  
+ Huntress Shard:
+  - Bonus damage changed from 200 to 50
+  - Bonus attack speed changed from 200 to 50
+  
+ Satan Shard:
+  - Bonus movement speed changed from 110 to 25
+
+ Angel Greaves:
+  - Recipe cost changed from 0 to 1000
+  
+ Death Mask:
+  - Recipe cost changed from 0 to 1000
+  
+Fixed:
+ - Radiance in last patch
+ - Minor creep fixes
+ 
+ 
+ 6.0.5 f1
 Hero changes:
  Morphling:
   - Agility gain per level changed from 4.0 to 3.5
