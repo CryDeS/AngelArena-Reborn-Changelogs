@@ -1,0 +1,198 @@
+6.0.6
+Hero changes:
+ Ancient Apparation:
+  - 3 skill damage changed from 50/85/120/155/200/250/300 to 50/85/120/155/200/250/275
+ 
+ Batrider:
+  - 1 skill manacost changed from 20/25/30/35/40/45/50 to 20
+  - 1 skill bonus damage changed from 10/13/17/19/20/22/25 to 10/15/20/22/25/27/30
+  - 2 skill cooldown changed from 15 to 13
+  
+ Bounty Hunter:
+  - Ultimate manacost changed from 100/200/250/300/375/450/600 to 50/75/100/125/150/175/200
+  
+ Tinker:
+  - 1 skill cast point changed from 0.15 to 0.4
+  - 1 skill miss rate changed from 100% to 70%
+  - 1 skill manacost changed from 95/100/105/110/115/120/125 to 125/135/145/155/165/175/185
+  - 2 skill manacost changed from 80/100/120/140/160/180/200 to 80/90/100/110/120/130/140
+  - 2 skill damage changed from 135/207/280/352/425/497/570 to 135/210/280/360/425/500/570
+  - Hola/Huntress/Joe Black/Satan shard is not refreshable now
+
+ Disruptor:
+  - 2 skill manacost changed from 100/125/150/175/200/225/250 to 100/115/130/145/160/185/200
+ 
+ Dragon Knight:
+  - 1 skill damage changed from 90/150/225/285/335/375/425 to 125/200/250/325/425/550/600
+  - Ultimate cooldown chagned from 90 to 75
+  
+ Forgotten Hero:
+  - 1 skill cooldown changed from 16/15.5/15/15.4/14/13.5/13 to 13
+  - 1 skill damage changed from 100/175/225/300/350/475/625 to 125/200/250/300/350/475/625
+  
+ Treant Protector:
+  - 1 skill manacost changed from 80/96/113/130/146/163/180 to 80/90/100/110/120/130/140
+  - 2 skill manacost changed from 100/110/120/130/140/150/160 to 100/105/110/115/120/125/130
+  
+ Techies:
+  - 1 skill damage changed from 200/250/300/350/400/450/500 to 200/300/400/500/575/625/675
+  - 1 skill bulding damage pct changed from 25% to 50%
+  
+ Timbersaw:
+  - Strength per level changed from 2.2 to 3.0
+  
+ Tidehunter:
+  - 1 skill slow changed from -60/62/64/66/68/70/72% to -30/35/37/40/42/45/50%
+  
+ Enigma:
+  - 2 skill cooldown changed from 30 to 35
+  
+ Gun Joe:
+  - Ultimate stun duration changed from 2/2.2/2.4/2.6/2.8/3/3.2 to 2
+  
+ Phoenix:
+  - Sun Ray heal changed from 7/10/13/16/20/25/35 to 10/12/14/16/20/25/35
+  
+ Shadowsong:
+  - 25 lvl talent +25 agility changed to 100% cleave
+  
+ Slardar:
+  - Ultimate disarmor pct removed
+  - Ultimate cast range changed from 700 to 1200
+  
+ Spike:
+  - Talent damage from creep changed from 1 to 5
+  
+ Spectre:
+  - Base damage chaged from 33-37 to 20-22
+  - Base armor changed from 2 to 0
+  
+ Undying:
+  - 2 skill cooldown changed from 2 to 4
+  - 3 skill radius changed from 600/650/700/750 to 750
+  - 3 skill cooldown changed from 60 to 50
+  
+ Wraith King:
+  - 3 skill damage changed from 150/175/200/225/250/275/300% to 200/225/250/275/300/325/350%
+  
+ Mars:
+  - Ultimate formation time changed from 0.6 to 0.3
+  
+ Naga Siren:
+  - Ultimate radius changed from 1250 to 1000
+  
+ Fireblade:
+  - Talent 'Scorched blade applies silence' cooldown changed from 8 to 4
+  - Talent 'Scorched blade applies silence' also mute items now
+  - 10 lvl talent 'Fiery Stream blink' moved to 20 lvl
+  - 20 lvl talent 'Burn Offering' moved to 25 lvl
+  - 25 lvl talent 'Scorched blades applies silence and break' moved to 10 lvl
+  - 2 skill damage changed from 100/180/275/375/485/550/620 to 100/160/250/350/450/500/575
+  - Ultimate cast time changed from 0.0 to 0.5
+  - Ultimate radius changed from 300 to 500
+  - Ultimate damage changed from 325/480/625/850/920/1000/1125 to 300/450/550/750/850/950/1050
+  
+ Reaver Lord:
+  - Superiority Instinct bonus damage per soul changed from 1.0/1.5/1.7/1.9/2.1/2.3/2.5% to 1/1.5/2/2.5/3/3.5/4
+  - Superiority Instinct lifesteal changed from 7% to 10%
+  - Souls per creep changed from 3 to 2
+  - Max souls changed from 2/4/6/7/8/10/12 to 2/3/4/5/6/7/8
+  
+ Zeus:
+  - 2 skill damage changed from 100/155/225/300/450/500/525 to 125/200/250/325/475/525/575
+  
+Item changes:
+ Snake boots:
+  - Bonus movement speed changed from 130 to 100
+ 
+ Spiked Armor:
+  - Bonus attack speed aura changed from 40 to 60
+  
+ Soul Merchant:
+  - Craft changed from Recipe(50) + 2xFury Shield + Demons Edge + Vitality Booster to Recipe(1930) + Knight Talisman + Demons Edge + Vitality Booster
+  
+ Aghanims Shard:
+  - Cost changed from 5800 to 3800
+
+ Possessed Sword:
+  - Bonus damage changed from 180 to 48
+  - Bonus attack speed changed from 45 to 44
+  
+ Kings Bar:
+  - Cooldown changed from 45 to 60
+  - Bonus damage changed from 150 to 100
+  
+ Vanguard:
+  - Bonus Health changed from 250 to 400
+  
+ Sacred Blades:
+  - Craft changed from Recipe(200) + 2xDiffusial Blade to Recipe(1650) + Diffusial Blade
+  
+ Heaven Halberd 1/2:
+  - Duration for ranged changed from 3/3.5 to 3.5/4
+  
+ Holy Locket:
+  - Bonus health regen changed from 4.5 to 10
+  
+ Radiance 1/2/3:
+  - Bonus damage from stats changed from 0.1/0.22/0.45 to 0.1/0.2/0.3
+  
+ Armlet 1/2/3:
+  - Bonus damage changed from 12/85/120 to 12/75/100
+  - Bonus attack speed changed from 25/55/105 to 25/35/55
+  
+ Ironwood Tree:
+  - Bonus stats changed from 10 to 8
+  
+ Ocean Heart:
+  - Bonus all stats changed from 8 to 5
+  
+ Arcane Ring:
+  - Bonus int changed from 8 to 5
+  
+Neutral creep changes:
+ Normal creeps:
+  - 20 lvl health changed from 1200 to 1000
+  - 25 lvl health changed from 1500 to 1150
+  - 40 lvl health changed from 5000 to 1250
+  - 60 lvl health changed from 6000 to 1500
+  - 80 lvl health changed from 7000 to 1750
+  - 100 lvl health changvevd from 8000 to 2000
+  
+ Ancient creeps:
+  - 1 lvl health changed from 750 to 600
+  - 5 lvl health changed frm 1000 to 750
+  - 10 lvl health changed from 1250 to 900
+  - 15 lvl health changed from 2500 to 1000
+  - 20 lvl health cahnged from 3500 to 1150
+  - 25 lvl health changed from 5000 to 1250
+  - 40 lvl health changed from 6000 to 1500
+  - 60 lvl health changed from 7000 to 1750
+  - 80 lvl health changed from 8000 to 2000
+  - 100 lvl health changed from 10000 to 2250
+  
+ Beast creeps:
+  - 1 lvl health changed from 950 to 750
+  - 5 lvl health changed from 1250 to 900
+  - 10 lvl health changed from 1750 to 1000
+  - 15 lvl health changed from 2500 to 1150
+  - 20 lvl health changed from 3500 to 1250
+  - 25 lvl health changed from 5000 to 1500
+  - 40 lvl health changed from 7500 to 1750
+  - 60 lvl health changed from 10000 to 2000
+  - 80 lvl health changed from 12500 to 2250
+  - 100 lvl health changed from 25000 to 2500
+
+Other changes:
+ - Harpy neutral stack and Ghost neutral stack swapped
+ 
+Fixed:
+ - Elder Titan fixed
+ - Hola Shard
+ - Probably fixed afk-disconnecting in game start
+ - Captains mode map disabled
+ - Possessed Demon curse icon
+ - Some localization fixes
+ - Slardar ultimate
+ - Sand king 2 skill channel fixed
+ 
