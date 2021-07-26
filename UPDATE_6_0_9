@@ -1,0 +1,514 @@
+Update 6.0.9
+
+Hero changes:
+Abaddon: 
+	-Mist coil self damage changed from 75/100/150/200/275/325/350 to 30/35/40/45/50/55/60
+	-Borrowed Time ally treshold scepter reduced from 750 to 700
+	
+Alchemist:
+	-Acid spray radius changed from 325/350/375/425/450/550/625 to 400/425/450/475/500/525/575 
+	-Unstable Concoction min stun reduced from 2 to 1
+	-Chemical rage regen changed from 75/90/105/120/135/150/175 to 60/80/110/125/150/175/210
+	-Chemical rage movespeed changed to 20/25/30/40/50/55/60 to 30/35/40/45/50/55/60
+	-Berserk Potion cooldown reduced from 45 to 35
+
+Ancient apparition:
+	-Cold feet damage changed from	40/60/80/100/110/120/130 to 45/65/85/105/125/145/165  
+	-Cold feet cast range changed from 650 to 650/675/700/725/750/775/800
+	-Cold feet damage percent increased from 25 to 50
+	-Cold feet stun duration changed from 3.5 to 2.0/2.2/2.4/2.6/2.8/3.0/3.4
+	-Ice vortex coldown changed from 6 to 5 
+	-Chilling touch damage changed from 50/85/120/155/200/250/275 to 50/85/120/160/180/200/230
+	-Chilling touch atack range changed from 350 to 250
+	-Chilling touch manacost changed from 45 to 50/55/60/65/70/75/80
+	-Ice blast manacost changed from 100/125/150/170/190/210/230 to 125/150/175/200/225/250/325
+
+Arc Warden:
+	-Flux cast range changed from 900 to 650/675/700/725/750/775/800
+	-Flux seatch radius changed from 300 to 250 
+	-Flux movespeed slow changed from 25% to 25%/27%/30%/32%/35%/38%/40% 
+	-Magnetic Field cooldown reduced from 14 to 12
+	-Spark Wraith speed reduced from 600 to 500
+	-Tempest double manacost changed from 200/170/140/100/70/30/0 to 50/85/110/135/180/220/245
+	
+Axe:
+	-Battle Hunger damage percent increased from 25% to 50%
+	-Counter helix damage changed from 100/130/160/190/220/250/280 to 60/90/120/140/155/185/210
+	-Counter helix damage per atack changed from 1.0/1.1/1.2/1.3/1.4/1.5/1.6 to 0.6/0.7/0.8/0.9/1.0/1.1/1.2
+	Culling Blade attack speed bonus changed from 90 to 50/65/80/110/125/140/150
+
+Bane:
+	-Brain sap percent damage changed from 200 to 150 
+	-Nightmare cast point changed from 0.2 to 0.4
+	-Fiends grip coldown changed from 60 to 90 
+
+Batrider:
+	-Sticky napalm movespeed slow changed from -3/-5/-6/-7/-8/-9/-10 to -3/-4/-5/-6/-7/-8/-9
+	-Sticky napalm turnrate changed from -35 to -30/-35/-40/-45/-50/-55/-60
+	-Flamebreak damage per second changed from 50 to 40/44/48/52/56/60/65 
+	-Flamebreak manacost changed from 110/130/150/170/190/210/230 to 75/90/120/135/165/180/200
+	-Firefly manacost changed from 125/150/175/210/245/290/350 to 90/120/145/170/195/215/240
+	-Flaming lasso coldown changed from 60 to 70
+	-Flaming lasso manacost changed from 225/265/315/365/415/475/600 175/225/265/300/335/375/525
+	
+Beastmaster:
+	-Wild axes manacost changed from 125 to 90 
+	-Primal roar coldown changed from 65 to 75
+	
+Bounty hunter:
+	-Shuricen toss coldown 6 to 8.5 
+	-Shuricen toss bounce aoe changed from 600 to 800
+	-Shuricen toss scepter coldown 4.5 to 6.0 
+	-Wind walk movespeed slow duration from 3.0/3.2/3.4/3.6/3.8/4.0/4.2 to 3.6
+	-Wind walk movespeed slow changed from 30 to 30/32/35/37/39/41/45
+
+Brewmaster
+	-Cinder brew coldown changed from 6 to 8
+	-Drunken brawler crit multiplayer changed from 2.0 to 2.5 
+	
+Bristleback:
+	-Viscous nasal goo base movespeed slow changed from 10 to 17 
+	-Viscous nasal goo movespeed slow per stack changed from 7 to 3/4/5/6/7/8/9
+	-Quill spray radius changed from 540 to 700 
+	-Bristleback quill realese thresshold from 400/375/350/325/300/275/250 to 325
+	-Warpath damage per stack changed from 30/33/36/39/42/45/48 to 24/27/30/33/36/39/42
+	-Warpath stacks changed 3/4/5/6/7/8/9 to 4/5/6/7/8/9/10
+	-Warpath stack duration from 30 to 20
+	
+Broodmother:
+	-Spin web charge restore time changed from 15 to 25 
+	
+Clockwerk:
+	-Battery assault coldown changed from 28.0 to 28.0/26.0/24.0/22.0/21.0/20.0/19.0
+	-Battery assault percent damage changed from 15 to 25
+	-Hookshot stun duration changed from 1.0/1.6/1.8/2.0/2.4/2.8/3.0 to 1.5/1.75/2.0/2.25/2.50/2.75/3.0
+	
+Dragon Knight:
+	-Elder dragon form coldown changed from 70 to 65
+	-Elder dragon form duration changed from 30 to 35 
+	-Elder dragon form corosive breath damage changed from 20/30/40/60 to 30/45/65/90
+	-Elder dragon form freeze atack speed changed from 60/60/60/120 to 90/90/90/150
+
+Elder Titan*:
+	-Earth splitter crack time changed from 3.14 to 2.71
+	
+Faceless Void:
+	-Time Lock chance percent changed from 8%/10%/12%/14%/16%/18%/20% to 10%/12%/14%/16%/18%/20%/22%
+	-Time Lock damage changed from 50 to 30/40/50/60/70/80/90
+
+Fireblade:
+	-Base agility increased from 25 to 27
+	-Talent 20 lvl fire stream blink and talent 15 lvl firestrip spell immune were swapped
+Grimstroke:
+	-Ink Swell max damage reduced from 250/300/350/400/500/550/600 to 190/240/290/340/390/440/500
+	-Ink Swell max stun duration changed from 1.5 to 1.4/1.5/1.6/1.7/1.8/1.9/2.0
+Gyrocopter:
+	-Homing Missle damage reduced from 225/350/420/520/650/750/950 to 180/250/330/400/500/600/750
+	-Flak Cannon cooldown reduced from 30 to 25
+	-Flak Cannon manacost changed from 50/62/73/85/97/108/120 to 50/60/70/80/90/100/110
+Huskar:
+	-Inner Fire disarm duration reduced from 1.75/2/2.25/2.75/3.25/4/5 to 1.6/1.9/2.2/2.5/2.8/3.4/4.0
+	- Burning Spear health cost reduced from 3.0%/3.3%/3.7%/4.0%/4.3%/4.7%/5.0% to 1.8%/2.1%/2.4%/2.7%/3.0%/3.3%/3.6%
+Invoker:
+	-Ice Wall slow changed from -20%/-40%/-60%/-80%/-100%/-120/-140/-160 to -25%/-35%/-45%/-55%/-70%/-85%/-100%
+	-Alacrity bonus attack speed increased from 20/30/40/50/60/70/80/90 to 30/40/50/60/70/80/90/100
+	-Alacrity manacost reduced from 125 to 90
+	-EMP area of effect increased from 550 to 600 
+Juggernaut:
+	-Healing Ward cooldown increased from 45 to 55
+	-Blade Dance crit chance increased from 10%/14%/16%/18%/20%/24%/28% to 17%/19%/21%/24%/27%/30%/33%
+	-Blade Dance crit damage reduced from 200% to 190%
+	-Omnislash attack speed multiplier reduced from 2 to 1.7
+	-Omnislash bonus attack speed changed from 40 to 35/40/45/50/60/80/100
+	-Omnislash duration changed from 3/3.3/3.6/3.9/4.4/4.9/5.5 to 3.0/3.3/3.6/3.9/4.2/4.5/4.8
+Kunkka:
+	-Torrent cast range increased from 1100 to 1300
+	-Tidebringer cooldown increased from 2 to 4.2/4.0/3.8/3.6/3.4/3.2/3.0
+	-Tidebringer bonus damage changed from 65/75/85/95/115/135/150 to 45/55/70/85/105/130/160
+	-X Marks the Spot cast range reduced from 600/800/1000/1100/1200/1400/1600 to 500/650/800/950/1100/1250/1400
+	-X Marks the Spot manacost changed from 60/50/40/30/20/10/0 to 40
+	-X Marks the Spot duration reduced from 6 to 4.5
+	-X Marks the Spot allied duration reduced from 12 to 9
+	-Torrent Storm cooldown reduced from 75 to 70
+	-Torrent Storm torrent interval reduced from 0.5 to 0.4
+	-Torrent Storm duration increased from 5.5 to 6.0
+	-Torrent Storm torrent max distance increased from 750 to 900
+Legion Commander:
+	-Moment of Courage cooldown increased from 0.7/0.6/0.5/0.4/0.3/0.2/0.1 to 1.5/1.2/1.0/0.8/0.5/0.3/0.15
+	-Moment of Courage hp leech percent increased from 15%/20%/23%/25%/30%/32%/45% to 25%/30%/35%/40%/45%/50%/60%
+	-Duel cooldown changed from 60 to 60/59/58/57/55/53/50
+	-Duel reward damage changed from 40/47/55/62/70/77/85 to 25/36/47/58/70/80/90
+Leshrac:
+	-Pulse Nova manacost changed from 10/28/47/65/83/102/120 to 20/35/50/65/85/105/125
+	-Pulse Nova damage changed from 100/130/150/220/350/425/480 to 100/150/200/255/320/395/480
+Lich:
+	- Frost Shield radius increased from 350 to 425
+	- Sinister Gaze manadrain changed from 25%/27%/30%/33%/35%/38%/41% to 20%/25%/30%/35%/40%/45%/50%
+	-Chain Frost cooldown increased from 55 to 60
+	-Chain Frost damage changed from 300/375/475/525/625/725/750 to 300/375/450/525/600/675/750
+	-Chain Frost jump range increased from 575 to 600
+	-Chain frost slow movespeed changed from 30% to 25%/27%/30%/33%/35%/37%/40%
+	-Chain Frost slow attack speed changed from 30 to 30/35/45/55/70/85/100
+	Chain Frost bonus jump damage reduced from 75/95/116/137/158/179/200 to 60/80/100/120/140/160/180
+Lifestealer:
+	-Rage manacost changed from 75 to 90/105/120/135/150/165/180
+	-Rage cooldown increased from 16 to 19
+	-Rage movespeed bonus reduced from 20%/25%/30%/35%/40%/45%/50% to 10%/13%/16%/19%/22%/25%/30%
+	-Rage duration reduced from 3.0/3.5/4.0/4.5/5.0/5.5/6.0 to 3.0/3.3/3.6/3.9/4.3/4.6/5.0
+	-Feast hp leech percent changed from 3.5%/4.0%/4.5%/5.0%/5.5%/6.0%/6.5% to 2.5%/2.8%/3.1%/3.5%/3.9%/4.2%/4.5%
+	-Feast percent damage changed from 1.1/1.6/2.1/2.6/3.1/3.6/4.1 to 1.0/1.3/1.6/2.0/2.4/2.8/3.2
+	-Gnoul frenzy atack speed changed from 40/60/80/100/120/140/160 to 40/60/75/90/115/125/140
+	-Infest manacost changed from 50 to 65/90/115/140/155/180/225
+	-Infest bonus movespeed reduced from 20%/25%/30%/35%/40%/45%/50% to 10%/13%/16%/19%/22%/25%/30%
+Lina:	
+	-Dragon Slave damage changed from 150/180/220/320/380/400/450 to 135/155/200/255/320/385/450
+	-Dragon Slave damage percent reduced from 100% to 90%
+	-Light Strike Array damage reduced from 120/180/240/280/320/360/480 to 110/140/180/230/290/360/440
+	-Light Strike Array damage percent reduced from 100% to 90%
+	-Laguna Blade cast range reduced from 900 to 750
+	-Laguna Blade cooldown cnahged from 70/65/60/55/50/45/40 to 60/58/56/54/52/51/50
+	-Laguna Blade damage reduced from 450/600/750/900/1000/1100/1200 to 400/525/650/775/900/1025/1150
+	-Laguna Blade cast range scepter reduced from 900 to 350
+	-Laguna Blade damage percent reduced from 350% to 300%
+Lone Druid:
+	-Summon Spirit Bear manacost changed from 75/55/25/0 to 50
+	-Summon Spirit Bear armor changed from 3/5/7/10 to 4/6/8/10
+	-Summon Spirit Bear hp changed from 1000/1200/1300/1400 to 1000/1300/1600/1900
+	-Summon Spirit Bear health regen increased from 2/3/4/5 to 5/7/9/11
+	-Summon Spirit Bear BAT reduced from 1.7 to 1.6
+	-Spirit Bear Entagling Claws cooldown reduced from 5 to 4
+	-Spirit Bear Entagling Claws damage reduced from 150 to 120
+	-Spirit Link lifesteal percent changed from 25%/29%/33%/37%/41%/45%/50% to 25%/30%/35%/40%/45%/50%/60%
+	-Separation of Souls bear bonus attack reduced from 50% to 45%
+	-True Form cooldown increased from 60 to 90
+	-True Form Bonus armor increased from 4/6/8/12/14/16/18 to 5/8/12/16/20/24/28
+	-True Form bonus hp increased from 300/600/900/1200/1600/2200/2500 to 400/700/1100/1600/2200/2800/3500
+Luna:
+	-Lucent Beam cast range increased from 700 to 800
+	-Lucent Beam cast point reduced from 0.6 to 0.4
+	-Lucent Beam manacost reduced from 90/100/110/120/130/140/150 to 70/80/90/100/110/120/130
+    -Lucent Beam stun duration increased from 0.6 to 0.75
+	-Eclipse cooldown changed from 60 to 65/63/61/59/56/53/50
+	-Eclipse hit count increased from 4 to 5
+	-Eclipse beams changed from 5/6/7/8/10/12/14 to 6/7/8/9/10/12/14
+Lycan:
+	- Feral Impulse bonus damage reduced from 40%/50%/60%/70%/80%/90%/100% to 30%/35%/40%/45%/50%/60%/70%
+	-Feral impulse bonus hp regen changed from 20/25/30/35/40/45/50 to 14/21/28/35/42/49/56
+Magnus:
+	-Empower duration changed from 60 to 34/38/42/46/50/55/60
+	-Empower self multiplier reduced from 75% to 50%
+	-Skewer attack slow reduced from 30/66/103/140/176/213/250 to 25/45/65/86/105/125/145
+	-Reverse Polarity damage reduced from 375/425/525/650/720/850/1000 to 175/275/375/475/575/675/800
+	-Reverse Polarity duration changed from 2.0/2.25/2.5/2.75/3.0/3.25/3.5 to 2.0/2.3/2.6/2.9/3.2/3.5/3.8
+	
+Mars:
+	-Spear of Mars danage changed from 200/250/285/325/375/575/620 to 180/250/320/390/470/560/650
+
+Medusa:
+	-Split Shot damage changed from 70%/75%/80%/90%/100%/110%/120% to 65%/70%/75%/80%/90%/100%/110%
+	-Split Shot arrow count increased from 2 to 3
+	-Mana Shield damage per mana changed from 0.5/0.7/0.9/1.0/1.1/1.2/1.4 to 0.9 1.0 1.1 1.2 1.4 1.6 1.8
+Morphling:
+	-Waveform cast range reduced from 1200 to 1000
+	-Adaptive Strike agility damage reduced from 100/140/180/220/260/300/340 to 70/105/140/175/210/245/280
+	-Adaptive Strike strength knockback max distance increased from 300 to 450
+Naga Siren:
+	-Rip Tide damage percent changed from 100 to 80
+Natures Prophet:
+	-Agility gain changed from 2.5 to 2.1
+	-Strength gain changed from 2.9 to 2.1
+	-Intellect gain changed from 3.2 to 3.0
+	-Nature's call max treants changed from 3/4/5/6/7/8/10 to 3/3/4/4/5/6/7
+	-Wrath of Nature coldown changed from 40 to 50 
+	-Wrath of Nature damage changed from 200/350/500/700/800/900/1000 to 120/240/360/480/600/750/1150
+Pangolier:
+	-Strength gayn changed from 3.5 to 2.6
+	-Agility gayn changed from 2.8 to 3.4
+	-Swashbuckle damage changed from 45/50/65/80/90/100/125 to 35/45/55/70/85/100/115
+	-Swashbuckle hit count changed from 5 to 6
+	-Lucky Shot slow changed from 35 to 45 
+Queen of Pain:
+	-Shadow Strike duration changed from 4 to 5
+	-Shadow Strike damage changed 50/55/60/75/95/120/150 to 35/45/55/70/85/105/130
+	-Sonic Wave scepter coldown changed from 35 to 30
+Razor:
+	-Attack damage min/max changed from 30/44 to 34/41
+	-Base agility increased from 21 to 27
+	-Plazma Field min_max damage changed from 30/70/100/115/125/180/200 ; 70/100/150/200/275/325/350 to 70/90/110/125/150/175/225 ; 100/115/150/200/300/350/400
+	-Static Link coldown changed from 20/19/18/17/16/15/14 to 25/24/23/22/21/20/19
+	-Static Link drain damage changed from 8/12/18/24/34/40/54 to 9/13/20/28/36/45/56
+	-Unstable Current movespeed increased from 10%/12%/15%/17%/20%/22%/25% to 15%/17%/19%/21%/24%/27%/30%
+Reaver Lord
+ -Base strenght reduced from 25 to 18
+ -Base agility increased from 18 to 23
+ -Talent 10 lvl "+6 strenght" was replaced by "+15 movespeed"
+ -Talent 15 lvl "+20 attack speed" was replaced by "+15 agility"
+ -Talent 15 lvl "+250 hp" increased to "+450 hp"
+ -Talent 20 lvl "+10 all stats" increased to "+12 all stats"
+ -Superiority Instinct lifesteal increased from 10% to 20%
+ -Attract & Destroy damage percent increased from 5% to 8%
+ -Attract & Destroy stun duration increased from 1.2/1.4/1.6/1.8/2.0/2.2/2.4 to 1.4/1.6/1.8/2.0/2.2/2.4/2.6
+ 
+Riki:
+	-Cloak and Dagger backstab damage multiplier reduced from 1.4/1.6/1.7/1.8/1.9/2.0/2.2 to 1.0/1.1/1.2/1.3/1.4/1.5/1.6
+Sand King
+ -Epicenter manacost reduced from 175/350/500/650/750/850/900 to 125/200/275/350/425/500/575
+ -Epicenter radius changed from 275/325/375/425/475/525/575/650/675/700 to 450/480/510/540/570/600/630/660/690/720/750/780
+Spectre:
+	-Dispersion refuse damage changed from 16/17/18/19/20/21/22 to 14/15/16/17/18/19/20
+Tinker:
+	-Heat Seeking Missile cooldown incrased from 8 to 10
+	-March of the Machines damage changed from 25/40/50/60/70/80/90 to 25/35/45/55/65/75/85
+	-Defense Matrix bonus status resistance reduced from 50% to 40%
+	-Defense Matrix duration reduced from 10 to 7.5
+Treant Protector:
+	-Nature's Grasp cooldown changed from 20 to 22/21/20/19/18/17/16
+	-Leech Seed movespeed slow increased from 28% to 30%
+	-Overgrowth manacost changed from 150/175/200/225/250/275/300 to 120/200/280/360/440/520/600
+	-Overgrowth damage percent creep reduced from 250% to 200%
+	-Eyes In The Forest manacost reduced from 300 to 200
+	-Eyes In The Forest tree respawn time reduced from 10 to 8
+Troll Warlord:
+	-Berserkers Rage bonus movespeed increased from 10/15/20/25/30/35/40 to 15/20/25/30/35/40/45
+	-Berserkers Rage bonus armor increased from 1/2/3/4/5/6/7 to 3/4/5/6/7/8/9
+	-Berserkers Rage BAT reduced from 1.5 to 1.4
+	-Fervor attack speed increased from 7 to 8
+	-Battle Trance duration changed from 5.0/5.4/5.8/6.2/6.7/7.2/8.0 to 6.0
+	- Battle Trance bonus movespeed reduced from 60%/80%/100%/120%/140%/170%/200% to 20%/25%/30%/35%/40%/45%/50%
+Tusk:
+	-Tag Team bonus damage changed from 30/40/50/60/70/80/90/100 to 25/40/55/70/85/100/115
+	-Tag Team movespeed slow chnaged from 25%/30%/35%/40%/45%/50%/60% to 60%
+	-Tag Team slow duration reduced from 0.5 to 0.4 
+	-Tag Team aura duration reduced from 8 to 6
+	-Walrus PUNCH! crit multiplier reduced from 320%/420%/520%/540%/560%/580%/600% to 300%/320%/340%/360%/380%/400%/420%
+	-Walrus Kick push length increased from 900 to 1200 
+	-Walrus Kick movespeed slow increased from 15% to 25%
+	-Walrus Kick damage increased from 200 to 500
+	-Frozen Sigil manacost increased from 100 to 150
+	-Frozen Sigil attack slow increased from 30 to 65
+Undying:
+	-Decay cooldown changed from 8 to 13/12/11/10/9/8/7
+	-Decay duration increased from 15 to 25
+	-Decay radius increased from 250 to 300
+	-Flash Golem cooldown increased from 40 to 50
+	-Flash Golem damage amplify changed from 30%/35%/40%/45%/50%/55%/60% to 20%/24%/28%/32%/36%/40%/45%
+	-Flash Golem strenghth percentage changed from 50% to 30%/35%/40%/45%/50%/55%/60%
+	-Flash Golem bonus movespeed changed from 30 to 25/30/35/40/45/50/55
+Ursa:
+	-Earthshock cooldown increased from 11/10/9/8/7/6/5 to 12/11/10/9/8/7/6
+	-Earthshock manacost changed from 75/65/45/35/25/10/0 to 50
+	-Earthshock hope height reduced from 350 to 150
+	-Overpower max atacks changed from 3/4/5/6/7/8/9 to 4/5/6/7/8/9/10
+	-Overpower cooldown changed from 10 to 14/13.5/13/12.5/12/11/10
+	-Overpower manacost changed from 45/55/65/75/85/95/100 to 30/40/50/60/70/80/90
+	-Fury Swipes duration increased from 6 to 8
+	-Fury Swipes damage changed from 10/15/20/25/30/35/40 to 10/17/24/31/38/45/55
+Venomancer:
+	-Venomous Gale duration increased from 5 to 7
+	-Posion Sting damage reduced from 25/40/60/80/100/120/140 to 12/20/30/40/50/60/70
+	-Poison Sting duration increased from 3 to 6
+	-Plague Ward hp changed from 75/200/325/350/375/400/500 to 75/125/175/225/275/350/425
+	-Plague Ward damage reduced from 30/45/60/90/110/150/170 to 15/30/45/60/75/90/110
+	-Poison Nova manacost changed from 150/200/250/300/350/400/450 to 150/250/350/450/550/650/750
+	-Poison Nova damage reduced from 100/135/180/275/325/350/400 to 65/100/135/170/205/240/275
+	-Posion Nova cooldown scepter increased from 30 to 40
+	-Poison Nova duration scepter increased from 16 to 18 
+	-Poison Nova damage scepter reduced from 100/135/180/275/325/350/400 to 90/130/170/210/250/300/350
+Viper:
+	-Poison Attack bonus range reduced from 50/75/100/125/150/175/200 to 40/50/60/70/80/90/100
+	-Corrosive Skin damage reduced from 15/25/40/55/75/90/100 to 10/20/30/40/50/60/70
+	-Corrosive Skin damage percent reduced from 35% to 30%
+	- Viper Strike attack speed slow changed from 60/70/80/90/100/110/120 to 45/65/85/105/125/150/175
+	-Viper Strike manacost scepter increased from 125 to 250
+Void Spirit:
+	-Dissimilate manacost changed from 100/110/120/130/130/130 to 100/110/120/130/140/150/160
+
+Warlock:
+	-Fatal Bonds damage share percentage increased from 10%/12%/15%/16%/17%/18%/20% to 12%/14%/16%/18%/20%/22%/25%
+	-Fatal Bonds duration increased from 10/11/12/13/14/15/16 to 12/13/14/15/16/17/18
+	-Shadow Word cast range changed from 500 to 500/525/550/575/600/625/650
+	-Shadow Word damage reduced from 45/55/75/95/120/150/180 to 37/47/65/82/102/115/140
+	-Shadow Word duration increased from 6 to 7
+	-Chaotic Offering golem duration increased from 30 to 45
+Weaver:
+	-Base armor reduced from 0 to -2
+	-Base strenghth reduced from 25 to 20
+	-Base agility reduced from 30 to 25 
+	-Agility gain reduced from 3.4 to 3.2
+	-The Swarm destroy attacks changed from 3/4/5/6/7/8/9 to 3/3/4/4/5/6/7
+	-Time Lapse cooldown changed from 60/50/45/40/35/30/30 to 55/50/45/40/35/30/25
+Windranger:
+	-Power Shot damage changed from 140/225/300/375/425/520/600 to 150/225/300/375/450/525/600
+	-Windrun bonus movespeed increased from 25 to 35
+	-Windrun scepter bonus movespeed increased from 45% to 50%
+	-Focus Fire bonus attack speed increased from 350 to 450
+	-Focus Fire damage reduction increased from -25/-15/-10/0/10/25/35 to -40/-30/-20/-10/0/10/20
+Winter Wyvern:
+	-Arctic Burn bonus attack range reduced from 725 to 425/450/475/500/525/550/600
+	-Arctic Burn movespeed slow changed from 25% to 15%/17%/20%/23%/25%/27%/30%
+	-Arctic Burn manacost scepter reduced from 75 to 50
+	-Splinter Blast damage reduced from 150/250/350/450/550/650/750 to 125/200/275/350/425/500/600
+	-Cold Embrace cast range reduced from 1000 to 900
+	-Cold Embrace manacost changed from 75 to 75/90/105/120/135/150/175
+	-Wimter's Curse manacost reduced from 300/450/600/750/900/1050/1200 to 250/350/450/550/650/750/850
+	-Winter's Cirse bonus attack speed reduced from 50/175/300/425/550/675/800 to 50/95/115/135/150/165/180
+Wisp:
+	-Tether heal amplify changed from 1.0/1.1/1.2/1.3/1.4/1.45/1.5 to 0.65/0.8/0.9/1.0/1.1/1.3/1.5
+	-Tether movespeed chenged from 15% to 9%/10%/11%/12%/13%/14%/15%
+	-Spirits max range reduced from 875 to 700
+	-Overcharge hp regen reduced from 3.0%/3.4%/3.8%/4.2%/4.7%/5.1%/5.5% to 1.5/1.9%/2.3%/2.6%/3.0%/3.2%/3.4%
+	-Relocate cooldown changed from 90/85/80/75/70/65/60 to 75
+	-Relocate manacost changed from 100 to 100/150/200/250/300/350/400
+Witch Doctor:
+	-Voodoo Restoration mana per second increased from 4/7/9/10/11/15/20 to 5/8/11/14/19/25/35
+	-Voodoo Restoration heal increased from 10/15/20/26/30/35/40 to 13/18/24/32/42/55/70
+	-Voodoo Restoration heal percent changed from 0.5%/0.7%/0.8%/1.0%/1.2%/1.3%/1.5% to 0.3%/0.6%/0.9%/1.2%/1.5%/1.8%/2.1%
+Wraith King:
+	-Vampiric aura max skeleton changed from 2/4/6/8 to 2/3/4/5/6/7/8
+	-Vampiric Aura skeleton gold bounty increased from 5 to 30 
+	-Vampiric Aura xp bounty increased from 5 to 30
+	-Vampiric Aura gold bounty increased from 5 to 15
+	-Reincarnation scepter duration increased from 4.5 to 5.5
+	-Talent 15 lvl damage skeleton's reduced from 64 to 45
+Zeus:
+	-Arc Lightning cast range reduced from 950 to 800
+	-Lightning Bolt cast range changed from 700 to 700/725/750/775/800/825/850
+	-Lightning Bolt damage changed from 125/200/250/325/475/525/575 to 140/200/260/330/400/500/600
+	-Lightning Bolt manacost changed from 75/95/115/135/190/240/280 to 75/95/115/135/160/200/240
+	-Lightning Bolt spread aoe increased from 325 to 375
+	-Static Field percent damage changed from 5.0%/5.5%/6.0%/6.5%/7.0%/7.5%/8.0% to 4.0%/4.8%/5.6%/6.4%/7.2%/8.0%/9.0%
+	-Thundergod's Wrath damage changed from 325/425/525/625/725/825/925 to 300/425/550/675/800/925/1050
+
+Item changes:
+	-Heart of Tarrasque 1/2 bonus strength reduced from 40/80 to 35/70
+	-Heart of Tarrasque 1/2 bonus hp reduced from 300/600 to 250/500
+	-Heart of Tarrasque 1/2 health regen reduced from 5%/7% to 1.8%/3.8%
+	-Radiance 1/2/3 damage reduced from 65/115/250 to 60/100/180
+	-Radiance 2/3 aura damage reduced from 125/225 to 100/170
+	-Radiance 1/2/3 blind percents reduced from 17%/17%/20% to 15%/16%/17%
+	-Radiance 1/2/3 aura damage stats reduced from 0.1/0.2/0.3 to 0.08/0.16/0.25
+	-Dimensional Predictor recipe cost increased from 100 to 700
+	-Dimensional Predictor bonus strength reduced from 16 to 12
+	-Dimensional Predictor bonus damage reduced from 30 to 25
+	-Dimensional Predictor bonus magic resistance reduced from 20 to 15
+	-Dimensional Predictor passive cooldown increased from 3 to 4
+	-Dimensional Predictor passive attribute damage reduced from 300% to 220%
+	-Consumption Orb damage changed from 20 to 10 
+	-Fury Shield cooldown increased from 7.5 to 8
+	-Fury Shield bonus stats reduced from 15 to 10
+	-Fury Shield bonus attack speed reduced from 75 to 50 
+	-Fury Shield bonus block damage reduced from 30 to 20
+	-Gliepnir active damage changed from 500 to 350
+	-Enchanted Skull bonus damage increased from 20 to 16
+	-Enchanted Skull disarmor duration increased from 3 to 5
+	-Corrupted skull bonus damage increased from 25 to 45
+	-Corrupted Skull disarmor increased from 5 to 6
+	-Corrupted Skull disarmor duration increased from 4 to 6
+	-Mage Slayer samage changed from 20 to 30
+	-Mage Slayer agility changed from 20 to 25
+	-Mage Slayer spell amp debuff changed from 35 to 40
+	-Monkey King Bar pierce chance changed from 70 to 75
+	-Monkey King Bar pierce damage changed from 75 to 90
+	-Battle Fury 2 recipe cost reduced from 3750 to 1750
+	-Wisdom Shard now grants : 3% spell amplify
+	-Life Cather now grants : 5% spell amplify
+	-Life Cather exp cooldown reduced from 2.5 to 2.1
+	-Soul Stone now grants : 10 % spell amplify
+	-Damned Eye recipe cost increased from 100 to 500
+	-Damned Eye heal constant reduced from 650 to 550 
+	-Damned Eye heal per main stat reduced from 5 to 4.5
+	-Damned Eye bonus armor increased from 3 to 4
+	-Damned Swords maim damage reduced from 120 to 100
+	-Damned Swords maim duration reduced from 5 to 3
+	-Devils Helm bonus damage increased from 50 to 80
+	-Devils Helm disarmor increased from 9 to 10
+	-Devils Helm disarmor duration increased from 5 to 8
+	-Hand of Midas 1/2 xp multiplier changed from 3/6 to 3/5
+	-Hand of Midas 1/2 bonus gold reduced from 250/450 to 200/400
+	-Hand of Midas 1/2 cast range changed from 600/800 to 600/700
+	-Mekansm heal amount changed from 300 to 325
+	-Mekansm manacost changed from 150 to 125
+	-Mekansm armor changed from 2 to 4
+	-Snake boots teleport coldown changed from 45 to 60
+	-Town scroll teleport coldown changed from 35 to 60
+	-Town scroll cost changed from 25 to 35
+	-Skull Basher bash damage changed from 100 to 140
+	-Abyssal 1/2 bash damage changed from 85/100 to 180/250
+	-Magic Wand all stats changed from 15 to 10
+	-Witch Blade coldown changed from 9 to 7.5
+	-Witch Blade bonus intellect changed from 12 to 15
+Neutrall Items:
+Tier 1:
+	-Fairy Trinket manacost reduction changed from 5 to 7
+	-Fairy Trinket spell amplify changed from 15 to 7
+	-Poor Man's Shield agility changed from 5 to 10
+	-Chipped Vest return damage changed from 60/60 to 50/50
+	-Chipped Vest health regen changed from 4 to 8
+Tier 2:	
+	-Vamrace bonus secondary stats changed from 10 to 13 
+	-Vamrace bonus magical resistance changed from 10 to 15 
+	-Vambrace bonus spell amplify changed from 20 to 8
+	-Aquila bonus damage changed from 60 to 35
+	-Aquila bonus strength changed from 7 to 5
+	-Aquila bonus intellect changed from 3 to 5
+	-Aquila aura armor changed from 2 to 4
+	-Aquila bonus mana regen changed from 15 to 12
+	-Dragon scale armor changed from 12 to 10
+	-Dragon scale damage changed from 150 to 100
+	-Essense ring mana regen changed from 2.5 to 4.0
+	-Essense ring health gain from 825 to 800
+	-Grove bow attack speed changed from 70 to 45
+	-Grove bow attack range changed from 150 to 175
+	-Grove bow magical resistance reduction changed from 15 to 17
+	-Quick Silver movespeed changed from 15 to 10
+Tier 3:	
+	-Ceremonial Robe mana changed from 350 to 600
+	-Cloak of Flames armor changed from 5 to 8
+	-Cloak of Flames burn damage changed from 150 to 175
+	-Cloak of Flames burn radius changed from 400 to 450
+	-Craggy Coat armor bonus changed from 13 to 15
+	-Elven Tunic atack speed changed from 50 to 85
+	-Elven Tunic evasion changed from 20 to 24
+	-Elven Tunic movespeed changed from 8 to 12
+	-Enchanted Quiver attack range changed 400 to 300 
+	-Enchanted Quiver damage changed from 700 to 500
+	-Enchanted Quiver coldown changed from 1.5 to 2.0
+	-Greater Faerie Fire damage changed from 250 to 125
+	-Mind Breaker magic damage changed from 100 to 90 
+	-Mind Breaker attack speed changed from 130 to 100
+	-Mind Breaker ability cooldown changed from 6.0 to 7.0 
+	-Orb of Destruction disarmor changed from 12 to 10
+	-Paladins Sword damage changed from 60 to 45
+	-Paladins Sword heal amplify changed from 50 to 35
+	-Physic Headband percentage bonus int changed from 25 to 20
+	-Physic Headband ability cooldown changed from 15 to 12
+	-Quickening Charm health regen changed from 75 to 50
+	-Spider Legs turnrate changed from 30 to 50
+	-Spider Legs movespeed changed from 31 to 55
+	-Titan Sliver damage pct changed from 45 to 30
+	-Titan Sliver status resistance changed from 30 to 15
+	-Titan Sliver magical resistance changed from 30 to 20 
+	-Helm Of The Undying deleted
+Tier 4:
+	-Dimensional Doorway coldown changed from 90 to 75
+	-Havoc Hammer damage changed from 160 to 125
+	-Havoc Hammer strength changed from 30 to 40
+	-Ninja Gear agility changed from 200 to 150 
+	-Ninja Gear movespeed changed from 30 to 35
+	-Penta Edged Sword maim slow changed from 20 to 25 
+	-Penta Edged Sword attack slow changed from 60 to 90
+	-Penta Edged Sword maim duration changed from 3 to 4
+	-Spell Prism bonus stats changed from 15 to 18
+	-Spell Prism bonus mana regen changed from 15 to 18
+	-Stormcrafter damage changed from 800 to 1200
+	-Trident status resistance changed from changed from 30 to 18
+Tier 5:
+	-Apex primary stat changed from 300 to 250
+	-Force Boots coldown changed from 4 to 6
+	-Fusion Rune charges changed from 15 to 8
+	-Mirror Shield coldown changed from 4 to 6
+	-Seer Stone mana regen changed from 10 to 25
+	-Woodland Striders movespeed changed from 50 to 120
+	-Woodland Striders hp regen changed from 70 to 100
+	-Woodland Striders tree duration changed from 60 to 45
+	
